@@ -25,6 +25,6 @@
 [One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction](https://arxiv.org/abs/2208.07181)</br>
 [WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction](https://arxiv.org/abs/2205.03883)</br>
 [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/abs/2207.08208)</br>
-[Three-Dimensional Medical Image Synthesis with Denoising
-Diffusion Probabilistic Models](https://openreview.net/pdf?id=Oz7lKWVh45H)</br>
+[Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models](https://openreview.net/pdf?id=Oz7lKWVh45H)</br>
 [Diffusion Models for Implicit Image Segmentation Ensembles](https://www.researchgate.net/publication/356819454_Diffusion_Models_for_Implicit_Image_Segmentation_Ensembles)</br>
+[Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models](https://arxiv.org/abs/2206.03461), June 2022</br>
