@@ -10,3 +10,10 @@
 
 
 ## Paper list
+
+
+[Diffusion Deformable Model for 4D Temporal Medical Image Generation, June 2022](https://arxiv.org/abs/2206.13295)</br>
+[Diffusion Models for Medical Anomaly Detection, March 2022](https://arxiv.org/pdf/2203.04306v1.pdf)</br>
+
+
+
