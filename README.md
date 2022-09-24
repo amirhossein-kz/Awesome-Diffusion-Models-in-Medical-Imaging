@@ -21,7 +21,10 @@
 [Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction, March 2022](https://arxiv.org/abs/2203.03623)</br>
 [MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation, June 2022](https://arxiv.org/abs/2202.01479)</br>
 [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/abs/2203.04306)</br>
-[Adaptive Diffusion Priors for Accelerated MRI Reconstruction](https://arxiv.org/abs/2207.05876), July 2022</br>
-[One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction](https://arxiv.org/abs/2208.07181), August 2022</br>
-[WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction](https://arxiv.org/abs/2205.03883), May 2022</br>
-[Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/abs/2112.03145), December 2021</br>
+[Adaptive Diffusion Priors for Accelerated MRI Reconstruction](https://arxiv.org/abs/2207.05876)</br>
+[One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction](https://arxiv.org/abs/2208.07181)</br>
+[WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction](https://arxiv.org/abs/2205.03883)</br>
+[Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/abs/2207.08208)</br>
+[Three-Dimensional Medical Image Synthesis with Denoising
+Diffusion Probabilistic Models](https://openreview.net/pdf?id=Oz7lKWVh45H)</br>
+[Diffusion Models for Implicit Image Segmentation Ensembles](https://www.researchgate.net/publication/356819454_Diffusion_Models_for_Implicit_Image_Segmentation_Ensembles)</br>
