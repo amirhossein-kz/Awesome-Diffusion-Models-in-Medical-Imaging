@@ -29,3 +29,4 @@
 [Diffusion Models for Implicit Image Segmentation Ensembles](https://www.researchgate.net/publication/356819454_Diffusion_Models_for_Implicit_Image_Segmentation_Ensembles)</br>
 [Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models](https://arxiv.org/abs/2206.03461), June 2022</br>
 [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/abs/2112.03145), December 2021</br>
+[2022 - A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images](https://arxiv.org/abs/2208.14125), August 2022</br>
