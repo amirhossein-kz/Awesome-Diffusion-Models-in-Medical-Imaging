@@ -63,11 +63,9 @@
 
 24. [Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem](https://arxiv.org/abs/2206.04119), June 2022</br>
 
-25. [NUQ: A Noise Metric for Diffusion MRI via Uncertainty Discrepancy Quantification](https://arxiv.org/abs/2203.01921), March 2022</br>  
+25. [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/abs/2209.08256), September 2022</br>
 
-26. [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/abs/2209.08256), September 2022</br>
-
-27. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>     
+26. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>     
   
  
  
