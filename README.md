@@ -4,9 +4,12 @@
 
 
 ## Survey papers
-1. [Diffusion Models in Vision: A Survey, September 2022](https://arxiv.org/pdf/2209.04747.pdf) </br>
+1. [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf), September 2022</br>
 
-2. [Diffusion Models: A Comprehensive Survey of Methods and Applications, September 2022](https://arxiv.org/pdf/2209.00796) </br>
+2. [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796), September 2022</br>
+
+3. [A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.00796), September 2022</br>
+
 
 
 
@@ -52,6 +55,19 @@
 
 20. [PET image denoising based on denoising diffusion probabilistic models](https://arxiv.org/abs/2209.06167), September 2022</br> 
 
-21. [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/pdf/2203.12621), March 2022</br>  
+21. [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/pdf/2203.12621), March 2022</br> 
+
+22. [Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction](https://arxiv.org/abs/2209.00835), September 2022</br> 
+
+23. [A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion](https://arxiv.org/abs/2207.03430), July 2022</br>  
+
+24. [Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem](https://arxiv.org/abs/2206.04119), June 2022</br>
+
+25. [NUQ: A Noise Metric for Diffusion MRI via Uncertainty Discrepancy Quantification](https://arxiv.org/abs/2203.01921), March 2022</br>  
+
+26. [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/abs/2209.08256), September 2022</br>
+
+27. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>     
+  
  
  
