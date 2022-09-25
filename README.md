@@ -45,3 +45,6 @@
 16. [Diffusion Models for Implicit Image Segmentation Ensembles](https://arxiv.org/abs/2112.03145), December 2021</br>
 
 17. [A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images](https://arxiv.org/abs/2208.14125), August 2022</br>
+
+18. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/abs/2201.11760), January 2022</br>
+ 
