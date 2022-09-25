@@ -63,7 +63,8 @@
 
 24. [Can segmentation models be trained with fully synthetically generated data?](https://arxiv.org/abs/2209.08256), September 2022</br>
 
-25. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>     
-  
+25. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>
+
+26. [What is Healthy? Generative Counterfactual Diffusion for Lesion Localization](https://arxiv.org/pdf/2207.12268), July 2022</br>  
  
  
