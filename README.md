@@ -12,21 +12,21 @@
 
 ## Paper list
 
-1. [Diffusion Deformable Model for 4D Temporal Medical Image Generation, June 2022](https://arxiv.org/abs/2206.13295)</br>
+1. [Diffusion Deformable Model for 4D Temporal Medical Image Generation](https://arxiv.org/abs/2206.13295), June 2022</br>
 
-2. [Diffusion Models for Medical Anomaly Detection, March 2022](https://arxiv.org/pdf/2203.04306v1.pdf)</br>
+2. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306v1.pdf), March 2022</br>
 
-3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models”, June 2022](https://arxiv.org/abs/2111.08005)</br>
+3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005), June 2022</br>
 
-4. [Score-based diffusion models for accelerated MRI, July 2022](https://arxiv.org/abs/2110.05243)</br>
+4. [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243), July 2022</br>
 
-5. [Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction, March 2022](https://arxiv.org/abs/2112.05146)</br>
+5. [Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction](https://arxiv.org/abs/2112.05146), March 2022</br>
 
-6. [Towards performant and reliable undersampled MR reconstruction via diffusion model sampling, March 2022](https://arxiv.org/abs/2203.04292)</br>
+6. [Towards performant and reliable undersampled MR reconstruction via diffusion model sampling](https://arxiv.org/abs/2203.04292), March 2022</br>
 
-7. [Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction, March 2022](https://arxiv.org/abs/2203.03623)</br>
+7. [Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction](https://arxiv.org/abs/2203.03623), March 2022</br>
 
-8. [MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation, June 2022](https://arxiv.org/abs/2202.01479)</br>
+8. [MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation](https://arxiv.org/abs/2202.01479), June 2022</br>
 
 9. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/abs/2203.04306)</br>
 
@@ -47,4 +47,11 @@
 17. [A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images](https://arxiv.org/abs/2208.14125), August 2022</br>
 
 18. [Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model](https://arxiv.org/abs/2201.11760), January 2022</br>
+
+19. [AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf), June 2022</br>
+
+20. [PET image denoising based on denoising diffusion probabilistic models](https://arxiv.org/abs/2209.06167), September 2022</br> 
+
+21. [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/pdf/2203.12621), March 2022</br>  
+ 
  
