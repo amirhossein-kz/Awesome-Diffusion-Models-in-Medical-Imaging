@@ -67,4 +67,12 @@
 
 26. [What is Healthy? Generative Counterfactual Diffusion for Lesion Localization](https://arxiv.org/pdf/2207.12268), July 2022</br>  
  
- 
+27. [The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models](https://arxiv.org/pdf/2204.02641), April 2022</br>  
+
+28. [Improving Diffusion Models for Inverse Problems using Manifold Constraints](https://arxiv.org/pdf/2206.00941), June 2022</br> 
+
+29. [Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease](https://arxiv.org/pdf/2206.13393), June 2022</br> 
+
+30. [High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/pdf/2208.05481), August 2022</br> 
+
+31. [Brain Imaging Generation with Latent Diffusion Models](https://arxiv.org/pdf/2209.07162), September 2022</br> 
