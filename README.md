@@ -1,4 +1,4 @@
-# Diffusion-Models-for-Medical-Image-Analysis-A-Complete-Survey
+# Diffusion Models in Medical Imageing
 
 
 
