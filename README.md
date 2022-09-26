@@ -8,7 +8,7 @@
 
 2. [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796), September 2022</br>
 
-3. [A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.00796), September 2022</br>
+3. [A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf), September 2022</br>
 
 
 
