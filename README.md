@@ -1,4 +1,4 @@
-# Diffusion Models in Medical Imageing
+# Diffusion Models in Medical Imaging
 
 
 
