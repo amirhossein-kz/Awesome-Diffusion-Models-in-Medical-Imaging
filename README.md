@@ -75,4 +75,8 @@
 
 30. [High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/pdf/2208.05481), August 2022</br> 
 
-31. [Brain Imaging Generation with Latent Diffusion Models](https://arxiv.org/pdf/2209.07162), September 2022</br> 
+31. [Brain Imaging Generation with Latent Diffusion Models](https://arxiv.org/pdf/2209.07162), September 2022
+
+32. [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://arxiv.org/abs/2209.14566), September 2022</br> 
+
+33. [Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models](https://arxiv.org/abs/2209.12104), September 2022</br>
