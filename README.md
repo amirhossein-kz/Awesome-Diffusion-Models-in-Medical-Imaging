@@ -80,3 +80,5 @@
 32. [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://arxiv.org/abs/2209.14566), September 2022</br> 
 
 33. [Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models](https://arxiv.org/abs/2209.12104), September 2022</br>
+
+34. [A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images](https://arxiv.org/pdf/2209.13167), September 2022</br>
