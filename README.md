@@ -71,7 +71,7 @@
 
 28. [Improving Diffusion Models for Inverse Problems using Manifold Constraints](https://arxiv.org/pdf/2206.00941), June 2022</br> 
 
-29. [Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease](https://arxiv.org/pdf/2206.13393), June 2022</br> 
+29. [Robust Compressed Sensing MRI with Deep Generative Priors](https://arxiv.org/abs/2108.01368), August 2021</br> 
 
 30. [High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/pdf/2208.05481), August 2022</br> 
 
