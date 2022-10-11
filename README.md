@@ -99,3 +99,6 @@ This is a collection of awesome articles about diffusion models in the medical i
 34. [A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images](https://arxiv.org/pdf/2209.13167), September 2022</br>
 
 35. [Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20x Speedup](https://arxiv.org/pdf/2209.15136), September 2022</br>
+
+36. [Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains](https://arxiv.org/abs/2210.04133), Octobor 2022</br>
+
