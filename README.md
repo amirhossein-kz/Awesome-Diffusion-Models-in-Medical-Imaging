@@ -34,17 +34,17 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 2. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/abs/2203.04306v1.pdf), March 2022</br>
 
-3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005), November 2022</br>
+3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005), November 2021</br>
 
-4. [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243), July 2022</br>
+4. [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243), October 2021</br>
 
-5. [Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction](https://arxiv.org/abs/2112.05146), March 2022</br>
+5. [Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction](https://arxiv.org/abs/2112.05146), December 2021</br>
 
 6. [Towards performant and reliable undersampled MR reconstruction via diffusion model sampling](https://arxiv.org/abs/2203.04292), March 2022</br>
 
 7. [Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction](https://arxiv.org/abs/2203.03623), March 2022</br>
 
-8. [MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation](https://arxiv.org/abs/2202.01479), June 2022</br>
+8. [MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation](https://arxiv.org/abs/2202.01479), February 2022</br>
 
 9. [Adaptive Diffusion Priors for Accelerated MRI Reconstruction](https://arxiv.org/abs/2207.05876), July 2022</br>
 
@@ -102,7 +102,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 36. [Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains](https://arxiv.org/abs/2210.04133), Octobor 2022</br>
 
-37. [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://arxiv.org/abs/2112.05149), October, 2022</br>
+37. [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://arxiv.org/abs/2112.05149), December, 2021</br>
 
 37. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2022</br>
 
