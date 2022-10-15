@@ -102,7 +102,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 36. [Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains](https://arxiv.org/abs/2210.04133), Octobor 2022</br>
 
-37. [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://arxiv.org/abs/2112.05149), October, 2021</br>
+37. [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://arxiv.org/abs/2112.05149), October, 2022</br>
 
-37. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2021</br>
+37. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2022</br>
 
