@@ -32,9 +32,9 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 1. [Diffusion Deformable Model for 4D Temporal Medical Image Generation](https://arxiv.org/abs/2206.13295), June 2022</br>
 
-2. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306v1.pdf), March 2022</br>
+2. [Diffusion Models for Medical Anomaly Detection](https://arxiv.org/abs/2203.04306v1.pdf), March 2022</br>
 
-3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005), June 2022</br>
+3. [Solving Inverse Problems in Medical Imaging with Score-Based Generative Models](https://arxiv.org/abs/2111.08005), November 2022</br>
 
 4. [Score-based diffusion models for accelerated MRI](https://arxiv.org/abs/2110.05243), July 2022</br>
 
@@ -68,7 +68,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 19. [PET image denoising based on denoising diffusion probabilistic models](https://arxiv.org/abs/2209.06167), September 2022</br> 
 
-20. [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/pdf/2203.12621), March 2022</br> 
+20. [MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion](https://arxiv.org/abs/2203.12621), March 2022</br> 
 
 21. [Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction](https://arxiv.org/abs/2209.00835), September 2022</br> 
 
@@ -80,25 +80,25 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 25. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>
 
-26. [What is Healthy? Generative Counterfactual Diffusion for Lesion Localization](https://arxiv.org/pdf/2207.12268), July 2022</br>  
+26. [What is Healthy? Generative Counterfactual Diffusion for Lesion Localization](https://arxiv.org/abs/2207.12268), July 2022</br>  
  
-27. [The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models](https://arxiv.org/pdf/2204.02641), April 2022</br>  
+27. [The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models](https://arxiv.org/abs/2204.02641), April 2022</br>  
 
-28. [Improving Diffusion Models for Inverse Problems using Manifold Constraints](https://arxiv.org/pdf/2206.00941), June 2022</br> 
+28. [Improving Diffusion Models for Inverse Problems using Manifold Constraints](https://arxiv.org/abs/2206.00941), June 2022</br> 
 
 29. [Robust Compressed Sensing MRI with Deep Generative Priors](https://arxiv.org/abs/2108.01368), August 2021</br> 
 
-30. [High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/pdf/2208.05481), August 2022</br> 
+30. [High-Frequency Space Diffusion Models for Accelerated MRI](https://arxiv.org/abs/2208.05481), August 2022</br> 
 
-31. [Brain Imaging Generation with Latent Diffusion Models](https://arxiv.org/pdf/2209.07162), September 2022
+31. [Brain Imaging Generation with Latent Diffusion Models](https://arxiv.org/abs/2209.07162), September 2022
 
 32. [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://arxiv.org/abs/2209.14566), September 2022</br> 
 
-33. [Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models](https://arxiv.org/pdf/2209.12104), September 2022</br>
+33. [Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models](https://arxiv.org/abs/2209.12104), September 2022</br>
 
-34. [A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images](https://arxiv.org/pdf/2209.13167), September 2022</br>
+34. [A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images](https://arxiv.org/abs/2209.13167), September 2022</br>
 
-35. [Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20x Speedup](https://arxiv.org/pdf/2209.15136), September 2022</br>
+35. [Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20x Speedup](https://arxiv.org/abs/2209.15136), September 2022</br>
 
 36. [Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains](https://arxiv.org/abs/2210.04133), Octobor 2022</br>
 
