@@ -104,5 +104,5 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 37. [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://arxiv.org/abs/2112.05149), December, 2021</br>
 
-37. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2022</br>
+38. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2022</br>
 
