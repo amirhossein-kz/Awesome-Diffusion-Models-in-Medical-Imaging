@@ -106,5 +106,4 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 38. [Anatomically constrained CT image translation for heterogeneous blood vessel segmentation](https://arxiv.org/abs/2210.01713), October, 2022</br>
 
-39. [Mining the manifolds of deep generative models for multiple data-consistent solutions of ill-posed tomographic imaging problems](https://arxiv.org/abs/2202.05311), February, 2022</br>
 
