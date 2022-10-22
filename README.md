@@ -295,7 +295,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models** \
 *Namrata Anand, Tudor Achim* \
 [26th May, 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2205.15019)] [[Project](https://nanand2.github.io/proteins/)] [[Github](https://github.com/lucidrains/ddpm-ipa-protein-generation)]
+[[Paper](https://arxiv.org/abs/2205.15019)] [[Github](https://github.com/lucidrains/ddpm-ipa-protein-generation)] [[Project](https://nanand2.github.io/proteins/)]
 
 **A Score-based Geometric Model for Molecular Dynamics Simulations** \
 *Fang Wu, Qiang Zhang, Xurui Jin, Yinghui Jiang, Stan Z. Li* \
