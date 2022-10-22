@@ -251,12 +251,12 @@ This is a collection of awesome articles about diffusion models in the medical i
 **Equivariant Energy-Guided SDE for Inverse Molecular Design** \
 *Fan Bao, Min Zhao, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu* \
 [30th Sep., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2209.15408)] \
+[[Paper](https://arxiv.org/abs/2209.15408)]
 
 **Protein structure generation via folding diffusion** \
 *Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu, Ava P. Amini* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] 
-30 Sep 2022
+[30th Sep., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2209.15611)] 
 
 **MDM: Molecular Diffusion Model for 3D Molecule Generation** \
 *Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
