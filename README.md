@@ -6,7 +6,7 @@
 This is a collection of awesome articles about diffusion models in the medical imaging.
 
 ## Contents
-- [Survey Papers](#survey-papers)
+- [Survey Papers in Vision](#survey-papers)
 
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
@@ -18,13 +18,22 @@ This is a collection of awesome articles about diffusion models in the medical i
   - [Multi-task](#multi-task)
   - [Other Applications](#other-application)
   
-## Survey Papers
-1. [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747.pdf), September 2022</br>
+## Survey Papers in Vision
 
-2. [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796), September 2022</br>
+**Diffusion Models in Vision: A Survey** \
+*Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah* \
+[10th Sep., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/pdf/2209.04747.pdf)] [[Github](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)]
 
-3. [A Survey on Generative Diffusion Model](https://arxiv.org/pdf/2209.02646.pdf), September 2022</br>
+**A Survey on Generative Diffusion Model** \
+*Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
+[6th Sep., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] [[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)]
 
+**Diffusion Models: A Comprehensive Survey of Methods and Applications** \
+*Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
+[2nd Sep., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/pdf/2209.00796)] [[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
 
 ## Papers
 
