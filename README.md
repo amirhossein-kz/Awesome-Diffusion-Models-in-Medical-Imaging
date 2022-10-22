@@ -121,6 +121,11 @@ This is a collection of awesome articles about diffusion models in the medical i
 [2nd Sep., 2022] [IEEE TMI, 2022] \
 [[Paper](https://arxiv.org/abs/2209.00835)] 
 
+**One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction** \
+*Chentao Cao, Zhuo-Xu Cui, Shaonan Liu, Dong Liang, Yanjie Zhu* \
+[15th Aug., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2208.07181)] [[Github](https://github.com/yqx7150/hkgm)]
+
 **High-Frequency Space Diffusion Models for Accelerated MRI** \
 *Chentao Cao, Zhuo-Xu Cui, Shaonan Liu, Dong Liang, Yanjie Zhu* \
 [10th Aug., 2022] [arXiv, 2022] \
@@ -135,6 +140,11 @@ This is a collection of awesome articles about diffusion models in the medical i
 *Hyungjin Chung<sup>1</sup>, Byeongsu Sim<sup>1</sup>, Dohoon Ryu, Jong Chul Ye* \
 [2nd Jun., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2206.00941)] 
+
+**WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction** \
+*Hyungjin Chung<sup>1</sup>, Byeongsu Sim<sup>1</sup>, Dohoon Ryu, Jong Chul Ye* \
+[8th May, 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2205.03883)] [[Github](https://github.com/yqx7150/wkgm)]
 
 **Towards performant and reliable undersampled MR reconstruction via diffusion model sampling**<br>
 *Cheng Peng, Pengfei Guo, S. Kevin Zhou, Vishal Patel, Rama Chellappa*<br>
@@ -151,21 +161,26 @@ This is a collection of awesome articles about diffusion models in the medical i
  [3rd Feb., 2022] [arXiv, 2022]<br>
  [[Paper](https://arxiv.org/abs/2202.01479)] [[Github](https://github.com/mrirecon/spreco)]
 
-**Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
-*Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
-[15th Nov., 2021] [NeurIPS Workshop, 2021] <br>
- [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)]
-
 **Come-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction** <br>
 *Hyungjin Chung, Byeongsu Sim, Jong Chul Ye*<br>
 [9th Dec., 2021] [CVPR, 2021]<br>
 [[Paper](https://arxiv.org/abs/2112.05146)]
 
+**Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
+*Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
+[15th Nov., 2021] [NeurIPS Workshop, 2021] <br>
+ [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)]
+ 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 [8th Oct., 2021] [MIA, 2021]<br>
 [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)]
- 
+
+**Robust Compressed Sensing MRI with Deep Generative Priors** <br>
+*Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
+[3rd Aug., 2021] [NeurIPS, 2021]<br>
+[[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/utcsilab/csgm-mri-langevin)]
+
 ---
 
 ### Image Generation
@@ -188,6 +203,11 @@ This is a collection of awesome articles about diffusion models in the medical i
 **Diffusion Deformable Model for 4D Temporal Medical Image Generation** \
 *Boah Kim, Jong Chul Ye* \
 [27th Jan., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2206.13295)] [[Github](https://github.com/torchddm/ddm)]
+
+**Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
+*Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao* \
+[22nd Apr., 2022] [MIDL, 2022] \
 [[Paper](https://arxiv.org/abs/2206.13295)] [[Github](https://github.com/torchddm/ddm)]
 
 ---
@@ -299,17 +319,10 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 **Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains** \
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
-[9th Oct., 2022] [arXiv, 2021] \
+[9th Oct., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2210.04133)]
 
-
-10. [One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction](https://arxiv.org/abs/2208.07181), August 2022</br>
-
-11. [WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction](https://arxiv.org/abs/2205.03883), May 2022</br>
-
-13. [Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models](https://openreview.net/pdf?id=Oz7lKWVh45H), April 2022</br>
-
-25. [Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism](https://arxiv.org/abs/2208.10373), August 2022</br>
-
-29. [Robust Compressed Sensing MRI with Deep Generative Priors](https://arxiv.org/abs/2108.01368), August 2021</br> 
-
+**Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism** \
+*Yongwei Wang, Yuan Li, Zhiqi Shen* \
+[22nd Aug., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2208.10373)]
