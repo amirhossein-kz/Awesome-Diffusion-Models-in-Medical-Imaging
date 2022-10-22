@@ -6,17 +6,18 @@
 This is a collection of awesome articles about diffusion models in the medical imaging.
 
 ## Contents
-- [Survey Papers in Vision](#survey-papers)
+- [Survey Papers in Vision](#survey-papers-in-vision)
 
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
   - [Denoising](#denoising)
   - [Segmentation](#segmentation)
-  - [Image-to-Image Translation](#image-to-timage-translation)
+  - [Image-to-Image Translation](#image-to-image-translation)
   - [Reconstruction](#reconstruction)
   - [Image Generation](#image-generation)
+  - [Biology and Molecular Generation](#biology-and-molecular-generation)
   - [Multi-task](#multi-task)
-  - [Other Applications](#other-application)
+  - [Other Applications](#other-applications)
   
 ## Survey Papers in Vision
 
@@ -221,25 +222,6 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 ---
 
-### Multi-task
-
-**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** \
-*Walter H. L. Pinaya, Mark S. Graham, Robert Gray, Pedro F Da Costa, Petru-Daniel Tudosiu, Paul Wright, Yee H. Mah, Andrew D. MacKinnon, James T. Teo, Rolf Jager, David Werring, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardos* \
-[7th Jun., 2022] [MICCAI, 2022] \
-[[Paper](https://arxiv.org/abs/2206.03461)] 
-
-**MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion** \
-*Hyungjin Chung, Eun Sun Lee, Jong Chul Ye* \
-[23rd Mar., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2203.12621)]
-
-**Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
-*Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
-[4th Oct., 2022] [BMVC, 2022] \
-[[Paper](https://arxiv.org/abs/2210.01713)]
-
----
-
 ### Biology and Molecular Generation
 
 **Protein Sequence and Structure Co-Design with Equivariant Translation** \
@@ -321,6 +303,25 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Shitong Luo, Chence Shi, Minkai Xu, Jian Tang* \
 [22th May, 2021] [NeurIPS, 2021] \
 [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]
+
+---
+
+### Multi-task
+
+**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** \
+*Walter H. L. Pinaya, Mark S. Graham, Robert Gray, Pedro F Da Costa, Petru-Daniel Tudosiu, Paul Wright, Yee H. Mah, Andrew D. MacKinnon, James T. Teo, Rolf Jager, David Werring, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardos* \
+[7th Jun., 2022] [MICCAI, 2022] \
+[[Paper](https://arxiv.org/abs/2206.03461)] 
+
+**MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion** \
+*Hyungjin Chung, Eun Sun Lee, Jong Chul Ye* \
+[23rd Mar., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2203.12621)]
+
+**Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
+*Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
+[4th Oct., 2022] [BMVC, 2022] \
+[[Paper](https://arxiv.org/abs/2210.01713)]
 
 ---
 
