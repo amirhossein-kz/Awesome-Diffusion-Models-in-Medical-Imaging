@@ -43,7 +43,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 **The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models** \
 *Julia Wolleb<sup>1</sup>, Robin Sandkühler<sup>1</sup>, Florentin Bieder, Philippe C. Cattin* \
 [6th Apr., 2022] [arXiv, 2022]<br>
-[[Paper](https://arxiv.org/abs/2204.02641)] \
+[[Paper](https://arxiv.org/abs/2204.02641)]
 
 **Diffusion Models for Medical Anomaly Detection** <br>
 *Julia Wolleb, Florentin Bieder, Robin Sandkühler, Philippe C. Cattin*<br>
@@ -109,7 +109,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 **DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** \
 *Boah Kim, Inhwa Han, Jong Chul Ye* \
-[9th Dec., 2021] [arXiv, 2021] \
+[9th Dec., 2021] [ECCV, 2022] \
 [[Paper](https://arxiv.org/abs/2112.05149)] 
 
 ---
@@ -148,12 +148,12 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 **Towards performant and reliable undersampled MR reconstruction via diffusion model sampling**<br>
 *Cheng Peng, Pengfei Guo, S. Kevin Zhou, Vishal Patel, Rama Chellappa*<br>
- [8th Mar., 2022] [arXiv, 2022]<br>
+ [8th Mar., 2022] [MICCAI, 2022]<br>
  [[Paper](https://arxiv.org/abs/2203.04292)] [[Github](https://github.com/cpeng93/diffuserecon)]
  
 **Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction**<br>
 *Yutong Xie, Quanzheng Li*<br>
- [5th Mar., 2022] [arXiv, 2022]<br>
+ [5th Mar., 2022] [MICCAI, 2022]<br>
  [[Paper](https://arxiv.org/abs/2203.03623)] [[Github](https://github.com/Theodore-PKU/MC-DDPM)]
  
 **MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation**<br>
@@ -216,7 +216,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 **Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** \
 *Walter H. L. Pinaya, Mark S. Graham, Robert Gray, Pedro F Da Costa, Petru-Daniel Tudosiu, Paul Wright, Yee H. Mah, Andrew D. MacKinnon, James T. Teo, Rolf Jager, David Werring, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardos* \
-[7th Jun., 2022] [arXiv, 2022] \
+[7th Jun., 2022] [MICCAI, 2022] \
 [[Paper](https://arxiv.org/abs/2206.03461)] 
 
 **MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion** \
