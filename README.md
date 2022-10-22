@@ -47,7 +47,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 
 **Diffusion Models for Medical Anomaly Detection** <br>
 *Julia Wolleb, Florentin Bieder, Robin Sandkühler, Philippe C. Cattin*<br>
-[8th Mar., 2022] [arXiv, 2022]<br>
+[8th Mar., 2022] [MICCAI, 2022]<br>
 [[Paper](https://arxiv.org/abs/2203.04306)] [[Github](https://github.com/JuliaWolleb/diffusion-anomaly)]
  
 ---
