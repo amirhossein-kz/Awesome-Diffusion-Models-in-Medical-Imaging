@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging.:fire::fire:
+:fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging:fire::fire:
 
 ## Contents
 - [Survey Papers in Vision](#survey-papers-in-vision)
@@ -16,6 +16,7 @@
   - [Reconstruction](#reconstruction)
   - [Image Generation](#image-generation)
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
+  - [Adversarial Attacks](#adversarial-attacks)
   - [Multi-task](#multi-task)
   - [Other Applications](#other-applications)
   
@@ -306,6 +307,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ---
 
+### Adversarial Attacks
+
+**Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism** \
+*Yongwei Wang, Yuan Li, Zhiqi Shen* \
+[22nd Aug., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2208.10373)]
+
+---
+
 ### Multi-task
 
 **Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** \
@@ -331,8 +341,3 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
 [9th Oct., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2210.04133)]
-
-**Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism** \
-*Yongwei Wang, Yuan Li, Zhiqi Shen* \
-[22nd Aug., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2208.10373)]
