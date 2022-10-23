@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This is a collection of awesome articles about diffusion models in the medical imaging.
+:fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging.:fire::fire:
 
 ## Contents
 - [Survey Papers in Vision](#survey-papers-in-vision)
@@ -48,7 +48,7 @@ This is a collection of awesome articles about diffusion models in the medical i
 **AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise** \
 *Julian Wyatt, Adam Leach, Sebastian M. Schmon, Chris G. Willcocks* \
 [1st Jun., 2022] [CVPR Workshop, 2022] \
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)] [[Github](https://github.com/Julian-Wyatt/AnoDDPM)
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)] [[Github](https://github.com/Julian-Wyatt/AnoDDPM)]
 
 **The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models** \
 *Julia Wolleb<sup>1</sup>, Robin Sandkühler<sup>1</sup>, Florentin Bieder, Philippe C. Cattin* \
