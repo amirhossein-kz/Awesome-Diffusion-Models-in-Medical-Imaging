@@ -318,6 +318,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Multi-task
 
+**Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
+*Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
+[4th Oct., 2022] [BMVC, 2022] \
+[[Paper](https://arxiv.org/abs/2210.01713)]
+
 **Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models** \
 *Walter H. L. Pinaya, Mark S. Graham, Robert Gray, Pedro F Da Costa, Petru-Daniel Tudosiu, Paul Wright, Yee H. Mah, Andrew D. MacKinnon, James T. Teo, Rolf Jager, David Werring, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardos* \
 [7th Jun., 2022] [MICCAI, 2022] \
@@ -327,11 +332,6 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Hyungjin Chung, Eun Sun Lee, Jong Chul Ye* \
 [23rd Mar., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2203.12621)]
-
-**Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
-*Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
-[4th Oct., 2022] [BMVC, 2022] \
-[[Paper](https://arxiv.org/abs/2210.01713)]
 
 ---
 
