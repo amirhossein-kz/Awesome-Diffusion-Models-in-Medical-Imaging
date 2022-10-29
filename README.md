@@ -18,11 +18,16 @@
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
   - [Inpainting](#inpainting)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [Text-to-Image](#text-to-image)
   - [Time Series](#time-series)
   - [Multi-task](#multi-task)
-  - [Other Applications](#other-applications)
   
 ## Survey Papers in Vision
+
+**Efficient Diffusion Models for Vision: A Survey** \
+*Anwaar Ulhaq, Naveed Akhtar, Ganna Pogrebna* \
+[7th Oct., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2210.09292)]
 
 **Diffusion Models in Vision: A Survey** \
 *Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah* \
@@ -328,6 +333,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ---
 
+### Text-to-Image
+
+**Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains** \
+*Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
+[9th Oct., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2210.04133)]
+
+---
+
 ### Time Series
 
 **Restoration of Time-Series Medical Data with Diffusion Model** \
@@ -354,11 +368,3 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 [23rd Mar., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2203.12621)]
 
----
-
-### Other Applications
-
-**Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains** \
-*Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
-[9th Oct., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2210.04133)]
