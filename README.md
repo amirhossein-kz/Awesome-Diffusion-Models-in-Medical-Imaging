@@ -59,7 +59,7 @@
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)] [[Github](https://github.com/Julian-Wyatt/AnoDDPM)]
 
 **The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models** \
-*Julia Wolleb<sup>1</sup>, Robin Sandkühler<sup>1</sup>, Florentin Bieder, Philippe C. Cattin* \
+*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin* \
 [6th Apr., 2022] [arXiv, 2022]<br>
 [[Paper](https://arxiv.org/abs/2204.02641)]
 
@@ -102,7 +102,7 @@
 [[Paper](https://arxiv.org/abs/2209.08256)] 
 
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
-*Julia Wolleb<sup>1</sup>, Robin Sandkühler<sup>1</sup>, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
+*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
 [6th Dec., 2021] [MIDL, 2021] \
 [[Paper](https://arxiv.org/abs/2112.03145)][[Github](https://github.com/juliawolleb/diffusion-based-segmentation)]
 
@@ -155,12 +155,12 @@
 [[Paper](https://arxiv.org/abs/2207.05876)]
 
 **Improving Diffusion Models for Inverse Problems using Manifold Constraints** \
-*Hyungjin Chung<sup>1</sup>, Byeongsu Sim<sup>1</sup>, Dohoon Ryu, Jong Chul Ye* \
+*Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye* \
 [2nd Jun., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2206.00941)] 
 
 **WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction** \
-*Hyungjin Chung<sup>1</sup>, Byeongsu Sim<sup>1</sup>, Dohoon Ryu, Jong Chul Ye* \
+*Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye* \
 [8th May, 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2205.03883)] [[Github](https://github.com/yqx7150/wkgm)]
 
