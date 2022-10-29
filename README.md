@@ -16,6 +16,7 @@
   - [Reconstruction](#reconstruction)
   - [Image Generation](#image-generation)
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
+  - [Inpainting](#inpainting)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Multi-task](#multi-task)
   - [Other Applications](#other-applications)
@@ -304,6 +305,16 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Shitong Luo, Chence Shi, Minkai Xu, Jian Tang* \
 [22th May, 2021] [NeurIPS, 2021] \
 [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]
+
+
+---
+
+### Inpainting
+
+**Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report** \
+*Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Mana Moassefi, Sanaz Vahdati, Bradley J. Erickson* \
+[21st Oct., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2210.12113)] [[Github](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)] [[Online Tool](https://1f1f559d51c361e2.gradio.app/)]
 
 ---
 
