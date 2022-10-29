@@ -98,7 +98,7 @@
 
 **Can segmentation models be trained with fully synthetically generated data?** \
 *Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Petru-Daniel Tudosiu, Mark S Graham, Tom Vercauteren, M Jorge Cardoso* \
-[17th Sep., 2022] [arXiv, 2021] \
+[17th Sep., 2022] [SASHIMI , 2022] \
 [[Paper](https://arxiv.org/abs/2209.08256)] 
 
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
