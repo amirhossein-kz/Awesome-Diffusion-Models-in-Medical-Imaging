@@ -210,7 +210,7 @@
 
 **Brain Imaging Generation with Latent Diffusion Models** \
 *Walter H. L. Pinaya, Petru-Daniel Tudosiu, Jessica Dafflon, Pedro F da Costa, Virginia Fernandez, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
-[15th Sep., 2022] [arXiv, 2022] \
+[15th Sep., 2022] [MICCAI Workshop, 2022] \
 [[Paper](https://arxiv.org/abs/2209.07162)] 
 
 **A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images** \
