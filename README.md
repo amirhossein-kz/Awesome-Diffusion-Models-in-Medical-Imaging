@@ -18,6 +18,7 @@
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
   - [Inpainting](#inpainting)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [Time Series](#time-series)
   - [Multi-task](#multi-task)
   - [Other Applications](#other-applications)
   
@@ -324,6 +325,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Yongwei Wang, Yuan Li, Zhiqi Shen* \
 [22nd Aug., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2208.10373)]
+
+---
+
+### Time Series
+
+**Restoration of Time-Series Medical Data with Diffusion Model** \
+*Jiwoon Lee, Cheolsoo Park* \
+[6th Oct., 2022] [arXiv, 2022] \
+[[Paper](https://www.researchgate.net/profile/Jiwoon-Lee-3/publication/363520751_Restoration_of_Time-Series_Medical_Data_with_Diffusion_Model/links/63210895071ea12e362ee672/Restoration-of-Time-Series-Medical-Data-with-Diffusion-Model.pdf)]
 
 ---
 
