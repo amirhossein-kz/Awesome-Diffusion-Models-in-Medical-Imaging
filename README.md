@@ -91,7 +91,7 @@
 
 ### Segmentation
 
-**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model ** \
+**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 [1sth Nov., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2210.17408)] 
