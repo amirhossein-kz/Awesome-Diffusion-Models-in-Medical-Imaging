@@ -213,6 +213,16 @@
 
 ### Image Generation
 
+**Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
+*Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
+[2nd Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.01323)] 
+
+**Spot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models** \
+*Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
+[2nd Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.00902)] 
+
 **A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images** \
 *Puria Azadi Moghadam, Sanne Van Dalen, Karina C. Martin, Jochen Lennerz, Stephen Yip, Hossein Farahani, Ali Bashashati* \
 [27th Sep., 2022] [arXiv, 2022] \
