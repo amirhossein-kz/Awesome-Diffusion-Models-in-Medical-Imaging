@@ -219,7 +219,7 @@
 [[Paper](https://arxiv.org/abs/2211.01323)] 
 
 **Spot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models** \
-*Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
+*Hazrat Ali, Shafaq Murad, Zubair Shah* \
 [2nd Nov., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2211.00902)] 
 
