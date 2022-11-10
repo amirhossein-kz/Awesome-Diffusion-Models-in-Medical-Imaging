@@ -213,6 +213,11 @@
 
 ### Image Generation
 
+**Medical Diffusion -- Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
+*Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
+[7th Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.03364)] 
+
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
 [2nd Nov., 2022] [arXiv, 2022] \
