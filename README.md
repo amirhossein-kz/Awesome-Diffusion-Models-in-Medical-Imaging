@@ -5,6 +5,17 @@
 
 :fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging:fire::fire:
 
+:loudspeaker: Our survey paper published on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
+## Citation
+```
+@article{kazerouni2022diffusion,
+  title={Diffusion Models for Medical Image Analysis: A Comprehensive Survey},
+  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
+  journal={arXiv preprint arXiv:2211.07804},
+  year={2022}
+}
+```
+
 ## Contents
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
