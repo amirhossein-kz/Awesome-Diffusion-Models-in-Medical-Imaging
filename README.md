@@ -234,6 +234,11 @@
 
 ### Image Generation
 
+**Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding** \
+*Zijiao Chen, Jiaxin Qing, Tiange Xiang, Wan Lin Yue, Juan Helen Zhou* \
+[13th Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.06956)] 
+
 **An unobtrusive quality supervision approach for medical image annotation** \
 *Sonja Kunzmann, Mathias Öttl, Prathmesh Madhu, Felix Denzinger, Andreas Maier* \
 [11th Nov., 2022] [arXiv, 2022] \
