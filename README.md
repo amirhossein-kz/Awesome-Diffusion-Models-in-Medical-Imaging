@@ -165,6 +165,11 @@
 
 ### Reconstruction
  
+**Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models** \
+*Hyungjin Chung, Dohoon Ryu, Michael T. McCann, Marc L. Klasky, Jong Chul Ye* \
+[19th Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.10655)] 
+
 **Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction** \
 *Zhuo-Xu Cui, Chentao Cao, Shaonan Liu, Qingyong Zhu, Jing Cheng, Haifeng Wang, Yanjie Zhu, Dong Liang* \
 [2nd Sep., 2022] [IEEE TMI, 2022] \
