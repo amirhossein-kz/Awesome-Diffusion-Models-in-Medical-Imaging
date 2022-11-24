@@ -396,6 +396,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Text-to-Image
 
+**RoentGen: Vision-Language Foundation Model for Chest X-ray Generation** \
+*Pierre Chambon, Christian Bluethgen, Jean-Benoit Delbrouck, Rogier Van der Sluijs, Małgorzata Połacin, Juan Manuel Zambrano Chaves, Tanishq Mathew Abraham, Shivanshu Purohit, Curtis P. Langlotz, Akshay Chaudhari* \
+[23rd Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.12737.pdf)]
+
 **Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains** \
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
 [9th Oct., 2022] [arXiv, 2022] \
