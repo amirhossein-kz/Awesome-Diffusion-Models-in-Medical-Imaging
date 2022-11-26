@@ -165,10 +165,20 @@
 
 ### Reconstruction
  
+**DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction** \
+*Jiaming Liu, Rushil Anirudh, Jayaraman J. Thiagarajan, Stewart He, K. Aditya Mohan, Ulugbek S. Kamilov, Hyojin Kim* \
+[22nd Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.12340)] 
+
 **Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models** \
 *Hyungjin Chung, Dohoon Ryu, Michael T. McCann, Marc L. Klasky, Jong Chul Ye* \
 [19th Nov., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2211.10655)] 
+
+**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction** \
+*Wenjun Xia, Wenxiang Cong, Ge Wang* \
+[18th Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.10388)] 
 
 **Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction** \
 *Zhuo-Xu Cui, Chentao Cao, Shaonan Liu, Qingyong Zhu, Jing Cheng, Haifeng Wang, Yanjie Zhu, Dong Liang* \
