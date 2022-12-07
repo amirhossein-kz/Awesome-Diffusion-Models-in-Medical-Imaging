@@ -88,15 +88,15 @@
 [29th Sep., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2209.15136)]
 
-**Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
-*Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
-[27th Jan., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2201.11760)] [[Github](https://github.com/DeweiHu/OCT_DDPM)]
-
 **PET image denoising based on denoising diffusion probabilistic models** \
 *Kuang Gong, Keith A. Johnson, Georges El Fakhri, Quanzheng Li, Tinsu Pan* \
 [13th Sep., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2209.06167)]
+
+**Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
+*Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
+[27th Jan., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2201.11760)] [[Github](https://github.com/DeweiHu/OCT_DDPM)]
 
 ---
 
@@ -202,7 +202,7 @@
 
 **Improving Diffusion Models for Inverse Problems using Manifold Constraints** \
 *Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye* \
-[2nd Jun., 2022] [arXiv, 2022] \
+[2nd Jun., 2022] [NeurIPS, 2022] \
 [[Paper](https://arxiv.org/abs/2206.00941)] 
 
 **WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction** \
@@ -296,7 +296,7 @@
 
 **Diffusion Deformable Model for 4D Temporal Medical Image Generation** \
 *Boah Kim, Jong Chul Ye* \
-[27th Jan., 2022] [arXiv, 2022] \
+[27th Jan., 2022] [MICCAI, 2022] \
 [[Paper](https://arxiv.org/abs/2206.13295)] [[Github](https://github.com/torchddm/ddm)]
 
 **Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
@@ -427,7 +427,7 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 **Restoration of Time-Series Medical Data with Diffusion Model** \
 *Jiwoon Lee, Cheolsoo Park* \
-[6th Oct., 2022] [arXiv, 2022] \
+[6th Oct., 2022] [ICCE-Asia, 2022] \
 [[Paper](https://www.researchgate.net/profile/Jiwoon-Lee-3/publication/363520751_Restoration_of_Time-Series_Medical_Data_with_Diffusion_Model/links/63210895071ea12e362ee672/Restoration-of-Time-Series-Medical-Data-with-Diffusion-Model.pdf)]
 
 ---
