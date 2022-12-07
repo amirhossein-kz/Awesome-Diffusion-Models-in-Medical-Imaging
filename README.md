@@ -211,7 +211,7 @@
 [[Paper](https://arxiv.org/abs/2206.00941)] 
 
 **WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction** \
-*Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye* \
+*Zongjiang Tu, Die Liu, Xiaoqing Wang, Chen Jiang, Pengwen Zhu, Minghui Zhang, Shanshan Wang, Dong Liang, Qiegen Liu* \
 [8th May, 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2205.03883)] [[Github](https://github.com/yqx7150/wkgm)]
 
