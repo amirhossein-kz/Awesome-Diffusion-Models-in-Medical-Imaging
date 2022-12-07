@@ -95,7 +95,7 @@
 
 **Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
 *Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
-[27th Jan., 2022] [arXiv, 2022] \
+[27th Jan., 2022] [Medical Imaging 2022: Image Processing] \
 [[Paper](https://arxiv.org/abs/2201.11760)] [[Github](https://github.com/DeweiHu/OCT_DDPM)]
 
 ---
