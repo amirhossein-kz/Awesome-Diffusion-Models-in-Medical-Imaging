@@ -191,7 +191,7 @@
 [[Paper](https://arxiv.org/abs/2209.00835)] 
 
 **One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction** \
-*Chentao Cao, Zhuo-Xu Cui, Shaonan Liu, Dong Liang, Yanjie Zhu* \
+*Hong Peng, Chen Jiang, Jing Cheng, Minghui Zhang, Shanshan Wang, Dong Liang, Qiegen Liu* \
 [15th Aug., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2208.07181)] [[Github](https://github.com/yqx7150/hkgm)]
 
