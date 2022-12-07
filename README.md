@@ -110,7 +110,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 [1st Nov., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2210.17408)] 
+[[Paper](https://arxiv.org/abs/2211.00611)] 
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
