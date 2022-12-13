@@ -165,6 +165,11 @@
 
 ### Reconstruction
  
+**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging** \
+*Bin Huang, Liu Zhang, Shiyu Lu, Boyu Lin, Weiwen Wu, Qiegen Liu* \
+[7th Dec., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2212.03630)]  
+ 
 **DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction** \
 *Jiaming Liu, Rushil Anirudh, Jayaraman J. Thiagarajan, Stewart He, K. Aditya Mohan, Ulugbek S. Kamilov, Hyojin Kim* \
 [22nd Nov., 2022] [arXiv, 2022] \
