@@ -35,6 +35,11 @@
   
 ## Survey Papers in Vision
 
+**Diffusion Models for Medical Image Analysis: A Comprehensive Survey** \
+*Amirhossein Kazerouni, Ehsan Khodapanah Aghdam, Moein Heidari, Reza Azad, Mohsen Fayyaz, Ilker Hacihaliloglu, Dorit Merhof* \
+[14th Nov., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2211.07804)]
+
 **Efficient Diffusion Models for Vision: A Survey** \
 *Anwaar Ulhaq, Naveed Akhtar, Ganna Pogrebna* \
 [7th Oct., 2022] [arXiv, 2022] \
@@ -263,6 +268,11 @@
 ---
 
 ### Image Generation
+
+**SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation** \
+*Jee Seok Yoon, Chenghao Zhang, Heung-Il Suk, Jia Guo, Xiaoxiao Li* \
+[16th Dec., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2212.08228)] 
 
 **Diffusion Probabilistic Models beat GANs on Medical Images** \
 *Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
