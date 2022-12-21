@@ -269,10 +269,15 @@
 
 ### Image Generation
 
+**Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model** \
+*Wei Peng, Ehsan Adeli, Qingyu Zhao, Kilian M Pohl* \
+[15th Dec., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2212.08034)] 
+
 **SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation** \
 *Jee Seok Yoon, Chenghao Zhang, Heung-Il Suk, Jia Guo, Xiaoxiao Li* \
 [16th Dec., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2212.08228)] 
+[[Paper](https://arxiv.org/abs/2212.08228)]
 
 **Diffusion Probabilistic Models beat GANs on Medical Images** \
 *Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
