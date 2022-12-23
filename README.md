@@ -28,6 +28,7 @@
   - [Image Generation](#image-generation)
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
   - [Inpainting](#inpainting)
+  - [Registration](#registration)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Text-to-Image](#text-to-image)
   - [Time Series](#time-series)
@@ -160,11 +161,6 @@
 *Xiangxi Meng, Yuning Gu, Yongsheng Pan, Nizhuan Wang, Peng Xue, Mengkang Lu, Xuming He, Yiqiang Zhan, Dinggang Shen* \
 [7th Jul., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2207.03430)]
-
-**DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** \
-*Boah Kim, Inhwa Han, Jong Chul Ye* \
-[9th Dec., 2021] [ECCV, 2022] \
-[[Paper](https://arxiv.org/abs/2112.05149)] 
 
 ---
 
@@ -423,6 +419,14 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 [22th May, 2021] [NeurIPS, 2021] \
 [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]
 
+---
+
+### Registration
+
+**DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** \
+*Boah Kim, Inhwa Han, Jong Chul Ye* \
+[9th Dec., 2021] [ECCV, 2022] \
+[[Paper](https://arxiv.org/abs/2112.05149)] 
 
 ---
 
