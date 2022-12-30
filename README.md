@@ -165,11 +165,16 @@
 ---
 
 ### Reconstruction
- 
+
 **Universal Generative Modeling in Dual-domain for Dynamic MR Imaging** \
 *Chuanming Yu, Yu Guan, Ziwen Ke, Dong Liang, Qiegen Liu* \
 [15th Dec., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2212.07599)]   
+ 
+**SPIRiT-Diffusion: SPIRiT-driven Score-Based Generative Modeling for Vessel Wall imaging** \
+*Chentao Cao, Zhuo-Xu Cui, Jing Cheng, Sen Jia, Hairong Zheng, Dong Liang, Yanjie Zhu* \
+[14th Dec., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/abs/2212.11274)]   
  
 **One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging** \
 *Bin Huang, Liu Zhang, Shiyu Lu, Boyu Lin, Weiwen Wu, Qiegen Liu* \
