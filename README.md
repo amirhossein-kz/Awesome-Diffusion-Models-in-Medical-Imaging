@@ -461,10 +461,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Text-to-Image
 
+**Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images** \
+*Mohamed Akrout, Bálint Gyepesi, Péter Holló, Adrienn Poór, Blága Kincső, Stephen Solis, Katrina Cirone, Jeremy Kawahara, Dekker Slade, Latif Abid, Máté Kovács, István Fazekas* \
+[12th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.04802)]
+
 **RoentGen: Vision-Language Foundation Model for Chest X-ray Generation** \
 *Pierre Chambon, Christian Bluethgen, Jean-Benoit Delbrouck, Rogier Van der Sluijs, Małgorzata Połacin, Juan Manuel Zambrano Chaves, Tanishq Mathew Abraham, Shivanshu Purohit, Curtis P. Langlotz, Akshay Chaudhari* \
 [23rd Nov., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2211.12737.pdf)]
+[[Paper](https://arxiv.org/abs/2211.12737)]
 
 **Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains** \
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari* \
