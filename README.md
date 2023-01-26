@@ -513,6 +513,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Other Applications
 
+**DiffusionCT: Latent Diffusion Model for CT Image Standardization** \
+*Md Selim, Jie Zhang, Michael A. Brooks, Ge Wang, Jin Chen* \
+[20th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.08815)]
+
 **Diffusion Model based Semi-supervised Learning on Brain Hemorrhage Images for Efficient Midline Shift Quantification** \
 *Shizhan Gong, Cheng Chen, Yuqi Gong, Nga Yan Chan, Wenao Ma, Calvin Hoi-Kwan Mak, Jill Abrigo, Qi Dou* \
 [1st Jan., 2023] [arXiv, 2023] \
