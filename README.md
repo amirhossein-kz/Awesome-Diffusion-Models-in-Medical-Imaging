@@ -66,6 +66,11 @@
 
 ### Anomaly Detection
 
+**The role of noise in denoising models for anomaly detection in medical images** \
+*Antanas Kascenas, Pedro Sanchez, Patrick Schrempf, Chaoyang Wang, William Clackett, Shadia S. Mikhael, Jeremy P. Voisey, Keith Goatman, Alexander Weir, Nicolas Pugeault, Sotirios A. Tsaftaris, Alison Q. O'Neil* \
+[19th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.08330)] [[Github](https://github.com/AntanasKascenas/DenoisingAE)]
+
 **What is Healthy? Generative Counterfactual Diffusion for Lesion Localization** \
 *Pedro Sanchez, Antanas Kascenas, Xiao Liu, Alison Q. O'Neil, Sotirios A. Tsaftaris* \
 [25th Jul., 2022] [MICCAI Workshop, 2022] \
