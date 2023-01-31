@@ -281,6 +281,11 @@
 
 ### Image Generation
 
+**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy** \
+*Yongyi Shi, Ge Wang* \
+[16th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.06604)] 
+
 **Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model** \
 *Wei Peng, Ehsan Adeli, Qingyu Zhao, Kilian M Pohl* \
 [15th Dec., 2022] [arXiv, 2022] \
