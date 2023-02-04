@@ -153,6 +153,11 @@
 
 ### Image-to-Image Translation
 
+**Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion** \
+*Zihao Wang, Yingyu Yang, Maxime Sermesant, Hervé Delingette, Ona Wu* \
+[31st Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.13743)] 
+
 **Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields** \
 *Xie Taofeng, Cao Chentao, Cui Zhuoxu, Li Fanshi, Wei Zidong, Zhu Yanjie, Li Ye, Liang Dong, Jin Qiyu, Chen Guoqing, Wang Haifeng* \
 [16th Nov., 2022] [arXiv, 2022] \
@@ -176,6 +181,11 @@
 ---
 
 ### Reconstruction
+
+**Diffusion Denoising for Low-Dose-CT Model** \
+*Runyi Li* \
+[27th Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.11482)]  
 
 **Annealed Score-Based Diffusion Model for MR Motion Artifact Reduction** \
 *Gyutaek Oh, Jeong Eun Lee, Jong Chul Ye* \
