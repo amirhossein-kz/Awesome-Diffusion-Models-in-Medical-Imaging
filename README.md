@@ -114,6 +114,11 @@
 
 ### Segmentation
 
+**MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
+*Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
+[19th jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.11798)] 
+
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
 [11th Nov., 2022] [arXiv, 2022] \
