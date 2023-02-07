@@ -526,7 +526,7 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 **MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion** \
 *Hyungjin Chung, Eun Sun Lee, Jong Chul Ye* \
-[23rd Mar., 2022] [arXiv, 2022] \
+[23rd Mar., 2022] [IEEE TMI, 2022] \
 [[Paper](https://arxiv.org/abs/2203.12621)]
 
 ---
