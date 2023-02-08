@@ -279,7 +279,7 @@
 
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
-[15th Nov., 2021] [NeurIPS Workshop, 2021] <br>
+[15th Nov., 2021] [ICLR, 2022] <br>
  [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)]
  
 **Score-based diffusion models for accelerated MRI** <br>
