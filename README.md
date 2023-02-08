@@ -146,7 +146,7 @@
 
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
 *Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
-[6th Dec., 2021] [MIDL, 2021] \
+[6th Dec., 2021] [MIDL, 2022] \
 [[Paper](https://arxiv.org/abs/2112.03145)][[Github](https://github.com/juliawolleb/diffusion-based-segmentation)]
 
 ---
