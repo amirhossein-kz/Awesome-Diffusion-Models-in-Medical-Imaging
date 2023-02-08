@@ -417,7 +417,7 @@
 
 **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** \
 *Brian L. Trippe, Jason Yim, Doug Tischer, Tamara Broderick, David Baker, Regina Barzilay, Tommi Jaakkola* \
-[8th Jun., 2022] [CoRR, 2022] \
+[8th Jun., 2022] [ICLR, 2023] \
 [[Paper](https://arxiv.org/abs/2206.04119)] 
 
 **Torsional Diffusion for Molecular Conformer Generation** \
