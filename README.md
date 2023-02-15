@@ -95,6 +95,11 @@
 
 ### Denoising
 
+**DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models** \
+*Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari* \
+[6th Feb., 2023] [ICLR, 2023] \
+[[Paper](https://arxiv.org/abs/2302.03018)] [[Github](https://github.com/StanfordMIMI/DDM2)]
+
 **Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup** \
 *Wenjun Xia, Qing Lyu, Ge Wang* \
 [29th Sep., 2022] [arXiv, 2022] \
