@@ -66,6 +66,11 @@
 
 ### Anomaly Detection
 
+**Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection** \
+*Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud* \
+[28th Feb., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2302.14696)]
+
 **The role of noise in denoising models for anomaly detection in medical images** \
 *Antanas Kascenas, Pedro Sanchez, Patrick Schrempf, Chaoyang Wang, William Clackett, Shadia S. Mikhael, Jeremy P. Voisey, Keith Goatman, Alexander Weir, Nicolas Pugeault, Sotirios A. Tsaftaris, Alison Q. O'Neil* \
 [19th Jan., 2023] [arXiv, 2023] \
@@ -300,6 +305,11 @@
 ---
 
 ### Image Generation
+
+**Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion** \
+*Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew J. Clarkson, Dean C. Barratt, Yipeng Hu* \
+[3rd Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.02094)] 
 
 **Denoising Diffusion Probabilistic Models for Generation of Realistic Fully-Annotated Microscopy Image Data Sets** \
 *Dennis Eschweiler, Johannes Stegmaier* \
