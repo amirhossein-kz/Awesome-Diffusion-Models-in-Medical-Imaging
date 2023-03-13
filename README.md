@@ -301,6 +301,11 @@
 
 ### Image Generation
 
+**Denoising Diffusion Probabilistic Models for Generation of Realistic Fully-Annotated Microscopy Image Data Sets** \
+*Dennis Eschweiler, Johannes Stegmaier* \
+[2nd Jan., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2301.10227)] [[Github](https://github.com/stegmaierj/DiffusionModelsForImageSynthesis)] [[Synthetic Dataset](https://osf.io/dnp65/)]
+
 **Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy** \
 *Yongyi Shi, Ge Wang* \
 [16th Jan., 2023] [arXiv, 2023] \
