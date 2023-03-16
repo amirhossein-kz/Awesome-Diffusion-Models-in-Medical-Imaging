@@ -146,7 +146,7 @@
 
 **Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation** \
 *Boah Kim, Yujin Oh, Jong Chul Ye* \
-[19th Sep., 2022] [arXiv, 2022] \
+[19th Sep., 2022] [ICLR, 2023] \
 [[Paper](https://arxiv.org/abs/2209.14566)] 
 
 **Can segmentation models be trained with fully synthetically generated data?** \
