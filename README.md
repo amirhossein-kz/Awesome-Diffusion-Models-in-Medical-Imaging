@@ -124,9 +124,14 @@
 
 ### Segmentation
 
+**Score-Based Generative Models for Medical Image Segmentation using Signed Distance Functions** \
+*Lea Bogensperger, Dominik Narnhofer, Filip Ilic, Thomas Pock* \
+[10th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.05966)]
+
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
-[19th jan., 2023] [arXiv, 2023] \
+[19th Jan., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2301.11798)] 
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
@@ -191,6 +196,11 @@
 ---
 
 ### Reconstruction
+
+**Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
+*Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
+[15th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08440)]
 
 **Diffusion Denoising for Low-Dose-CT Model** \
 *Runyi Li* \
