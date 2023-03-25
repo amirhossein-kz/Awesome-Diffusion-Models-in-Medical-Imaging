@@ -9,7 +9,7 @@
 #### Citation
 ```
 @article{kazerouni2022diffusion,
-  title={Diffusion Models for Medical Image Analysis: A Comprehensive Survey},
+  title={Diffusion models for medical image analysis: A comprehensive survey},
   author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
   journal={arXiv preprint arXiv:2211.07804},
   year={2022}
