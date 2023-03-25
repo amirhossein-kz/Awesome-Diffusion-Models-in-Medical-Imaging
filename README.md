@@ -67,6 +67,11 @@
 
 ### Anomaly Detection
 
+**Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
+*Cosmin I Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel* \
+[15th Mar., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2303.08452)]
+
 **Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI** \
 *Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 [7th Mar., 2023] [MIDL, 2023]<br>
@@ -130,6 +135,11 @@
 
 ### Segmentation
 
+**Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
+*Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
+[18th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.10326)] [[Github](https://github.com/ge-xing/Diff-UNet)]
+
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
 [15th Mar., 2023][arXiv, 2023] \
@@ -184,6 +194,11 @@
 
 ### Image-to-Image Translation
 
+**Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels** \
+*Jan Oscar Cross-Zamirski, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb* \
+[15th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08863)] [[Github](https://github.com/crosszamirski/guided-I2I)]
+
 **Diffusion Models for Contrast Harmonization of Magnetic Resonance Images** \
 *Alicia Durrer, Julia Wolleb, Florentin Bieder, Tim Sinnecker, Matthias Weigel, Robin Sandkühler, Cristina Granziera, Özgür Yaldizli, Philippe C. Cattin* \
 [14th Mar., 2023] [arXiv, 2023] \
@@ -217,6 +232,11 @@
 ---
 
 ### Reconstruction
+
+**Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
+*Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
+[15th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08440)]
 
 **Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition** \
 *Hyungjin Chung, Suhyeon Lee, Jong Chul Ye* \
