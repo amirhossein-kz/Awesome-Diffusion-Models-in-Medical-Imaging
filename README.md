@@ -29,6 +29,7 @@
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
   - [Registration](#registration)
   - [Inpainting](#inpainting)
+  - [Classification](#classification)
   - [Object Detection](#object-detection)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Text-to-Image](#text-to-image)
@@ -362,6 +363,11 @@
 
 ### Image Generation
 
+**Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis** \
+*Tobias Weber, Michael Ingrisch, Bernd Bischl, David Rügamer* \
+[20th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.11224)]
+
 **Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection** \
 *Nikhil J. Dhinagar, Sophia I. Thomopoulos, Emily Laltoo, Paul M. Thompson* \
 [14th Mar., 2023] [arXiv, 2023] \
@@ -553,6 +559,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Mana Moassefi, Sanaz Vahdati, Bradley J. Erickson* \
 [21st Oct., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2210.12113)] [[Github](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)] [[Online Tool](https://1f1f559d51c361e2.gradio.app/)]
+
+---
+
+### Classification
+
+**DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification** \
+*Yijun Yang, Huazhu Fu, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Lei Zhu* \
+[19th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.10610)] [[Github](https://github.com/scott-yjyang/DiffMIC)]
 
 ---
 
