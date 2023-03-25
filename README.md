@@ -66,6 +66,11 @@
 
 ### Anomaly Detection
 
+**Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI** \
+*Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[7th Mar., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2303.03758)]
+
 **Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection** \
 *Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud* \
 [28th Feb., 2023] [arXiv, 2023]<br>
