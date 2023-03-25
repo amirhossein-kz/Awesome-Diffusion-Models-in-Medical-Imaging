@@ -578,6 +578,16 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Other Applications
 
+**AugDiff: Diffusion based Feature Augmentation for Multiple Instance Learning in Whole Slide Image** \
+*Zhuchen Shao, Liuxi Dai, Yifeng Wang, Haoqian Wang, Yongbing Zhang* \
+[11th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06371)]
+
+**Brain Diffuser: An End-to-End Brain Image to Brain Network Pipeline** \
+*Xuhang Chen, Baiying Lei, Chi-Man Pun, Shuqiang Wang* \
+[11th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06410)]
+
 **DiffusionCT: Latent Diffusion Model for CT Image Standardization** \
 *Md Selim, Jie Zhang, Michael A. Brooks, Ge Wang, Jin Chen* \
 [20th Jan., 2023] [arXiv, 2023] \
