@@ -130,6 +130,11 @@
 
 ### Segmentation
 
+**Stochastic Segmentation with Conditional Categorical Diffusion Models** \
+*Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
+[15th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08888)] [[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation)]
+
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
 [10th Mar., 2023][arXiv, 2023] \
@@ -178,6 +183,11 @@
 ---
 
 ### Image-to-Image Translation
+
+**Diffusion Models for Contrast Harmonization of Magnetic Resonance Images** \
+*Alicia Durrer, Julia Wolleb, Florentin Bieder, Tim Sinnecker, Matthias Weigel, Robin Sandkühler, Cristina Granziera, Özgür Yaldizli, Philippe C. Cattin* \
+[14th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08189)] 
 
 **Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion** \
 *Zihao Wang, Yingyu Yang, Maxime Sermesant, Hervé Delingette, Ona Wu* \
@@ -331,6 +341,11 @@
 ---
 
 ### Image Generation
+
+**Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection** \
+*Nikhil J. Dhinagar, Sophia I. Thomopoulos, Emily Laltoo, Paul M. Thompson* \
+[14th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.08216)]
 
 **Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion** \
 *Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew J. Clarkson, Dean C. Barratt, Yipeng Hu* \
