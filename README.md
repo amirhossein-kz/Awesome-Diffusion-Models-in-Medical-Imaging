@@ -68,8 +68,8 @@
 
 **Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI** \
 *Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
-[7th Mar., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2303.03758)]
+[7th Mar., 2023] [MIDL, 2023]<br>
+[[Paper](https://arxiv.org/abs/2303.03758)] [[Github](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD)]
 
 **Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection** \
 *Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud* \
@@ -129,6 +129,11 @@
 
 ### Segmentation
 
+**Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
+*Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
+[10th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06040)] [[Github](https://github.com/mathpluscode/ImgX-DiffSeg)]
+
 **Score-Based Generative Models for Medical Image Segmentation using Signed Distance Functions** \
 *Lea Bogensperger, Dominik Narnhofer, Filip Ilic, Thomas Pock* \
 [10th Mar., 2023][arXiv, 2023] \
@@ -167,7 +172,7 @@
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
 *Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
 [6th Dec., 2021] [MIDL, 2022] \
-[[Paper](https://arxiv.org/abs/2112.03145)][[Github](https://github.com/juliawolleb/diffusion-based-segmentation)]
+[[Paper](https://arxiv.org/abs/2112.03145)] [[Github](https://github.com/juliawolleb/diffusion-based-segmentation)]
 
 ---
 
@@ -201,6 +206,11 @@
 ---
 
 ### Reconstruction
+
+**Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition** \
+*Hyungjin Chung, Suhyeon Lee, Jong Chul Ye* \
+[10th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.05754)]
 
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
 *Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
