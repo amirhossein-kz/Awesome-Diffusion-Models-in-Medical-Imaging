@@ -27,8 +27,9 @@
   - [Reconstruction](#reconstruction)
   - [Image Generation](#image-generation)
   - [Biology and Molecular Generation](#biology-and-molecular-generation)
-  - [Inpainting](#inpainting)
   - [Registration](#registration)
+  - [Inpainting](#inpainting)
+  - [Object Detection](#object-detection)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Text-to-Image](#text-to-image)
   - [Time Series](#time-series)
@@ -517,6 +518,15 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 *Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Mana Moassefi, Sanaz Vahdati, Bradley J. Erickson* \
 [21st Oct., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2210.12113)] [[Github](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)] [[Online Tool](https://1f1f559d51c361e2.gradio.app/)]
+
+---
+
+### Object Detection
+
+**Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays** \
+*Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Anjany Sekuboyina, Mustafa Gundogar, Bernd Stadlinger, Albert Mehl, Bjoern Menze* \
+[11th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06500)] [[Github](https://github.com/ibrahimethemhamamci/HierarchicalDet)]
 
 ---
 
