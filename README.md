@@ -136,6 +136,11 @@
 
 ### Segmentation
 
+**Diffusion Models for Memory-efficient Processing of 3D Medical Images** \
+*Florentin Bieder, Julia Wolleb, Alicia Durrer, Robin Sandkühler, Philippe C. Cattin* \
+[27th Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.15288)]
+
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
 [18th Mar., 2023][arXiv, 2023] \
