@@ -16,6 +16,18 @@
 }
 ```
 
+## Updates
+- Soon!
+- March 29, 2023: Second release 
+  - Corrected mistakes and fixed typos
+  - Reorganized all sections 
+  - Improved "Introduction"
+  - Changed the "Taxonomy" section to "Theory" and provided a new taxonomy for algorithms
+  - Expanded and provided more comprehensive discussion in "Clinical importance," "Comparative overview," and "Future direction open challenges" sections
+  - Added some new papers in the "Diffusion Models in Action" section
+  - Updated references
+- November 14, 2022: First release
+
 ## Contents
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
