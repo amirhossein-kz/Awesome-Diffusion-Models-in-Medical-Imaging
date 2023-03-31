@@ -256,11 +256,6 @@
 [15th Mar., 2023][arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.08440)]
 
-**Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
-*Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
-[15th Mar., 2023][arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2303.08440)]
-
 **Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition** \
 *Hyungjin Chung, Suhyeon Lee, Jong Chul Ye* \
 [10th Mar., 2023][arXiv, 2023] \
