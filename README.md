@@ -375,6 +375,11 @@
 
 ### Image Generation
 
+**DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding** \
+*Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala* \
+[28th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.15770)]
+
 **Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis** \
 *Tobias Weber, Michael Ingrisch, Bernd Bischl, David Rügamer* \
 [20th Mar., 2023] [arXiv, 2023] \
