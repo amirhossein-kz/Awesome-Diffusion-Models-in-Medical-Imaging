@@ -256,6 +256,11 @@
 
 ### Reconstruction
 
+**Sub-volume-based Denoising Diffusion Probabilistic Model for Cone-beam CT Reconstruction from Incomplete Data** \
+*Wenjun Xia, Chuang Niu, Wenxiang Cong, Ge Wang* \
+[22nd Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.12861)]
+
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
 *Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
 [15th Mar., 2023][arXiv, 2023] \
