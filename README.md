@@ -395,6 +395,11 @@
 [28th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.15770)]
 
+**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis** \
+*Lan Jiang, Ye Mao, Xi Chen, Xiangfeng Wang, Chao Li* \
+[24th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.14081)]
+
 **Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis** \
 *Hadrien Reynaud, Mengyun Qiao, Mischa Dombrowski, Thomas Day, Reza Razavi, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
 [22nd Mar., 2023] [arXiv, 2023] \
