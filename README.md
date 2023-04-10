@@ -380,7 +380,6 @@
 
 ### Image Generation
 
-
 **2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
 *Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
@@ -390,6 +389,11 @@
 *Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala* \
 [28th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.15770)]
+
+**Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis** \
+*Hadrien Reynaud, Mengyun Qiao, Mischa Dombrowski, Thomas Day, Reza Razavi, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
+[22nd Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.12644)] [[Github](https://github.com/HReynaud/EchoDiffusion)] 
 
 **NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** \
 *Aman Shrivastava, P. Thomas Fletcher* \
