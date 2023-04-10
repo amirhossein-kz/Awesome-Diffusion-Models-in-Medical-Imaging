@@ -666,6 +666,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Other Applications
 
+**Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading** \
+*Matthias Keicher, Matan Atad, David Schinz, Alexandra S. Gersing, Sarah C. Foreman, Sophia S. Goller, Juergen Weissinger, Jon Rischewski, Anna-Sophia Dietrich, Benedikt Wiestler, Jan S. Kirschke, Nassir Navab* \
+[21st Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.12031)]
+
 **AugDiff: Diffusion based Feature Augmentation for Multiple Instance Learning in Whole Slide Image** \
 *Zhuchen Shao, Liuxi Dai, Yifeng Wang, Haoqian Wang, Yongbing Zhang* \
 [11th Mar., 2023] [arXiv, 2023] \
