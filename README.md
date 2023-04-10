@@ -375,6 +375,11 @@
 
 ### Image Generation
 
+**2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
+*Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
+[4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
+[[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/acca5c/meta)]
+
 **DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding** \
 *Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala* \
 [28th Mar., 2023] [arXiv, 2023] \
