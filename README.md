@@ -153,6 +153,11 @@
 [27th Mar., 2023][arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.15288)]
 
+**Distribution Aligned Diffusion and Prototype-guided network for Unsupervised Domain Adaptive Segmentation** \
+*Haipeng Zhou, Lei Zhu, Yuyin Zhou* \
+[22nd Mar., 2023][arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.12313)] [[Github](https://github.com/haipengzhou856/DPNet)]
+
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
 [18th Mar., 2023][arXiv, 2023] \
