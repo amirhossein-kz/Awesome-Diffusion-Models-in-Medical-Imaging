@@ -17,9 +17,9 @@
 ```
 
 ## Updates
-- Soon!
-- :sunglasses: April 8, 2023: Our paper is accepted for publication in the Medical Image Analysis Journal (IP: 13.83) :sunglasses:
-- March 29, 2023: Second release 
+- **Third release:** Soon!
+- :sunglasses: April 8, 2023: Our paper is accepted for publication in the **Medical Image Analysis Journal (IF: 13.83)** :sunglasses:
+- **Second release:** March 29, 2023
   - Corrected mistakes and fixed typos
   - Reorganized all sections 
   - Improved "Introduction"
@@ -27,7 +27,7 @@
   - Expanded and provided more comprehensive discussion in "Clinical importance," "Comparative overview," and "Future direction open challenges" sections
   - Added some new papers in the "Diffusion Models in Action" section
   - Updated references
-- November 14, 2022: First release
+- **First release:** November 14, 2022
 
 ## Contents
 - [Survey Papers in Vision](#survey-papers-in-vision)
