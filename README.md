@@ -685,6 +685,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Other Applications
 
+**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution** \
+*Ye Mao, Lan Jiang, Xi Chen, Chao Li* \
+[24th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.13933)]
+
 **Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading** \
 *Matthias Keicher, Matan Atad, David Schinz, Alexandra S. Gersing, Sarah C. Foreman, Sophia S. Goller, Juergen Weissinger, Jon Rischewski, Anna-Sophia Dietrich, Benedikt Wiestler, Jan S. Kirschke, Nassir Navab* \
 [21st Mar., 2023] [arXiv, 2023] \
