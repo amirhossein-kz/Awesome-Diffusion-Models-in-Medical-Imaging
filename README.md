@@ -18,6 +18,7 @@
 
 ## Updates
 - Soon!
+- :sunglasses: April 8, 2023: Our paper is accepted for publication in the Medical Image Analysis Journal (IP: 13.83) :sunglasses:
 - March 29, 2023: Second release 
   - Corrected mistakes and fixed typos
   - Reorganized all sections 
