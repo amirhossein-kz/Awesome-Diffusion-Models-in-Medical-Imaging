@@ -633,6 +633,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Text-to-Image
 
+**Medical diffusion on a budget: textual inversion for medical image generation** \
+*Bram de Wilde, Anindo Saha, Richard P.G. ten Broek, Henkjan Huisman* \
+[23rd Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.13430)]
+
 **Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images** \
 *Mohamed Akrout, Bálint Gyepesi, Péter Holló, Adrienn Poór, Blága Kincső, Stephen Solis, Katrina Cirone, Jeremy Kawahara, Dekker Slade, Latif Abid, Máté Kovács, István Fazekas* \
 [12th Jan., 2023] [arXiv, 2023] \
