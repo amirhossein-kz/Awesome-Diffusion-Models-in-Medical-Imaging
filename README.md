@@ -375,6 +375,7 @@
 
 ### Image Generation
 
+
 **2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
 *Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
@@ -384,6 +385,11 @@
 *Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala* \
 [28th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.15770)]
+
+**NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** \
+*Aman Shrivastava, P. Thomas Fletcher* \
+[20th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.11477)]
 
 **Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis** \
 *Tobias Weber, Michael Ingrisch, Bernd Bischl, David Rügamer* \
