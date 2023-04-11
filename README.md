@@ -125,6 +125,11 @@
 
 ### Denoising
 
+**CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization** \
+*Qi Gao, Zilong Li, Junping Zhang, Yi Zhang, Hongming Shan* \
+[4th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.01814)]
+
 **DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models** \
 *Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari* \
 [6th Feb., 2023] [ICLR, 2023] \
