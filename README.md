@@ -310,7 +310,7 @@
 **Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models** \
 *Hyungjin Chung, Dohoon Ryu, Michael T. McCann, Marc L. Klasky, Jong Chul Ye* \
 [19th Nov., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2211.10655)] 
+[[Paper](https://arxiv.org/abs/2211.10655)] [[Github](https://github.com/HJ-harry/DiffusionMBIR)]
 
 **Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction** \
 *Wenjun Xia, Wenxiang Cong, Ge Wang* \
