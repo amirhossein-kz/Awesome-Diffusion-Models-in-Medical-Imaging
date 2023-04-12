@@ -156,32 +156,32 @@
 
 **Diffusion Models for Memory-efficient Processing of 3D Medical Images** \
 *Florentin Bieder, Julia Wolleb, Alicia Durrer, Robin Sandkühler, Philippe C. Cattin* \
-[27th Mar., 2023][arXiv, 2023] \
+[27th Mar., 2023] [MIDL, 2023] \
 [[Paper](https://arxiv.org/abs/2303.15288)]
 
 **Distribution Aligned Diffusion and Prototype-guided network for Unsupervised Domain Adaptive Segmentation** \
 *Haipeng Zhou, Lei Zhu, Yuyin Zhou* \
-[22nd Mar., 2023][arXiv, 2023] \
+[22nd Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.12313)] [[Github](https://github.com/haipengzhou856/DPNet)]
 
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
-[18th Mar., 2023][arXiv, 2023] \
+[18th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.10326)] [[Github](https://github.com/ge-xing/Diff-UNet)]
 
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
-[15th Mar., 2023][arXiv, 2023] \
+[15th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.08888)] [[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation)]
 
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
-[10th Mar., 2023][arXiv, 2023] \
+[10th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.06040)] [[Github](https://github.com/mathpluscode/ImgX-DiffSeg)]
 
 **Score-Based Generative Models for Medical Image Segmentation using Signed Distance Functions** \
 *Lea Bogensperger, Dominik Narnhofer, Filip Ilic, Thomas Pock* \
-[10th Mar., 2023][arXiv, 2023] \
+[10th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.05966)]
 
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
