@@ -644,6 +644,11 @@ CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)]
 
 ### Text-to-Image
 
+**Pay Attention: Accuracy Versus Interpretability Trade-off in Fine-tuned Diffusion Models** \
+*Mischa Dombrowski, Hadrien Reynaud, Johanna P. Müller, Matthew Baugh, Bernhard Kainz* \
+[31st Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.17908)] [[Github](https://github.com/MischaD/chest-distillation)]
+
 **Medical diffusion on a budget: textual inversion for medical image generation** \
 *Bram de Wilde, Anindo Saha, Richard P.G. ten Broek, Henkjan Huisman* \
 [23rd Mar., 2023] [arXiv, 2023] \
