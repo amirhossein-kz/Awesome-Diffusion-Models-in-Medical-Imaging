@@ -233,6 +233,12 @@
 
 ### Image-to-Image Translation
 
+
+**Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models** \
+*Yunxiang Li, Hua-Chieh Shao, Xiao Liang, Liyuan Chen, Ruiqi Li, Steve Jiang, Jing Wang, You Zhang* \
+[5th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.02742)] [[Github](https://github.com/Kent0n-Li/FGDM)]
+
 **Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels** \
 *Jan Oscar Cross-Zamirski, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb* \
 [15th Mar., 2023] [arXiv, 2023] \
