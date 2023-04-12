@@ -391,6 +391,11 @@
 
 ### Image Generation
 
+**Mask-conditioned latent diffusion for generating gastrointestinal polyp images** \
+*Roman Macháček, Leila Mozaffari, Zahra Sepasdar, Sravanthi Parasa, Pål Halvorsen, Michael A. Riegler, Vajira Thambawita* \
+[11th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.05233)] [[Github](https://github.com/simulamet-host/conditional-polyp-diffusion)]
+
 **2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
 *Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
