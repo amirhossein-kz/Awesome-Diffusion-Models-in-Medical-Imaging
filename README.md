@@ -159,6 +159,11 @@
 [10th Apr., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2304.04745)] [[Github](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models)]
 
+**BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation** \
+*Tao Chen, Chenhui Wang, Hongming Shan* \
+[10th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.04429)]
+
 **Diffusion Models for Memory-efficient Processing of 3D Medical Images** \
 *Florentin Bieder, Julia Wolleb, Alicia Durrer, Robin Sandkühler, Philippe C. Cattin* \
 [27th Mar., 2023] [MIDL, 2023] \
