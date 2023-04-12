@@ -406,6 +406,11 @@
 [11th Apr., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2304.05233)] [[Github](https://github.com/simulamet-host/conditional-polyp-diffusion)]
 
+**MedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation** \
+*Kun Han, Yifeng Xiong, Chenyu You, Pooya Khosravi, Shanlin Sun, Xiangyi Yan, James Duncan, Xiaohui Xie* \
+[8th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.04106)]
+
 **2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
 *Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
