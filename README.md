@@ -462,6 +462,11 @@
 [14th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.08216)]
 
+**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion** \
+*Zixiang Zhao, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool* \
+[13th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06840)] 
+
 **Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion** \
 *Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew J. Clarkson, Dean C. Barratt, Yipeng Hu* \
 [3rd Mar., 2023] [arXiv, 2023] \
