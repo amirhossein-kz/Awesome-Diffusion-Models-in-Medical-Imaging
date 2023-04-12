@@ -280,17 +280,17 @@
 
 **Sub-volume-based Denoising Diffusion Probabilistic Model for Cone-beam CT Reconstruction from Incomplete Data** \
 *Wenjun Xia, Chuang Niu, Wenxiang Cong, Ge Wang* \
-[22nd Mar., 2023][arXiv, 2023] \
+[22nd Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.12861)]
 
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models** \
 *Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye* \
-[15th Mar., 2023][arXiv, 2023] \
+[15th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.08440)]
 
 **Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition** \
 *Hyungjin Chung, Suhyeon Lee, Jong Chul Ye* \
-[10th Mar., 2023][arXiv, 2023] \
+[10th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.05754)]
 
 **Diffusion Denoising for Low-Dose-CT Model** \
