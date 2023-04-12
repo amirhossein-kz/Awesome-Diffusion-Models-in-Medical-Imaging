@@ -411,6 +411,11 @@
 [8th Apr., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2304.04106)]
 
+**Towards Realistic Ultrasound Fetal Brain Imaging Synthesis** \
+*Michelle Iskandar, Harvey Mannering, Zhanxiang Sun, Jacqueline Matthew, Hamideh Kerdegari, Laura Peralta, Miguel Xochicale* \
+[8th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.03941)] [[Github](https://github.com/budai4medtech/midl2023)] 
+
 **2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model** \
 *Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper* \
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
