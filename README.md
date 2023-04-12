@@ -396,6 +396,11 @@
 [4th Apr., 2023] [Physics in Medicine & Biology, 2023] \
 [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/acca5c/meta)]
 
+**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis** \
+*Xuan Xu, Saarthak Kapse, Rajarsi Gupta, Prateek Prasanna* \
+[3rd Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.01053)]
+
 **DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding** \
 *Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala* \
 [28th Mar., 2023] [arXiv, 2023] \
