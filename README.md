@@ -197,7 +197,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 [19th Jan., 2023] [arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2301.11798)] 
+[[Paper](https://arxiv.org/abs/2301.11798)] [[Github](https://github.com/WuJunde/MedSegDiff)]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -207,7 +207,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 [1st Nov., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2211.00611)] 
+[[Paper](https://arxiv.org/abs/2211.00611)] [[Github](https://github.com/WuJunde/MedSegDiff)]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
