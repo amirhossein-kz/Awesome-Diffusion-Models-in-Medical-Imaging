@@ -277,7 +277,6 @@
 
 ### Reconstruction
 
-
 **SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI** \
 *Zhuo-Xu Cui, Chentao Cao, Jing Cheng, Sen Jia, Hairong Zheng, Dong Liang, Yanjie Zhu* \
 [11th Apr., 2023] [arXiv, 2023] \
@@ -411,6 +410,11 @@
 ---
 
 ### Image Generation
+
+**Denoising Diffusion Medical Models** \
+*Pham Ngoc Huy, Tran Minh Quan* \
+[19th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.09383)] 
 
 **Mask-conditioned latent diffusion for generating gastrointestinal polyp images** \
 *Roman Macháček, Leila Mozaffari, Zahra Sepasdar, Sravanthi Parasa, Pål Halvorsen, Michael A. Riegler, Vajira Thambawita* \
