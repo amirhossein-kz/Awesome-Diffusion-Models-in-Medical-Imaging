@@ -233,7 +233,6 @@
 
 ### Image-to-Image Translation
 
-
 **Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models** \
 *Yunxiang Li, Hua-Chieh Shao, Xiao Liang, Liyuan Chen, Ruiqi Li, Steve Jiang, Jing Wang, You Zhang* \
 [5th Apr., 2023] [arXiv, 2023] \
@@ -277,6 +276,12 @@
 ---
 
 ### Reconstruction
+
+
+**SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI** \
+*Zhuo-Xu Cui, Chentao Cao, Jing Cheng, Sen Jia, Hairong Zheng, Dong Liang, Yanjie Zhu* \
+[11th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.05060)]
 
 **Sub-volume-based Denoising Diffusion Probabilistic Model for Cone-beam CT Reconstruction from Incomplete Data** \
 *Wenjun Xia, Chuang Niu, Wenxiang Cong, Ge Wang* \
