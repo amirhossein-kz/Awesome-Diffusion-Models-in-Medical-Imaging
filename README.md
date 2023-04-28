@@ -400,12 +400,12 @@
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 [8th Oct., 2021] [MIA, 2021]<br>
-[[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)]
+[[Paper](https://arxiv.org/abs/2110.05243)] [[Github](https://github.com/yang-song/score_inverse_problems)]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
 [3rd Aug., 2021] [NeurIPS, 2021]<br>
-[[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/utcsilab/csgm-mri-langevin)]
+[[Paper](https://arxiv.org/abs/2108.01368)] [[Github](https://github.com/utcsilab/csgm-mri-langevin)]
 
 ---
 
@@ -559,7 +559,7 @@
 **Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
 *Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao* \
 [22nd Apr., 2022] [MIDL, 2022] \
-[[Paper](https://arxiv.org/abs/2206.13295)] [[Github](https://github.com/torchddm/ddm)]
+[[Paper](https://openreview.net/pdf?id=Oz7lKWVh45H)] [[Github](https://github.com/torchddm/ddm)]
 
 ---
 
