@@ -154,6 +154,11 @@
 
 ### Segmentation
 
+**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models** \
+*Shitong Shao, Xiaohan Yuan, Zhen Huang, Ziming Qiu, Shuai Wang, Kevin Zhou* \
+[26th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.13416)] [[Github](https://anonymous.4open.science/r/DiffuseExpand/README.md)]
+
 **Ambiguous Medical Image Segmentation using Diffusion Models** \
 *Aimon Rahman, Jeya Maria Jose Valanarasu, Ilker Hacihaliloglu, Vishal M Patel* \
 [10th Apr., 2023] [arXiv, 2023] \
