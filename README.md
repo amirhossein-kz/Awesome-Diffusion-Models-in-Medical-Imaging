@@ -154,6 +154,11 @@
 
 ### Segmentation
 
+**Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features** \
+*Nurislam Tursynbek, Marc Niethammer* \
+[28th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.00067)]
+
 **DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models** \
 *Shitong Shao, Xiaohan Yuan, Zhen Huang, Ziming Qiu, Shuai Wang, Kevin Zhou* \
 [26th Apr., 2023] [arXiv, 2023] \
@@ -237,6 +242,11 @@
 ---
 
 ### Image-to-Image Translation
+
+**Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis** \
+*Shaoyan Pan, Chih-Wei Chang, Junbo Peng, Jiahan Zhang, Richard L.J. Qiu, Tonghe Wang, Justin Roper, Tian Liu, Hui Mao, Xiaofeng Yang* \
+[28th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.00042)]
 
 **Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models** \
 *Yunxiang Li, Hua-Chieh Shao, Xiao Liang, Liyuan Chen, Ruiqi Li, Steve Jiang, Jing Wang, You Zhang* \
@@ -415,6 +425,11 @@
 ---
 
 ### Image Generation
+
+**High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model** \
+*Xuan Zhao, Benjamin Hou* \
+[2nd May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.01138)] 
 
 **Denoising Diffusion Medical Models** \
 *Pham Ngoc Huy, Tran Minh Quan* \
