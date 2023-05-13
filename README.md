@@ -30,7 +30,7 @@
 - **First release:** November 14, 2022
 
 ## Contents
-- [Survey Papers in Vision](#survey-papers-in-vision)
+- [Survey Papers](#survey-papers)
 
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
@@ -50,7 +50,52 @@
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
   
-## Survey Papers in Vision
+## Survey Papers
+
+**Diffusion Models for Time Series Applications: A Survey** \
+*Lequan Lin, Zhengkun Li, Ruikun Li, Xuliang Li, Junbin Gao* \
+[1st May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.00624)]
+
+**A Comprehensive Survey on Knowledge Distillation of Diffusion Models** \
+*Weijian Luo* \
+[9th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.04262)] 
+
+**A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material** \
+*Mengchun Zhang, Maryam Qamar, Taegoo Kang, Yuna Jung, Chenshuang Zhang, Sung-Ho Bae, Chaoning Zhang* \
+[4th Apr., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2304.01565)] 
+
+**Audio Diffusion Model for Speech Synthesis: A Survey on Text To Speech and Speech Enhancement in Generative AI** \
+*Chenshuang Zhang, Chaoning Zhang, Sheng Zheng, Mengchun Zhang, Maryam Qamar, Sung-Ho Bae, In So Kweon* \
+[23th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.13336)] 
+
+**Diffusion Models in NLP: A Survey** \
+*Yuansong Zhu, Yu Zhao* \
+[14th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.07576)] 
+
+**Text-to-image Diffusion Model in Generative AI: A Survey** \
+*Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon* \
+[14th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.07909)] 
+
+**Diffusion Models for Non-autoregressive Text Generation: A Survey** \
+*Yifan Li, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen* \
+[12th Mar., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2303.06574)] 
+
+**Diffusion Models in Bioinformatics: A New Wave of Deep Learning Revolution in Action** \
+*Zhiye Guo, Jian Liu, Yanli Wang, Mengrui Chen, Duolin Wang, Dong Xu, Jianlin Cheng* \
+[13th Feb., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2302.10907)] \
+
+**Generative Diffusion Models on Graphs: Methods and Applications** \
+*Wenqi Fan, Chengyi Liu, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li* \
+[6th Feb., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2302.02591)] 
 
 **Diffusion Models for Medical Image Analysis: A Comprehensive Survey** \
 *Amirhossein Kazerouni, Ehsan Khodapanah Aghdam, Moein Heidari, Reza Azad, Mohsen Fayyaz, Ilker Hacihaliloglu, Dorit Merhof* \
