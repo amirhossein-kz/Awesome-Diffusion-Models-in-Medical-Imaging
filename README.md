@@ -8,11 +8,15 @@
 :loudspeaker: Our survey paper published on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
 #### Citation
 ```
-@article{kazerouni2022diffusion,
-  title={Diffusion models for medical image analysis: A comprehensive survey},
-  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
-  journal={arXiv preprint arXiv:2211.07804},
-  year={2022}
+@article{KAZEROUNI2023102846,
+  title = {Diffusion models in medical imaging: A comprehensive survey},
+  journal = {Medical Image Analysis},
+  pages = {102846},
+  year = {2023},
+  issn = {1361-8415},
+  doi = {https://doi.org/10.1016/j.media.2023.102846},
+  url = {https://www.sciencedirect.com/science/article/pii/S1361841523001068},
+  author = {Amirhossein Kazerouni and Ehsan Khodapanah Aghdam and Moein Heidari and Reza Azad and Mohsen Fayyaz and Ilker Hacihaliloglu and Dorit Merhof}
 }
 ```
 
