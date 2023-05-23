@@ -7,7 +7,7 @@
 
 :loudspeaker: Our survey paper published on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
 #### Citation
-```
+```python
 @article{KAZEROUNI2023102846,
   title = {Diffusion models in medical imaging: A comprehensive survey},
   journal = {Medical Image Analysis},
