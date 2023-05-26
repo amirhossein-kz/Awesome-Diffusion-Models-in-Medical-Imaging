@@ -203,6 +203,11 @@
 
 ### Segmentation
 
+**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model** \
+*Fenghe Tang, Jianrui Ding, Lingtao Wang, Min Xian, Chunping Ning* \
+[16th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.09447)] [[Github](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)]
+
 **Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features** \
 *Nurislam Tursynbek, Marc Niethammer* \
 [28th Apr., 2023] [arXiv, 2023] \
@@ -480,10 +485,25 @@
 
 ### Image Generation
 
+**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images** \
+*Muhammad Usman Akbar, Wuhao Wang, Anders Eklund* \
+[12th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.07644)]
+
+**Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models** \
+*Sojung Go, Younghoon Ji, Sang Jun Park, Soochahn Lee* \
+[11th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.06813)]
+
 **Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation** \
 *David Stojanovski, Uxio Hermida, Pablo Lamata, Arian Beqiri, Alberto Gomez* \
 [9th May, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2305.05424)] [[Github](https://github.com/david-stojanovski/echo_from_noise)] 
+
+**Synthesizing PET images from High-field and Ultra-high-field MR images Using Joint Diffusion Attention Model** \
+*Taofeng Xie, Chentao Cao, Zhuoxu Cui, Yu Guo, Caiying Wu, Xuemei Wang, Qingneng Li, Zhanli Hu, Tao Sun, Ziru Sang, Yihang Zhou, Yanjie Zhu, Dong Liang, Qiyu Jin, Guoqing Chen, Haifeng Wang* \
+[6th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.03901)]
 
 **High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model** \
 *Xuan Zhao, Benjamin Hou* \
