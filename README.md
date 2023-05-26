@@ -5,7 +5,9 @@
 
 :fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging:fire::fire:
 
-:loudspeaker: Our survey paper published on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
+- Our survey paper on MedIA: [Diffusion Models in Medical Imaging: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1361841523001068) :heart:
+- Our survey paper on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
+
 #### Citation
 ```python
 @article{KAZEROUNI2023102846,
