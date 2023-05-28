@@ -10,15 +10,13 @@
 
 #### Citation
 ```python
-@article{KAZEROUNI2023102846,
-  title = {Diffusion models in medical imaging: A comprehensive survey},
-  journal = {Medical Image Analysis},
-  pages = {102846},
-  year = {2023},
-  issn = {1361-8415},
-  doi = {https://doi.org/10.1016/j.media.2023.102846},
-  url = {https://www.sciencedirect.com/science/article/pii/S1361841523001068},
-  author = {Amirhossein Kazerouni and Ehsan Khodapanah Aghdam and Moein Heidari and Reza Azad and Mohsen Fayyaz and Ilker Hacihaliloglu and Dorit Merhof}
+@article{kazerouni2023diffusion,
+  title={Diffusion models in medical imaging: A comprehensive survey},
+  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
+  journal={Medical Image Analysis},
+  pages={102846},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
