@@ -130,6 +130,11 @@
 
 ### Anomaly Detection
 
+**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
+*Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
+[31st May, 2023][arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2305.19867)] [[Github](https://github.com/hasan1292/mDDPM)]
+
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
 *Cosmin I Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel* \
 [15th Mar., 2023] [arXiv, 2023]<br>
