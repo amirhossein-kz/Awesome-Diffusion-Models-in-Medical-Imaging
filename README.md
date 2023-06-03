@@ -208,6 +208,11 @@
 
 ### Segmentation
 
+**Semi-supervised Brain Tumor Segmentation Using Diffusion Models** \
+*Ahmed Alshenoudy, Bertram Sabrowsky-Hirsch, Stefan Thumfart, Michael Giretzlehner, Erich Kobler* \
+[1st Jun., 2023] [AIAI, 2023] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-34111-3_27)] [[Github](https://github.com/risc-mi/braintumor-ddpm)]
+
 **Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model** \
 *Fenghe Tang, Jianrui Ding, Lingtao Wang, Min Xian, Chunping Ning* \
 [16th May, 2023] [arXiv, 2023] \
