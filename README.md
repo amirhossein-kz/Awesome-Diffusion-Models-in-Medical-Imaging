@@ -495,6 +495,16 @@
 
 ### Image Generation
 
+**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis** \
+*Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao* \
+[29th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.18453)]
+
+**Diffusion Models for Realistic CT Image Generation** \
+*Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester * \
+[31th May, 2023] [KES, 2023] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-3311-2_30)]
+
 **Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images** \
 *Muhammad Usman Akbar, Wuhao Wang, Anders Eklund* \
 [12th May, 2023] [arXiv, 2023] \
