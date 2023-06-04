@@ -130,6 +130,11 @@
 
 ### Anomaly Detection
 
+**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models** \
+*Cosmin I. Bercea, Michael Neumayr, Daniel Rueckert, Julia A. Schnabel* \
+[31st May, 2023][arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2305.19643)]
+
 **Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
 *Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
 [31st May, 2023][arXiv, 2023]<br>
