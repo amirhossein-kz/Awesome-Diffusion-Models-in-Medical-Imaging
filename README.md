@@ -184,6 +184,11 @@
 
 ### Denoising
 
+**A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising** \
+*Xuan Liu, Yaoqin Xie, Songhui Diao, Shan Tan, Xiaokun Liang* \
+[25th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.15887)]
+
 **CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization** \
 *Qi Gao, Zilong Li, Junping Zhang, Yi Zhang, Hongming Shan* \
 [4th Apr., 2023] [arXiv, 2023] \
@@ -767,7 +772,7 @@
 **Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles** \
 *Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan* \
 [2nd May, 2023] [arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2305.01165)] [[Github](https://github.com/yuanzhengthu/handDrawnPAAImages)]
+[[Paper](https://arxiv.org/abs/2305.01165)] [[GitHub](https://github.com/yuanzhengthu/handDrawnPAAImages)]
 
 **DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution** \
 *Ye Mao, Lan Jiang, Xi Chen, Chao Li* \
@@ -777,6 +782,11 @@
 ---
 
 ### Adversarial Attacks
+
+**On enhancing the robustness of Vision Transformers: Defensive Diffusion** \
+*Raza Imam, Muhammad Huzaifa, Mohammed El-Amine Azz* \
+[14th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.08031)] [[GitHub](https://github.com/Muhammad-Huzaifaa/Defensive_Diffusion)]
 
 **Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism** \
 *Yongwei Wang, Yuan Li, Zhiqi Shen* \
