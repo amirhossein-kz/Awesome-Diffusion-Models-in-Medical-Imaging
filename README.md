@@ -500,6 +500,11 @@
 
 ### Image Generation
 
+**Diffusion Models for Realistic CT Image Generation** \
+*Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester * \
+[31th May, 2023] [KES, 2023] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-3311-2_30)]
+
 **Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data** \
 *Muhammad Danyal Malik, Danish Humair* \
 [30th May, 2023] [arXiv, 2023] \
@@ -510,10 +515,10 @@
 [29th May, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2305.18453)]
 
-**Diffusion Models for Realistic CT Image Generation** \
-*Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester * \
-[31th May, 2023] [KES, 2023] \
-[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-3311-2_30)]
+**GenerateCT: Text-Guided 3D Chest CT Generation** \
+*Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Alperen Tezcan, Ayse Gulnihan Simsek, Furkan Almas, Sevval Nil Esirgun, Hadrien Reynaud, Sarthak Pati, Christian Bluethgen, Bjoern Menze* \
+[25th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.16037)] [[Github](https://github.com/ibrahimethemhamamci/GenerateCT)] 
 
 **Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images** \
 *Muhammad Usman Akbar, Wuhao Wang, Anders Eklund* \
