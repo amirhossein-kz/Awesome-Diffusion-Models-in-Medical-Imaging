@@ -500,6 +500,11 @@
 
 ### Image Generation
 
+**Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data** \
+*Muhammad Danyal Malik, Danish Humair* \
+[30th May, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2305.18927)] [[Github](https://github.com/mdanyalmalik/chest-xray-synthesis)] 
+
 **Conditional Diffusion Models for Semantic 3D Medical Image Synthesis** \
 *Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao* \
 [29th May, 2023] [arXiv, 2023] \
