@@ -218,6 +218,11 @@
 
 ### Segmentation
 
+**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models** \
+*Muhammad Usman Akbar, Måns Larsson, and Anders Eklund* \
+[5th Jun., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.02986)]
+
 **Semi-supervised Brain Tumor Segmentation Using Diffusion Models** \
 *Ahmed Alshenoudy, Bertram Sabrowsky-Hirsch, Stefan Thumfart, Michael Giretzlehner, Erich Kobler* \
 [1st Jun., 2023] [AIAI, 2023] \
