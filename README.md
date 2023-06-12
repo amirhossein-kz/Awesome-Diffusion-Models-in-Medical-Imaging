@@ -21,16 +21,9 @@
 ```
 
 ## Updates
-- **Third release:** Soon!
+- **Third release:** June 3, 2023
 - :sunglasses: April 8, 2023: Our paper is accepted for publication in the **Medical Image Analysis Journal (IF: 13.83)** :sunglasses:
 - **Second release:** March 29, 2023
-  - Corrected mistakes and fixed typos
-  - Reorganized all sections 
-  - Improved "Introduction"
-  - Changed the "Taxonomy" section to "Theory" and provided a new taxonomy for algorithms
-  - Expanded and provided more comprehensive discussion in "Clinical importance," "Comparative overview," and "Future direction open challenges" sections
-  - Added some new papers in the "Diffusion Models in Action" section
-  - Updated references
 - **First release:** November 14, 2022
 
 ## Contents
