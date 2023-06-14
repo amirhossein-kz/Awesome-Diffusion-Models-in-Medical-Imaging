@@ -238,7 +238,7 @@
 
 **Ambiguous Medical Image Segmentation using Diffusion Models** \
 *Aimon Rahman, Jeya Maria Jose Valanarasu, Ilker Hacihaliloglu, Vishal M Patel* \
-[10th Apr., 2023] [arXiv, 2023] \
+[10th Apr., 2023] [CVPR, 2023] \
 [[Paper](https://arxiv.org/abs/2304.04745)] [[Github](https://github.com/aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models)]
 
 **BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation** \
