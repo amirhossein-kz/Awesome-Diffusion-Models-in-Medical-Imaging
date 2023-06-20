@@ -211,6 +211,11 @@
 
 ### Segmentation
 
+**Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models** \
+*Tomer Amit, Shmuel Shichrur, Tal Shaharbany, and Lior Wolf* \
+[15th Jun., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.09004)] [[Github](https://github.com/tomeramit/annotator-consensus-prediction)]
+
 **Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models** \
 *Muhammad Usman Akbar, Måns Larsson, and Anders Eklund* \
 [5th Jun., 2023] [arXiv, 2023] \
