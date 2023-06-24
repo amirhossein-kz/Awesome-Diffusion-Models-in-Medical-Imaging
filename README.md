@@ -369,6 +369,11 @@
 
 ### Reconstruction
 
+**DiffuseIR: Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images** \
+*Mingjie Pan, Yulu Gan, Fangxu Zhou, Jiaming Liu, Aimin Wang, Shanghang Zhang, Dawei Li* \
+[21st June., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.12109)]
+
 **Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data** \
 *Asad Aali, Marius Arvinte, Sidharth Kumar, Jonathan I. Tamir* \
 [2nd May., 2023] [arXiv, 2023] \
