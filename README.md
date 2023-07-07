@@ -513,6 +513,11 @@
 
 ### Image Generation
 
+**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
+*Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
+[3th July, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.01148)]
+
 **Diffusion Models for Realistic CT Image Generation** \
 *Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester * \
 [31th May, 2023] [KES, 2023] \
