@@ -519,7 +519,7 @@
 [[Paper](https://arxiv.org/abs/2307.01148)]
 
 **Diffusion Models for Realistic CT Image Generation** \
-*Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester * \
+*Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester* \
 [31th May, 2023] [KES, 2023] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-3311-2_30)]
 
