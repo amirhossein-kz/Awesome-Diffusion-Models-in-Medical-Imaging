@@ -741,7 +741,7 @@
 **Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
 *Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao* \
 [22nd Apr., 2022] [MIDL, 2022] \
-[[Paper](https://openreview.net/pdf?id=Oz7lKWVh45H)] [[Github](https://github.com/torchddm/ddm)]
+[[Paper](https://openreview.net/pdf?id=Oz7lKWVh45H)] [[Github](https://github.com/DL-Circle/3D-DDPM)]
 
 ---
 
