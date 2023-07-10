@@ -177,6 +177,11 @@
 
 ### Denoising
 
+**Deep Ultrasound Denoising Using Diffusion Probabilistic Models** \
+*Hojat Asgariandehkordi, Sobhan Goudarzi, Adrian Basarab, Hassan Rivaz* \
+[12th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.07440)]
+
 **A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising** \
 *Xuan Liu, Yaoqin Xie, Songhui Diao, Shan Tan, Xiaokun Liang* \
 [25th May, 2023] [arXiv, 2023] \
