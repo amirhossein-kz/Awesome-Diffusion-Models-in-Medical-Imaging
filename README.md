@@ -737,6 +737,11 @@
 
 ### Text-to-Image
 
+**TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models** \
+*Se-In Jang, Cristina Lois, Emma Thibault, J. Alex Becker, Yafei Dong, Marc D. Normandin, Julie C. Price, Keith A. Johnson, Georges El Fakhri, Kuang Gong* \
+[21st Jun., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.11984)] 
+
 **Pay Attention: Accuracy Versus Interpretability Trade-off in Fine-tuned Diffusion Models** \
 *Mischa Dombrowski, Hadrien Reynaud, Johanna P. Müller, Matthew Baugh, Bernhard Kainz* \
 [31st Mar., 2023] [arXiv, 2023] \
