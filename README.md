@@ -528,15 +528,25 @@
 
 ### Image Generation
 
-**Aligning Synthetic Medical Images with Clinical Knowledge using Human Feedback** \
-*Shenghuan Sun, Gregory M. Goldgof, Atul Butte, Ahmed M. Alaa* \
-[16th July, 2023] [arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2306.12438)]
-
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
 *Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
 [3rd July, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.01148)]
+
+**DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets** \
+*Hyun-Jic Oh, Won-Ki Jeong* \
+[25th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.14132)]
+
+**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology** \
+*Marco Aversa, Gabriel Nobis, Miriam Hägele, Kai Standvoss, Mihaela Chirica, Roderick Murray-Smith, Ahmed Alaa, Lukas Ruff, Daniela Ivanova, Wojciech Samek, Frederick Klauschen, Bruno Sanguinetti, Luis Oala* \
+[23th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.13384)]
+
+**Aligning Synthetic Medical Images with Clinical Knowledge using Human Feedback** \
+*Shenghuan Sun, Gregory M. Goldgof, Atul Butte, Ahmed M. Alaa* \
+[16th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.12438)]
 
 **Diffusion Models for Realistic CT Image Generation** \
 *Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester* \
