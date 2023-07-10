@@ -374,6 +374,11 @@
 [21st June., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.12109)]
 
+**Optimizing Sampling Patterns for Compressed Sensing MRI with Diffusion Generative Models** \
+*Sriram Ravula, Brett Levac, Ajil Jalal, Jonathan I. Tamir, Alexandros G. Dimakis* \
+[5th June., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.03284)] [[Github](https://github.com/Sriram-Ravula/MRI_Sampling_Diffusion)]
+
 **Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data** \
 *Asad Aali, Marius Arvinte, Sidharth Kumar, Jonathan I. Tamir* \
 [2nd May., 2023] [arXiv, 2023] \
@@ -754,6 +759,11 @@
 ---
 
 ### Classification
+
+**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder** \
+*Ayodeji Ijishakin, Ahmed Abdulaal, Adamos Hadjivasiliou, Sophie Martin, James Cole* \
+[5th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.03022)]
 
 **DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification** \
 *Yijun Yang, Huazhu Fu, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Lei Zhu* \
