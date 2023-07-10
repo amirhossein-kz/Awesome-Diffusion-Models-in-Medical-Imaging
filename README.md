@@ -528,9 +528,14 @@
 
 ### Image Generation
 
+**Aligning Synthetic Medical Images with Clinical Knowledge using Human Feedback** \
+*Shenghuan Sun, Gregory M. Goldgof, Atul Butte, Ahmed M. Alaa* \
+[16th July, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.12438)]
+
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
 *Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
-[3th July, 2023] [arXiv, 2023] \
+[3rd July, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.01148)]
 
 **Diffusion Models for Realistic CT Image Generation** \
