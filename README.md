@@ -675,7 +675,7 @@
 
 **Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model** \
 *Wei Peng, Ehsan Adeli, Qingyu Zhao, Kilian M Pohl* \
-[15th Dec., 2022] [arXiv, 2022] \
+[15th Dec., 2022] [MICCAI, 2023] \
 [[Paper](https://arxiv.org/abs/2212.08034)] 
 
 **SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation** \
