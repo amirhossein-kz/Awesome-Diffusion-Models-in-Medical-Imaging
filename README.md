@@ -528,6 +528,11 @@
 
 ### Image Generation
 
+**DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI** \
+*Hasan A. Bedel, Tolga C¸ ukur* \
+[18th July, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.09547)] [[Github](https://github.com/icon-lab/DreaMR)]
+
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
 *Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
 [3rd July, 2023] [arXiv, 2023] \
