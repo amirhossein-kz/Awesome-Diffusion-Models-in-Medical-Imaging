@@ -218,6 +218,11 @@
 
 ### Segmentation
 
+**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification** \
+*Héctor Carrión, Narges Norouzi* \
+[15th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.11654)] [[Github](https://github.com/hectorcarrion/fedd)]
+
 **Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models** \
 *Tomer Amit, Shmuel Shichrur, Tal Shaharbany, and Lior Wolf* \
 [15th Jun., 2023] [arXiv, 2023] \
