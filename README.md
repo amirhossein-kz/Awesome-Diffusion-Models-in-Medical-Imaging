@@ -40,8 +40,10 @@
   - [Registration](#registration)
   - [Classification](#classification)
   - [Object Detection](#object-detection)
-  - [Inpainting](#inpainting)
-  - [Super Resolution](#super-resolution)
+  - [Image Restoration](#image-restoration)
+    - [Inpainting](#inpainting)
+    - [Super Resolution](#super-resolution)
+    - [Enhancement](#enhancement)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Time Series](#time-series)
   - [Other Applications](#other-applications)
@@ -533,6 +535,11 @@
 [18th July, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.09547)] [[Github](https://github.com/icon-lab/DreaMR)]
 
+**Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane** \
+*Kun Han, Shanlin Sun, Xiaohui Xie* \
+[4th July, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.01957)]
+
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
 *Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
 [3rd July, 2023] [arXiv, 2023] \
@@ -815,8 +822,8 @@
 [[Paper](https://arxiv.org/abs/2303.06500)] [[Github](https://github.com/ibrahimethemhamamci/HierarchicalDet)]
 
 ---
-
-### Inpainting
+### Image Restoration
+#### Inpainting
 
 **Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report** \
 *Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Mana Moassefi, Sanaz Vahdati, Bradley J. Erickson* \
@@ -825,7 +832,7 @@
 
 ---
 
-### Super Resolution
+#### Super Resolution
 
 **Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles** \
 *Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan* \
@@ -837,6 +844,16 @@
 [24th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.13933)]
 
+---
+
+#### Enhancement
+
+**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** \
+*Long Bai, Tong Chen, Yanan Wu, An Wang, Mobarakol Islam, Hongliang Ren* \
+[5th July, 2023] [arXiv, 20223 \
+[[Paper](https://arxiv.org/abs/2307.02452)] [[GitHub](https://github.com/longbai1006/LLCaps)]
+
+---
 ---
 
 ### Adversarial Attacks
@@ -864,6 +881,11 @@
 
 ### Multi-task
 
+**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling** \
+*Li Sanqian, Higashita Risa, Fu Huazhu, Li Heng, Niu Jingxuan, Liu Jiang* \
+[30th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.17717)]
+
 **Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** \
 *Giammarco La Barbera, Haithem Boussaid, Francesco Maso, Sabine Sarnacki, Laurence Rouet, Pietro Gori, Isabelle Bloch* \
 [4th Oct., 2022] [BMVC, 2022] \
@@ -882,6 +904,11 @@
 ---
 
 ### Other Applications
+
+**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy** \
+*Yiwen Zhang, Chuanpu Li, Liming Zhong, Zeli Chen, Wei Yang, Xuetao Wang* \
+[28th June, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2306.16324)]
 
 **Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading** \
 *Matthias Keicher, Matan Atad, David Schinz, Alexandra S. Gersing, Sarah C. Foreman, Sophia S. Goller, Juergen Weissinger, Jon Rischewski, Anna-Sophia Dietrich, Benedikt Wiestler, Jan S. Kirschke, Nassir Navab* \
