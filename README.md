@@ -381,14 +381,19 @@
 
 ### Reconstruction
 
+**Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency** \
+*Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen* \
+[16th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.08123)]
+
 **DiffuseIR: Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images** \
 *Mingjie Pan, Yulu Gan, Fangxu Zhou, Jiaming Liu, Aimin Wang, Shanghang Zhang, Dawei Li* \
-[21st June., 2023] [arXiv, 2023] \
+[21st Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.12109)]
 
 **Optimizing Sampling Patterns for Compressed Sensing MRI with Diffusion Generative Models** \
 *Sriram Ravula, Brett Levac, Ajil Jalal, Jonathan I. Tamir, Alexandros G. Dimakis* \
-[5th June., 2023] [arXiv, 2023] \
+[5th Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.03284)] [[Github](https://github.com/Sriram-Ravula/MRI_Sampling_Diffusion)]
 
 **Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data** \
@@ -530,34 +535,39 @@
 
 ### Image Generation
 
+**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis** \
+*Lingting Zhu, Zeyue Xue, Zhenchao Jin, Xian Liu, Jingzhen He, Ziwei Liu, Lequan Yu* \
+[19th Jul., 2023] [arXiv, 2023] \
+[[Paper]()] [[Github](https://arxiv.org/abs/2307.10094)]
+
 **DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI** \
 *Hasan A. Bedel, Tolga C¸ ukur* \
-[18th July, 2023] [arXiv, 2023] \
+[18th Jul., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.09547)] [[Github](https://github.com/icon-lab/DreaMR)]
 
 **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane** \
 *Kun Han, Shanlin Sun, Xiaohui Xie* \
-[4th July, 2023] [arXiv, 2023] \
+[4th July. 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.01957)]
 
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis** \
 *Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
-[3rd July, 2023] [arXiv, 2023] \
+[3rd July. 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.01148)]
 
 **DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets** \
 *Hyun-Jic Oh, Won-Ki Jeong* \
-[25th June, 2023] [arXiv, 2023] \
+[25th Jun. 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.14132)]
 
 **DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology** \
 *Marco Aversa, Gabriel Nobis, Miriam Hägele, Kai Standvoss, Mihaela Chirica, Roderick Murray-Smith, Ahmed Alaa, Lukas Ruff, Daniela Ivanova, Wojciech Samek, Frederick Klauschen, Bruno Sanguinetti, Luis Oala* \
-[23th June, 2023] [arXiv, 2023] \
+[23th Jun. 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.13384)]
 
 **Aligning Synthetic Medical Images with Clinical Knowledge using Human Feedback** \
 *Shenghuan Sun, Gregory M. Goldgof, Atul Butte, Ahmed M. Alaa* \
-[16th June, 2023] [arXiv, 2023] \
+[16th Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.12438)]
 
 **Diffusion Models for Realistic CT Image Generation** \
@@ -802,9 +812,14 @@
 
 ### Classification
 
+**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models** \
+*Romain Hardy, Cornelia Ilin, Joe Klepich, Ryan Mitchell, Steve Hall, Jericho Villareal* \
+[13th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.06507)]
+
 **Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder** \
 *Ayodeji Ijishakin, Ahmed Abdulaal, Adamos Hadjivasiliou, Sophie Martin, James Cole* \
-[5th June, 2023] [arXiv, 2023] \
+[5th Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.03022)]
 
 **DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification** \
@@ -904,9 +919,14 @@
 
 ### Other Applications
 
+**Unsupervised 3D out-of-distribution detection with latent diffusion models** \
+*Mark S. Graham, Walter Hugo Lopez Pinaya, Paul Wright, Petru-Daniel Tudosiu, Yee H. Mah, James T. Teo, H. Rolf Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
+[7th Jul., 2023] [MICCAI, 2023] \ 
+[[Paper](https://arxiv.org/abs/2307.03777)] [[GitHub](https://github.com/marksgraham/ddpm-ood)]
+
 **DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy** \
 *Yiwen Zhang, Chuanpu Li, Liming Zhong, Zeli Chen, Wei Yang, Xuetao Wang* \
-[28th June, 2023] [arXiv, 2023] \
+[28th Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.16324)]
 
 **Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading** \
