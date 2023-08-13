@@ -135,14 +135,19 @@
 
 ### Anomaly Detection
 
+**Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
+*Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
+[3rd Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
+
 **Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models** \
 *Cosmin I. Bercea, Michael Neumayr, Daniel Rueckert, Julia A. Schnabel* \
-[31st May, 2023][arXiv, 2023]<br>
+[31st May, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2305.19643)]
 
 **Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
 *Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
-[31st May, 2023][arXiv, 2023]<br>
+[31st May, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2305.19867)] [[Github](https://github.com/hasan1292/mDDPM)]
 
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
@@ -227,6 +232,16 @@
 ---
 
 ### Segmentation
+
+**DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation** \
+*Afshin Bozorgpour, Yousef Sadegheih, Amirhossein Kazerouni, Reza Azad, Dorit Merhof* \
+[5th Aug., 2023] [MICCAI Workshop, 2023] \
+[[Paper](https://arxiv.org/abs/2308.02959)] [[Github](https://github.com/mindflow-institue/DermoSegDiff)]
+
+**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
+*Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, Jong Chul Ye* \
+[31st Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2308.00193)]
 
 **Pre-Training with Diffusion models for Dental Radiography Segmentation** \
 *Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au* \
