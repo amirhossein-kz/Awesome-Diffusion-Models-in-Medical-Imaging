@@ -51,6 +51,16 @@
   
 ## Survey Papers
 
+**Generative AI for Medical Imaging: extending the MONAI Framework** \
+*Walter H. L. Pinaya, Mark S. Graham, Eric Kerfoot, Petru-Daniel Tudosiu, Jessica Dafflon, Virginia Fernandez, Pedro Sanchez, Julia Wolleb, Pedro F. da Costa, Ashay Patel, Hyungjin Chung, Can Zhao, Wei Peng, Zelong Liu, Xueyan Mei, Oeslle Lucena, Jong Chul Ye, Sotirios A. Tsaftaris, Prerna Dogra, Andrew Feng, Marc Modat, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
+[27th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.15208)] [[Github](https://github.com/Project-MONAI/GenerativeModels)]
+
+**Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review** \
+*Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Su Ruan* \
+[24th Jul., 2023] [Journal of Imaging, 2023] \
+[[Paper](https://arxiv.org/abs/2307.13125)]
+
 **Diffusion Models for Time Series Applications: A Survey** \
 *Lequan Lin, Zhengkun Li, Ruikun Li, Xuliang Li, Junbin Gao* \
 [1st May, 2023] [arXiv, 2023] \
@@ -217,6 +227,11 @@
 ---
 
 ### Segmentation
+
+**Pre-Training with Diffusion models for Dental Radiography Segmentation** \
+*Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au* \
+[26th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.14066)]
 
 **FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification** \
 *Héctor Carrión, Narges Norouzi* \
@@ -807,6 +822,11 @@
 ---
 
 ### Registration
+
+**FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
+*Yi Qin, Xiaomeng Li* \
+[22nd Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2307.12035)] [[Github](https://github.com/xmed-lab/FSDiffReg.git)]
 
 **DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** \
 *Boah Kim, Inhwa Han, Jong Chul Ye* \
