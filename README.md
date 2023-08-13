@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging:fire::fire:
+:fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
 
 - Our survey paper on MedIA: [Diffusion Models in Medical Imaging: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1361841523001068) :heart:
 - Our survey paper on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
@@ -21,6 +21,7 @@
 ```
 
 ## Updates
+- Check out our new paper accepted in MICCAI 2023 PRIME Workshop: [DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation](https://arxiv.org/abs/2308.02959) 🥳
 - **Third release:** June 3, 2023
 - :sunglasses: April 8, 2023: Our paper is accepted for publication in the **Medical Image Analysis Journal (IF: 13.83)** :sunglasses:
 - **Second release:** March 29, 2023
@@ -51,7 +52,7 @@
   
 ## Survey Papers
 
-**Generative AI for Medical Imaging: extending the MONAI Framework** \
+**Generative AI for Medical Imaging: extending the MONAI Framework** :fire: \
 *Walter H. L. Pinaya, Mark S. Graham, Eric Kerfoot, Petru-Daniel Tudosiu, Jessica Dafflon, Virginia Fernandez, Pedro Sanchez, Julia Wolleb, Pedro F. da Costa, Ashay Patel, Hyungjin Chung, Can Zhao, Wei Peng, Zelong Liu, Xueyan Mei, Oeslle Lucena, Jong Chul Ye, Sotirios A. Tsaftaris, Prerna Dogra, Andrew Feng, Marc Modat, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
 [27th Jul., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.15208)] [[Github](https://github.com/Project-MONAI/GenerativeModels)]
@@ -106,9 +107,9 @@
 [6th Feb., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2302.02591)] 
 
-**Diffusion Models for Medical Image Analysis: A Comprehensive Survey** \
+**Diffusion Models in Medical Imaging: A Comprehensive Survey** :fire: \
 *Amirhossein Kazerouni, Ehsan Khodapanah Aghdam, Moein Heidari, Reza Azad, Mohsen Fayyaz, Ilker Hacihaliloglu, Dorit Merhof* \
-[14th Nov., 2022] [arXiv, 2022] \
+[14th Nov., 2022] [MedIA Journal, 2023] \
 [[Paper](https://arxiv.org/abs/2211.07804)]
 
 **Efficient Diffusion Models for Vision: A Survey** \
