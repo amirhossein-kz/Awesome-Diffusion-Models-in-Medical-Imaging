@@ -417,6 +417,11 @@
 
 ### Reconstruction
 
+**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
+*Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
+[4th Aug., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2308.01096)] [[Github](https://github.com/icon-lab/FDB)]
+
 **Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency** \
 *Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen* \
 [16th Jul., 2023] [arXiv, 2023] \
