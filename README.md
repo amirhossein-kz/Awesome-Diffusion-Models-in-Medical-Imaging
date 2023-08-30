@@ -141,6 +141,11 @@
 [3rd Aug, 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
+**SANO: Score-Based Diffusion Model for Anomaly Localization in Dermatology** \
+*Alvaro Gonzalez-Jimenez, Simone Lionetti, Marc Pouly, Alexander A. Navarini* \
+[18th Jun., 2023] [CVPR Workshop, 2023] \
+[paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Gonzalez-Jimenez_SANO_Score-Based_Diffusion_Model_for_Anomaly_Localization_in_Dermatology_CVPRW_2023_paper.html)]
+
 **Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models** \
 *Cosmin I. Bercea, Michael Neumayr, Daniel Rueckert, Julia A. Schnabel* \
 [31st May, 2023] [arXiv, 2023]<br>
