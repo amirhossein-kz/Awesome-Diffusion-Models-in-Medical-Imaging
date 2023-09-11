@@ -62,6 +62,11 @@
 [24th Jul., 2023] [Journal of Imaging, 2023] \
 [[Paper](https://arxiv.org/abs/2307.13125)]
 
+**A Comprehensive Survey on Generative Diffusion Models for Structured Data** \
+*Heejoon Koo, To Eun Kim*
+[7th Jun., 2023] [arXiv, 2023] 
+[[Paper](https://arxiv.org/abs/2306.04139)]
+
 **Diffusion Models for Time Series Applications: A Survey** \
 *Lequan Lin, Zhengkun Li, Ruikun Li, Xuliang Li, Junbin Gao* \
 [1st May, 2023] [arXiv, 2023] \
@@ -936,6 +941,11 @@
 ---
 
 ### Time Series
+
+**A Comprehensive Survey on Generative Diffusion Models for Structured Data** \
+*Heejoon Koo, To Eun Kim*
+[7th Jun., 2023] [arXiv, 2023] 
+[[Paper](https://arxiv.org/abs/2306.04139)]
 
 **Restoration of Time-Series Medical Data with Diffusion Model** \
 *Jiwoon Lee, Cheolsoo Park* \
