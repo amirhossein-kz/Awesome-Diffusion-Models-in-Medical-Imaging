@@ -246,7 +246,7 @@
 
 **Masked Diffusion as Self-supervised Representation Learner** \
 *Zixuan Pan, Jianxu Chen, Yiyu Shi* \
-[27th Aug., 2023] [arXiv, 2023] \
+[10th Aug., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2308.05695)]
 
 **DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation** \
@@ -591,10 +591,20 @@
 
 ### Image Generation
 
+**Augmenting medical image classifiers with synthetic data from latent diffusion models** \
+*Luke W. Sagers, James A. Diao, Luke Melas-Kyriazi, Matthew Groh, Pranav Rajpurkar, Adewole S. Adamson, Veronica Rotemberg, Roxana Daneshjou, Arjun K. Manrai* \
+[23rd Aug., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2308.12453)] 
+
+**Synthetic Augmentation with Large-scale Unconditional Pre-training** \
+*Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue* \
+[8th Aug., 2023] [MICCAI, 2023] \ 
+[[Paper](https://arxiv.org/abs/2308.04020)] [[GitHub](https://github.com/karenyyy/HistoDiffAug)]
+
 **Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis** \
 *Lingting Zhu, Zeyue Xue, Zhenchao Jin, Xian Liu, Jingzhen He, Ziwei Liu, Lequan Yu* \
 [19th Jul., 2023] [arXiv, 2023] \
-[[Paper]()] [[Github](https://arxiv.org/abs/2307.10094)]
+[[Paper](https://arxiv.org/abs/2307.10094)]
 
 **DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI** \
 *Hasan A. Bedel, Tolga C¸ ukur* \
@@ -984,11 +994,6 @@
 ---
 
 ### Other Applications
-
-**Synthetic Augmentation with Large-scale Unconditional Pre-training** \
-*Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue* \
-[8th Aug., 2023] [MICCAI, 2023] \ 
-[[Paper](https://arxiv.org/abs/2308.04020)] [[GitHub](https://github.com/karenyyy/HistoDiffAug)]
 
 **Unsupervised 3D out-of-distribution detection with latent diffusion models** \
 *Mark S. Graham, Walter Hugo Lopez Pinaya, Paul Wright, Petru-Daniel Tudosiu, Yee H. Mah, James T. Teo, H. Rolf Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
