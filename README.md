@@ -244,6 +244,11 @@
 
 ### Segmentation
 
+**Masked Diffusion as Self-supervised Representation Learner** \
+*Zixuan Pan, Jianxu Chen, Yiyu Shi* \
+[27th Aug., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2308.05695)]
+
 **DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation** \
 *Afshin Bozorgpour, Yousef Sadegheih, Amirhossein Kazerouni, Reza Azad, Dorit Merhof* \
 [5th Aug., 2023] [MICCAI Workshop, 2023] \
