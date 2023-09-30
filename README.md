@@ -261,7 +261,7 @@
 
 **FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification** \
 *Héctor Carrión, Narges Norouzi* \
-[15th Jul., 2023] [arXiv, 2023] \
+[21st Jul., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.11654)] [[Github](https://github.com/hectorcarrion/fedd)]
 
 **Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models** \
@@ -979,6 +979,11 @@
 ---
 
 ### Other Applications
+
+**Synthetic Augmentation with Large-scale Unconditional Pre-training** \
+*Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue* \
+[8th Aug., 2023] [MICCAI, 2023] \ 
+[[Paper](https://arxiv.org/abs/2308.04020)] [[GitHub](https://github.com/karenyyy/HistoDiffAug)]
 
 **Unsupervised 3D out-of-distribution detection with latent diffusion models** \
 *Mark S. Graham, Walter Hugo Lopez Pinaya, Paul Wright, Petru-Daniel Tudosiu, Yee H. Mah, James T. Teo, H. Rolf Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
