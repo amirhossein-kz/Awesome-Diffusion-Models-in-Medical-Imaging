@@ -920,6 +920,11 @@
 
 #### Super Resolution
 
+**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model** \
+*Jueqi Wang, Jacob Levman, Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, M. Jorge Cardoso, Razvan Marinescu* \
+[23rd Aug, 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2308.12465)] [[GitHub](https://github.com/BioMedAI-UCSC/InverseSR)]
+
 **Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles** \
 *Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan* \
 [2nd May, 2023] [arXiv, 2023] \
