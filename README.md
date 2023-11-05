@@ -163,7 +163,7 @@
 
 **Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
 *Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
-[31st May, 2023] [arXiv, 2023]<br>
+[31st May, 2023] [MICCAI MLMI Workshop, 2023]<br>
 [[Paper](https://arxiv.org/abs/2305.19867)] [[Github](https://github.com/hasan1292/mDDPM)]
 
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
@@ -183,7 +183,7 @@
 
 **The role of noise in denoising models for anomaly detection in medical images** \
 *Antanas Kascenas, Pedro Sanchez, Patrick Schrempf, Chaoyang Wang, William Clackett, Shadia S. Mikhael, Jeremy P. Voisey, Keith Goatman, Alexander Weir, Nicolas Pugeault, Sotirios A. Tsaftaris, Alison Q. O'Neil* \
-[19th Jan., 2023] [arXiv, 2023] \
+[19th Jan., 2023] [MedIA Journal, 2023] \
 [[Paper](https://arxiv.org/abs/2301.08330)] [[Github](https://github.com/AntanasKascenas/DenoisingAE)]
 
 **What is Healthy? Generative Counterfactual Diffusion for Lesion Localization** \
@@ -237,7 +237,7 @@
 
 **PET image denoising based on denoising diffusion probabilistic models** \
 *Kuang Gong, Keith A. Johnson, Georges El Fakhri, Quanzheng Li, Tinsu Pan* \
-[13th Sep., 2022] [arXiv, 2022] \
+[13th Sep., 2022] [European Journal of Nuclear Medicine and Molecular Imaging, 2022] \
 [[Paper](https://arxiv.org/abs/2209.06167)]
 
 **Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
@@ -281,7 +281,7 @@
 
 **FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification** \
 *Héctor Carrión, Narges Norouzi* \
-[21st Jul., 2023] [arXiv, 2023] \
+[21st Jul., 2023] [MICCAI, 2023] \
 [[Paper](https://arxiv.org/abs/2307.11654)] [[Github](https://github.com/hectorcarrion/fedd)]
 
 **Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models** \
@@ -346,8 +346,8 @@
 
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
-[15th Mar., 2023] [arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2303.08888)] [[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation)]
+[15th Mar., 2023] [ICCV, 2023] \
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)] [[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation)]
 
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
@@ -366,17 +366,17 @@
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
-[11th Nov., 2022] [arXiv, 2022] \
+[11th Nov., 2022] [ISBI, 2023] \
 [[Paper](https://arxiv.org/abs/2211.06150)] 
 
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
-[1st Nov., 2022] [arXiv, 2022] \
+[1st Nov., 2022] [MIDL, 2023] \
 [[Paper](https://arxiv.org/abs/2211.00611)] [[Github](https://github.com/WuJunde/MedSegDiff)]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
-[27th Oct., 2022] [arXiv, 2022] \
+[27th Oct., 2022] [ISBI, 2023] \
 [[Paper](https://arxiv.org/abs/2210.17408)] 
 
 **Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation** \
@@ -415,7 +415,7 @@
 
 **Diffusion Models for Contrast Harmonization of Magnetic Resonance Images** \
 *Alicia Durrer, Julia Wolleb, Florentin Bieder, Tim Sinnecker, Matthias Weigel, Robin Sandkühler, Cristina Granziera, Özgür Yaldizli, Philippe C. Cattin* \
-[14th Mar., 2023] [arXiv, 2023] \
+[14th Mar., 2023] [MIDL, 2023] \
 [[Paper](https://arxiv.org/abs/2303.08189)] 
 
 **Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion** \
@@ -435,7 +435,7 @@
 
 **Unsupervised Medical Image Translation with Adversarial Diffusion Models** \
 *Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur* \
-[17th Jul., 2022] [arXiv, 2022] \
+[17th Jul., 2022] [IEEE TMI Journal, 2022] \
 [[Paper](https://arxiv.org/abs/2207.08208)]
 
 **A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion** \
