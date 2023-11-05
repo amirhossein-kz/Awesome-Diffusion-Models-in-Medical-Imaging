@@ -1,4 +1,4 @@
-# Diffusion Models in Medical Imaging
+# <p align=center>:fire:`Awesome Diffusion Models in Medical Imaging`:fire:</p> # 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -141,6 +141,11 @@
 
 ### Anomaly Detection
 
+**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
+*Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
+[30th Aug, 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
+
 **Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
 *Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
 [3rd Aug, 2023] [arXiv, 2023]<br>
@@ -243,6 +248,16 @@
 ---
 
 ### Segmentation
+
+**Introducing Shape Prior Module in Diffusion Model for Medical Image Segmentation** \
+*Zhiqing Zhang, Guojia Fan, Tianyong Liu, Nan Li, Yuyang Liu, Ziyu Liu, Canwei Dong, Shoujun Zhou* \
+[12th Aug., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2309.05929)]
+
+**A Recycling Training Strategy for Medical Image Segmentation with Diffusion Denoising Models** \
+*Yunguan Fu, Yiwen Li, Shaheer U Saeed, Matthew J Clarkson, Yipeng Hu* \
+[30th Aug., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2308.16355)] [[Github](https://github.com/mathpluscode/ImgX-DiffSeg)]
 
 **Masked Diffusion as Self-supervised Representation Learner** \
 *Zixuan Pan, Jianxu Chen, Yiyu Shi* \
@@ -590,6 +605,16 @@
 ---
 
 ### Image Generation
+
+**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations** \
+*Giada Zingarini, Davide Cozzolino, Riccardo Corvi, Giovanni Poggi, Luisa Verdoliva* \
+[3rd Sep., 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2309.07973)] [[GitHub](https://grip-unina.github.io/M3Dsynth/)]
+
+**ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models** \
+*Yuhao Du, Yuncheng Jiang, Shuangyi Tan, Xusheng Wu, Qi Dou, Zhen Li, Guanbin Li, Xiang Wan* \
+[3rd Sep., 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2309.01111)] [[GitHub](https://github.com/DuYooho/ArSDM)]
 
 **Augmenting medical image classifiers with synthetic data from latent diffusion models** \
 *Luke W. Sagers, James A. Diao, Luke Melas-Kyriazi, Matthew Groh, Pranav Rajpurkar, Adewole S. Adamson, Veronica Rotemberg, Roxana Daneshjou, Arjun K. Manrai* \
@@ -999,6 +1024,11 @@
 ---
 
 ### Other Applications
+
+**Beta quantile regression for robust estimation of uncertainty in the presence of outliers** \
+*Haleh Akrami, Omar Zamzam, Anand Joshi, Sergul Aydore, Richard Leahy* \
+[14th Sep., 2023] [arXiv, 2023] \ 
+[[Paper](https://arxiv.org/abs/2309.07374)] 
 
 **Unsupervised 3D out-of-distribution detection with latent diffusion models** \
 *Mark S. Graham, Walter Hugo Lopez Pinaya, Paul Wright, Petru-Daniel Tudosiu, Yee H. Mah, James T. Teo, H. Rolf Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
