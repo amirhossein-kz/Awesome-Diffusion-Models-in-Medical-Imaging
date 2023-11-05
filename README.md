@@ -52,6 +52,11 @@
   
 ## Survey Papers
 
+**A Comprehensive Review of Generative AI in Healthcare** \
+*Yasin Shokrollahi, Sahar Yarmohammadtoosky, Matthew M. Nikahd, Pengfei Dong, Xianqi Li, Linxia Gu* \
+[24th Jul., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.00795)]
+
 **Generative AI for Medical Imaging: extending the MONAI Framework** :fire: \
 *Walter H. L. Pinaya, Mark S. Graham, Eric Kerfoot, Petru-Daniel Tudosiu, Jessica Dafflon, Virginia Fernandez, Pedro Sanchez, Julia Wolleb, Pedro F. da Costa, Ashay Patel, Hyungjin Chung, Can Zhao, Wei Peng, Zelong Liu, Xueyan Mei, Oeslle Lucena, Jong Chul Ye, Sotirios A. Tsaftaris, Prerna Dogra, Andrew Feng, Marc Modat, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso* \
 [27th Jul., 2023] [arXiv, 2023] \
@@ -606,6 +611,11 @@
 
 ### Image Generation
 
+**MedDiffusion: Boosting Health Risk Prediction via Diffusion-based Data Augmentation** \
+*Yuan Zhong, Suhan Cui, Jiaqi Wang, Xiaochen Wang, Ziyi Yin, Yaqing Wang, Houping Xiao, Mengdi Huai, Ting Wang, Fenglong Ma* \
+[4th Oct., 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2310.02520)]
+
 **M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations** \
 *Giada Zingarini, Davide Cozzolino, Riccardo Corvi, Giovanni Poggi, Luisa Verdoliva* \
 [3rd Sep., 2023] [MICCAI, 2023] \
@@ -860,6 +870,11 @@
 
 ### Text-to-Image
 
+**PIE: Simulating Disease Progression via Progressive Image Editing** \
+*Kaizhao Liang, Xu Cao, Kuei-Da Liao, Tianren Gao, Wenqian Ye, Zhengyu Chen, Jianguo Cao, Tejas Nama, Jimeng Sun* \
+[21st Sep., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2309.11745)] 
+
 **TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models** \
 *Se-In Jang, Cristina Lois, Emma Thibault, J. Alex Becker, Yafei Dong, Marc D. Normandin, Julie C. Price, Keith A. Johnson, Georges El Fakhri, Kuang Gong* \
 [21st Jun., 2023] [arXiv, 2023] \
@@ -1001,6 +1016,11 @@
 
 ### Multi-task
 
+**Application-driven Validation of Posteriors in Inverse Problems** \
+*Tim J. Adler, Jan-Hinrich Nölke, Annika Reinke, Minu Dietlinde Tizabi, Sebastian Gruber, Dasha Trofimova, Lynton Ardizzone, Paul F. Jaeger, Florian Buettner, Ullrich Köthe, Lena Maier-Hein* \
+[18th Sep., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2309.09764)]
+
 **Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling** \
 *Li Sanqian, Higashita Risa, Fu Huazhu, Li Heng, Niu Jingxuan, Liu Jiang* \
 [30th June, 2023] [arXiv, 2023] \
@@ -1024,6 +1044,16 @@
 ---
 
 ### Other Applications
+
+**Reconstruction of Patient-Specific Confounders in AI-based Radiologic Image Interpretation using Generative Pretraining** \
+*Tianyu Han, Laura Žigutytė, Luisa Huck, Marc Huppertz, Robert Siepmann, Yossi Gandelsman, Christian Blüthgen, Firas Khader, Christiane Kuhl, Sven Nebelung, Jakob Kather, Daniel Truhn* \
+[29th Sep., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2309.17123)] [[GitHub](https://github.com/peterhan91/diffchest)] [[Demo](https://colab.research.google.com/drive/1gHWCQxreE1Olo2uQiXfSFSVInmiX85Nn?usp=sharing)]
+
+**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context** \
+*Rucha Deshpande, Muzaffer Özbey, Hua Li, Mark A. Anastasio, Frank J. Brooks* \
+[19th Sep., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2309.10817)]
 
 **Beta quantile regression for robust estimation of uncertainty in the presence of outliers** \
 *Haleh Akrami, Omar Zamzam, Anand Joshi, Sergul Aydore, Richard Leahy* \
@@ -1057,7 +1087,7 @@
 
 **Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement** \
 *Puijin Cheng, Li Lin, Yijin Huang, Huaqing He, Wenhan Luo, Xiaoying Tang* \
-[8th Mar., 2023][arXiv, 2023] \
+[8th Mar., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2303.04603)]
 
 **DiffusionCT: Latent Diffusion Model for CT Image Standardization** \
