@@ -269,6 +269,11 @@
 
 ### Segmentation
 
+**Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
+*Haonan Wang, Xiaomeng Li* \
+[17th Oct., 2023] [NeurIPS, 2023] \
+[[Paper](https://openreview.net/forum?id=NibgkUin5n)] [[Github](https://github.com/xmed-lab/GenericSSL)]
+
 **Certification of Deep Learning Models for Medical Image Segmentation** \
 *Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
 [5th Oct., 2023] [MICCAI, 2023] \
@@ -631,6 +636,11 @@
 
 ### Image Generation
 
+**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model** \
+*Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci* \
+[19th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.12868)]
+
 **Echocardiography video synthesis from end diastolic semantic map via diffusion model** \
 *Phi Nguyen Van, Duc Tran Minh, Hieu Pham Huy, Long Tran Quoc* \
 [11th Oct., 2023] [arXiv, 2023] \
@@ -895,6 +905,11 @@
 
 ### Text-to-Image
 
+**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys** \
+*Yu Gu, Jianwei Yang, Naoto Usuyama, Chunyuan Li, Sheng Zhang, Matthew P. Lungren, Jianfeng Gao, Hoifung Poon* \
+[16th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.10765)]
+
 **MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images** \
 *Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich* \
 [5th Oct., 2023] [arXiv, 2023] \
@@ -1041,6 +1056,11 @@
 ---
 
 ### Time Series
+
+**Reliable Generation of EHR Time Series via Diffusion Models** \
+*Muhang Tian, Bernie Chen, Allan Guo, Shiyi Jiang, Anru R. Zhang* \
+[23rd Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.15290)]
 
 **A Comprehensive Survey on Generative Diffusion Models for Structured Data** \
 *Heejoon Koo, To Eun Kim* \
