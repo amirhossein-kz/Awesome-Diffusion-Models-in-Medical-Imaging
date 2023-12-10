@@ -146,14 +146,29 @@
 
 ### Anomaly Detection
 
+**Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs** \
+*Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[7th Dec., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2310.08654)] [[Github](https://github.com/evihuijben/mood_challenge)]
+
+**Histogram- and Diffusion-Based Medical Out-of-Distribution Detection** \
+*Evi M.C. Huijben, Sina Amirrajab, Josien P.W. Pluim* \
+[12th Oct., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2310.06420)]
+
+**AnoDODE: Anomaly Detection with Diffusion ODE** \
+*Xianyao Hu, Congming Jin* \
+[10th Aug., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2310.06420)]
+
 **Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI** \
 *Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas* \
-[30th Aug, 2023] [arXiv, 2023]<br>
+[30th Aug., 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.16150)] [[Github](https://github.com/ZiyunLiang/MMCCD)]
 
 **Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
 *Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
-[3rd Aug, 2023] [arXiv, 2023]<br>
+[3rd Aug., 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2308.02062)] [[Github](https://github.com/alessandro-f/Dif-fuse)]
 
 **SANO: Score-Based Diffusion Model for Anomaly Localization in Dermatology** \
@@ -253,6 +268,11 @@
 ---
 
 ### Segmentation
+
+**Certification of Deep Learning Models for Medical Image Segmentation** \
+*Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
+[5th Oct., 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2310.03664)] [[Github](https://github.com/othmanela/medical_cert_seg)]
 
 **Introducing Shape Prior Module in Diffusion Model for Medical Image Segmentation** \
 *Zhiqing Zhang, Guojia Fan, Tianyong Liu, Nan Li, Yuyang Liu, Ziyu Liu, Canwei Dong, Shoujun Zhou* \
@@ -611,6 +631,11 @@
 
 ### Image Generation
 
+**Echocardiography video synthesis from end diastolic semantic map via diffusion model** \
+*Phi Nguyen Van, Duc Tran Minh, Hieu Pham Huy, Long Tran Quoc* \
+[11th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.07131)]
+
 **MedDiffusion: Boosting Health Risk Prediction via Diffusion-based Data Augmentation** \
 *Yuan Zhong, Suhan Cui, Jiaqi Wang, Xiaochen Wang, Ziyi Yin, Yaqing Wang, Houping Xiao, Mengdi Huai, Ting Wang, Fenglong Ma* \
 [4th Oct., 2023] [MICCAI, 2023] \
@@ -870,6 +895,16 @@
 
 ### Text-to-Image
 
+**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images** \
+*Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich* \
+[5th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.03559)] [[Github](https://github.com/batmanlab/MedSyn)]
+
+**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts** \
+*Shiyi Du, Xiaosong Wang, Yongyi Lu, Yuyin Zhou, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou* \
+[4th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.02906)]
+
 **PIE: Simulating Disease Progression via Progressive Image Editing** \
 *Kaizhao Liang, Xu Cao, Kuei-Da Liao, Tianren Gao, Wenqian Ye, Zhengyu Chen, Jianguo Cao, Tejas Nama, Jimeng Sun* \
 [21st Sep., 2023] [arXiv, 2023] \
@@ -959,6 +994,11 @@
 ---
 
 #### Super Resolution
+
+**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography** \
+*InChan Hwang, MinJae Woo* \
+[8th Oct, 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.05299)] 
 
 **InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model** \
 *Jueqi Wang, Jacob Levman, Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, M. Jorge Cardoso, Razvan Marinescu* \
