@@ -48,10 +48,16 @@
     - [Enhancement](#enhancement)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Time Series](#time-series)
+  - [Audio](#audio)
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
   
 ## Survey Papers
+
+**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI** \
+*Yuheng Fan, Hanxi Liao, Shiqi Huang, Yimin Luo, Huazhu Fu, Haikun Qi* \
+[18th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.11383)]
 
 **A Comprehensive Review of Generative AI in Healthcare** \
 *Yasin Shokrollahi, Sahar Yarmohammadtoosky, Matthew M. Nikahd, Pengfei Dong, Xianqi Li, Linxia Gu* \
@@ -147,6 +153,11 @@
 
 ### Anomaly Detection
 
+**DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection** \
+*Sergio Naval Marimont, Matthew Baugh, Vasilis Siomos, Christos Tzelepis, Bernhard Kainz, Giacomo Tarroni* \
+[26th Nov., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2311.15453)]
+
 **Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs** \
 *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 [7th Dec., 2023] [arXiv, 2023]<br>
@@ -231,9 +242,14 @@
 
 ### Denoising
 
+**SDDPM: Speckle Denoising Diffusion Probabilistic Models** \
+*Soumee Guha, Scott T. Acton* \
+[17th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.10868)]
+
 **Deep Ultrasound Denoising Using Diffusion Probabilistic Models** \
 *Hojat Asgariandehkordi, Sobhan Goudarzi, Adrian Basarab, Hassan Rivaz* \
-[12th June, 2023] [arXiv, 2023] \
+[12th Jun., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2306.07440)]
 
 **A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising** \
@@ -269,6 +285,11 @@
 ---
 
 ### Segmentation
+
+**Robust semi-supervised segmentation with timestep ensembling diffusion models** \
+*Margherita Rosnati, Melanie Roschewitz, Ben Glocker* \
+[13th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.07421)] 
 
 **A 3D generative model of pathological multi-modal MR images and segmentations** \
 *Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Mark S. Graham, Tom Vercauteren, M. Jorge Cardoso* \
@@ -433,6 +454,11 @@
 ---
 
 ### Image-to-Image Translation
+
+**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model** \
+*Yunxiang Li, Hua-Chieh Shao, Xiaoxue Qian, You Zhang* \
+[19th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.12070)]
 
 **Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study** \
 *Jonghun Kim, Hyunjin Park* \
@@ -651,6 +677,21 @@
 ---
 
 ### Image Generation
+
+**Overcoming Pathology Image Data Deficiency: Generating Images from Pathological Transformation Process** \
+*Zeyu Liu, Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang* \
+[21st Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.12316)] [[Github](https://github.com/Rowerliu/ADBD)]
+
+**MAM-E: Mammographic synthetic image generation with diffusion models** \
+*Ricardo Montoya-del-Angel, Karla Sam-Millan, Joan C Vilanova, Robert Martí* \
+[16th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.09822)] [[Github](https://github.com/Likalto4/diffusion-models)]
+
+**Synthetically Enhanced: Unveiling Synthetic Data's Potential in Medical Imaging Research** \
+*Bardia Khosravi, Frank Li, Theo Dapamede, Pouria Rouzrokh, Cooper U. Gamble, Hari M. Trivedi, Cody C. Wyles, Andrew B. Sellergren, Saptarshi Purkayastha, Bradley J. Erickson, Judy W. Gichoya* \
+[15th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.09402)] [[Github](https://github.com/BardiaKh/SyntheticallyEnhanced)]
 
 **Synthesizing Diabetic Foot Ulcer Images with Diffusion Model** \
 *Reza Basiri, Karim Manji, Francois Harton, Alisha Poonja, Milos R. Popovic, Shehroz S. Khan* \
@@ -1107,6 +1148,15 @@
 *Jiwoon Lee, Cheolsoo Park* \
 [6th Oct., 2022] [ICCE-Asia, 2022] \
 [[Paper](https://www.researchgate.net/profile/Jiwoon-Lee-3/publication/363520751_Restoration_of_Time-Series_Medical_Data_with_Diffusion_Model/links/63210895071ea12e362ee672/Restoration-of-Time-Series-Medical-Data-with-Diffusion-Model.pdf)]
+
+---
+
+### Audio
+
+**Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance** \
+*June-Woo Kim, Chihyeon Yoon, Miika Toikkanen, Sangmin Bae, Ho-Young Jung* \
+[11th Nov., 2023] [NeurIPS Workshop, 2023] \
+[[Paper](https://openreview.net/forum?id=z1AVG5LDQ7)] [[GitHub](https://github.com/kaen2891/adversarial_fine-tuning_using_generated_respiratory_sound)]
 
 ---
 
