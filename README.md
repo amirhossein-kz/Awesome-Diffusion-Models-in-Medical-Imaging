@@ -270,6 +270,11 @@
 
 ### Segmentation
 
+**A 3D generative model of pathological multi-modal MR images and segmentations** \
+*Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Mark S. Graham, Tom Vercauteren, M. Jorge Cardoso* \
+[8th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.04552)] [[Github](https://github.com/virginiafdez/brainSPADE3D_rel)]
+
 **Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
 *Haonan Wang, Xiaomeng Li* \
 [17th Oct., 2023] [NeurIPS, 2023] \
@@ -429,6 +434,11 @@
 
 ### Image-to-Image Translation
 
+**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study** \
+*Jonghun Kim, Hyunjin Park* \
+[1st Nov., 2023] [WACV, 2024] \
+[[Paper](https://arxiv.org/abs/2311.00265)] [[Github](https://github.com/jongdory/ALDM/)]
+
 **Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis** \
 *Shaoyan Pan, Chih-Wei Chang, Junbo Peng, Jiahan Zhang, Richard L.J. Qiu, Tonghe Wang, Justin Roper, Tian Liu, Hui Mao, Xiaofeng Yang* \
 [28th Apr., 2023] [arXiv, 2023] \
@@ -477,6 +487,11 @@
 ---
 
 ### Reconstruction
+
+**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography** \
+*Huihui Wang, Guixian Xu, Qingping Zhou* \
+[29th Nov., 2023] [Journal of Inverse and Ill-posed Problems, 2024] \
+[[Paper](https://arxiv.org/abs/2310.15831)] [[Github](https://github.com/adahfbch/DGM-EIT)]
 
 **Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
@@ -636,6 +651,21 @@
 ---
 
 ### Image Generation
+
+**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model** \
+*Reza Basiri, Karim Manji, Francois Harton, Alisha Poonja, Milos R. Popovic, Shehroz S. Khan* \
+[31st Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.20140)]
+
+**MCRAGE: Synthetic Healthcare Data for Fairness** \
+*Keira Behal, Jiayi Chen, Caleb Fikes, Sophia Xiao* \
+[27th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.18430)]
+
+**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation** \
+*Daniel Saragih, Pascal Tyrrell* \
+[25th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.16794)] [[Github](https://github.com/dsaragih/diffuse-gen)]
 
 **EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model** \
 *Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci* \
@@ -974,6 +1004,11 @@
 
 ### Classification
 
+**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles** \
+*Xing Shen, Hengguan Huang, Brennan Nichyporuk, Tal Arbel* \
+[10th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.15952)]
+
 **Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models** \
 *Romain Hardy, Cornelia Ilin, Joe Klepich, Ryan Mitchell, Steve Hall, Jericho Villareal* \
 [13th Jul., 2023] [arXiv, 2023] \
@@ -1076,6 +1111,11 @@
 ---
 
 ### Multi-task
+
+**DDPET-3D: Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging** \
+*Huidong Xie, Weijie Gan, Bo Zhou, Xiongchao Chen, Qiong Liu, Xueqi Guo, Liang Guo, Hongyu An, Ulugbek S. Kamilov, Ge Wang, Chi Liu* \
+[7th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.04248)]
 
 **Application-driven Validation of Posteriors in Inverse Problems** \
 *Tim J. Adler, Jan-Hinrich Nölke, Annika Reinke, Minu Dietlinde Tizabi, Sebastian Gruber, Dasha Trofimova, Lynton Ardizzone, Paul F. Jaeger, Florian Buettner, Ullrich Köthe, Lena Maier-Hein* \
