@@ -153,6 +153,11 @@
 
 ### Anomaly Detection
 
+**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection** \
+*Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin* \
+[18th Mar., 2024] [arXiv, 2024]<br>
+[[Paper](https://arxiv.org/abs/2403.11667)] [[Github](https://github.com/JuliaWolleb/Anomaly_berdif)]
+
 **Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model** \
 *Sangjoon Park, Yong Bae Kim, Jee Suk Chang, Seo Hee Choi, Hyungjin Chung, Ik Jae Lee, Hwa Kyung Byun* \
 [28th Feb., 2024] [arXiv, 2024]<br>
@@ -257,6 +262,11 @@
 
 ### Denoising
 
+**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
+*Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
+[10th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.06069)]
+
 **SDDPM: Speckle Denoising Diffusion Probabilistic Models** \
 *Soumee Guha, Scott T. Acton* \
 [17th Nov., 2023] [arXiv, 2023] \
@@ -300,6 +310,11 @@
 ---
 
 ### Segmentation
+
+**Diffusion and Multi-Domain Adaptation Methods for Eosinophil Segmentation** \
+*Kevin Lin, Donald Brown, Sana Syed, Adam Greene* \
+[17th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.11323)]
 
 **Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation** \
 *Zolnamar Dorjsembe, Hsing-Kuo Pao, Furen Xiao* \
@@ -479,6 +494,11 @@
 ---
 
 ### Image-to-Image Translation
+
+**ContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models** \
+*Yuwen Chen, Nicholas Konz, Hanxue Gu, Haoyu Dong, Yaqian Chen, Lin Li, Jisoo Lee, Maciej A. Mazurowski* \
+[16th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.10786)]
 
 **FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model** \
 *Yunxiang Li, Hua-Chieh Shao, Xiaoxue Qian, You Zhang* \
@@ -712,6 +732,51 @@
 ---
 
 ### Image Generation
+
+**Generative Enhancement for 3D Medical Images** \
+*Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu* \
+[14th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.12852)] [[Github](https://github.com/HKU-MedAI/GEM-3D)]
+
+**XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model** \
+*Anees Ur Rehman Hashmi, Ibrahim Almakky, Mohammad Areeb Qazi, Santosh Sanjeev, Vijay Ram Papineni, Dwarikanath Mahapatra, Mohammad Yaqub* \
+[14th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.09240)] [[Github](https://github.com/BioMedIA-MBZUAI/XReal)]
+
+**Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields** \
+*Ashish Sinha, Ghassan Hamarneh* \
+[13th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.08974)] [[Github](https://github.com/sinashish/TreeDiffusion)]
+
+**Federated Data Model** \
+*Xiao Chen, Shunan Zhang, Eric Z. Chen, Yikang Liu, Lin Zhao, Terrence Chen, Shanhui Sun* \
+[13th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.08887)] 
+
+**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images** \
+*Cristiana Tiago, Sten Roar Snare, Jurica Sprem, Kristin McLeod* \
+[7th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.04612)] 
+
+**MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant** \
+*Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu* \
+[7th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.04290)] 
+
+**An Ordinal Diffusion Model for Generating Medical Images with Different Severity Levels** \
+*Shumpei Takezaki, Seiichi Uchida* \
+[1st Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.00452)] 
+
+**Towards Generalizable Tumor Synthesis** \
+*Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
+[29th Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.19470)] [[Github](https://github.com/MrGiovanni/DiffTumor)] 
+
+**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
+*Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
+[29th Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.19043)] [[Github](https://github.com/pfriedri/wdm-3d)] 
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -1042,6 +1107,11 @@
 
 ### Text-to-Image
 
+**Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning** \
+*Woojung Han, Chanyoung Kim, Dayun Ju, Yumin Shim, Seong Jae Hwang* \
+[11th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.06516)] 
+
 **Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models** \
 *Ayman Abaid, Muhammad Ali Farooq, Niamh Hynes, Peter Corcoran, Ihsan Ullah* \
 [10th Feb., 2024] [arXiv, 2024] \
@@ -1167,6 +1237,11 @@
 
 #### Super Resolution
 
+**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
+*Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
+[10th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.06069)]
+
 **Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography** \
 *InChan Hwang, MinJae Woo* \
 [8th Oct, 2023] [arXiv, 2023] \
@@ -1214,6 +1289,11 @@
 
 ### Time Series
 
+**Time Weaver: A Conditional Time Series Generation Model** \
+*Sai Shankar Narasimhan, Shubhankar Agarwal, Oguzhan Akcin, Sujay Sanghavi, Sandeep Chinchali* \
+[5th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.02682)]
+
 **Risk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples** \
 *Yangming Li, Max Ruiz Luyten, Mihaela van der Schaar* \
 [3rd Feb., 2024] [arXiv, 2024] \
@@ -1246,6 +1326,11 @@
 ---
 
 ### Multi-task
+
+**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
+*Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
+[10th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.06069)]
 
 **DDPET-3D: Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging** \
 *Huidong Xie, Weijie Gan, Bo Zhou, Xiongchao Chen, Qiong Liu, Xueqi Guo, Liang Guo, Hongyu An, Ulugbek S. Kamilov, Ge Wang, Chi Liu* \
@@ -1280,6 +1365,11 @@
 ---
 
 ### Other Applications
+
+**DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation** \
+*Qilong Zhao, Yifei Zhang, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao* \
+[16th Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2403.10831)] [[GitHub](https://github.com/AlexQilong/DUE)]
 
 **Statistical Test for Generated Hypotheses by Diffusion Models** \
 *Teruyuki Katsuoka, Tomohiro Shiraishi, Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi* \
