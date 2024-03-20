@@ -153,6 +153,16 @@
 
 ### Anomaly Detection
 
+**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images** \
+*Rui Xu, Yunke Wang, Bo Du* \
+[19th Jan., 2024] [arXiv, 2024]<br>
+[[Paper](https://arxiv.org/abs/2401.10561)] 
+
+**Unsupervised Anomaly Detection using Aggregated Normative Diffusion** \
+*Alexander Frotscher, Jaivardhan Kapoor, Thomas Wolfers, Christian F. Baumgartner* \
+[4th Dec., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2312.01904)] [[Github](https://github.com/alexanderfrotscher/ANDi)]
+
 **DISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection** \
 *Sergio Naval Marimont, Matthew Baugh, Vasilis Siomos, Christos Tzelepis, Bernhard Kainz, Giacomo Tarroni* \
 [26th Nov., 2023] [arXiv, 2023]<br>
@@ -285,6 +295,11 @@
 ---
 
 ### Segmentation
+
+**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation** \
+*Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
+[19th Dec., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2312.12649)] 
 
 **Robust semi-supervised segmentation with timestep ensembling diffusion models** \
 *Margherita Rosnati, Melanie Roschewitz, Ben Glocker* \
@@ -678,6 +693,26 @@
 
 ### Image Generation
 
+**DDPM based X-ray Image Synthesizer** \
+*Praveen Mahaulpatha, Thulana Abeywardane, Tomson George* \
+[3rd Jan., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2401.01539)]
+
+**Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation** \
+*Nina Weng, Paraskevas Pegios, Aasa Feragen, Eike Petersen, Siavash Bigdeli* \
+[21st Dec., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2312.14223)]
+
+**On the existence of optimal multi-valued decoders and their accuracy bounds for undersampled inverse problems** \
+*Fangxin Shang, Jie Fu, Yehui Yang, Haifeng Huang, Junwei Liu, Lei Ma* \
+[1st Dec., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2312.00377)] [[Github](https://github.com/parap1uie-s/SynFundus-1M)]
+
+**Federated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks** \
+*Ye Lin Tun, Chu Myaet Thwal, Ji Su Yoon, Sun Moo Kang, Chaoning Zhang, Choong Seon Hong* \
+[28th Nov., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2311.16538)]
+
 **Overcoming Pathology Image Data Deficiency: Generating Images from Pathological Transformation Process** \
 *Zeyu Liu, Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang* \
 [21st Nov., 2023] [arXiv, 2023] \
@@ -977,6 +1012,16 @@
 
 ### Text-to-Image
 
+**Navigating the Synthetic Realm: Harnessing Diffusion-based Models for Laparoscopic Text-to-Image Generation** \
+*Simeon Allmendinger, Patrick Hemmer, Moritz Queisner, Igor Sauer, Leopold Müller, Johannes Jakubik, Michael Vössing, Niklas Kühl* \
+[5th Dec., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2312.03043)] [[Github](https://github.com/SimeonAllmendinger/SyntheticImageGeneration)] 
+
+**MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model** \
+*Ling Yang, Zhanyu Wang, Luping Zhou* \
+[4th Dec., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2312.02233)]
+
 **BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys** \
 *Yu Gu, Jianwei Yang, Naoto Usuyama, Chunyuan Li, Sheng Zhang, Matthew P. Lungren, Jianfeng Gao, Hoifung Poon* \
 [16th Oct., 2023] [arXiv, 2023] \
@@ -1134,6 +1179,11 @@
 
 ### Time Series
 
+**Risk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples** \
+*Yangming Li, Max Ruiz Luyten, Mihaela van der Schaar* \
+[3rd Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.02081)]
+
 **Reliable Generation of EHR Time Series via Diffusion Models** \
 *Muhang Tian, Bernie Chen, Allan Guo, Shiyi Jiang, Anru R. Zhang* \
 [23rd Oct., 2023] [arXiv, 2023] \
@@ -1195,6 +1245,26 @@
 ---
 
 ### Other Applications
+
+**Unconditional Latent Diffusion Models Memorize Patient Imaging Data** \
+*Salman Ul Hassan Dar, Marvin Seyfarth, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
+[1st Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2402.01054)] [[GitHub](https://github.com/Warvito/generative_chestxray)]
+
+**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation** \
+*Timur Sattarov, Marco Schreyer, Damian Borth* \
+[11th Jan., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2401.06263)] [[GitHub](https://github.com/sattarov/FedTabDiff)]
+
+**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics** \
+*Ammar A. Siddiqui, Santosh Tirunagari, Tehseen Zia, David Windridge* \
+[2nd Jan., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2401.01414)]
+
+**On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images** \
+*Gauri Bhardwaj, Yuvaraj Govindarajulu, Sundaraparipurnan Narayanan, Pavan Kulkarni, Manojkumar Parmar* \
+[12th Dec., 2023] [arXiv, 2023] \ 
+[[Paper](https://arxiv.org/abs/2312.06979)]
 
 **Reconstruction of Patient-Specific Confounders in AI-based Radiologic Image Interpretation using Generative Pretraining** \
 *Tianyu Han, Laura Žigutytė, Luisa Huck, Marc Huppertz, Robert Siepmann, Yossi Gandelsman, Christian Blüthgen, Firas Khader, Christiane Kuhl, Sven Nebelung, Jakob Kather, Daniel Truhn* \
