@@ -153,6 +153,11 @@
 
 ### Anomaly Detection
 
+**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model** \
+*Sangjoon Park, Yong Bae Kim, Jee Suk Chang, Seo Hee Choi, Hyungjin Chung, Ik Jae Lee, Hwa Kyung Byun* \
+[28th Feb., 2024] [arXiv, 2024]<br>
+[[Paper](https://arxiv.org/abs/2402.18362)] 
+
 **MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images** \
 *Rui Xu, Yunke Wang, Bo Du* \
 [19th Jan., 2024] [arXiv, 2024]<br>
@@ -295,6 +300,11 @@
 ---
 
 ### Segmentation
+
+**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation** \
+*Zolnamar Dorjsembe, Hsing-Kuo Pao, Furen Xiao* \
+[6th Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.04031)] [[Github](https://github.com/mobaidoctor/polyp-ddpm)] 
 
 **Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation** \
 *Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
@@ -529,6 +539,16 @@
 
 ### Reconstruction
 
+**U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model** \
+*Ziqi Gao, S. Kevin Zhou* \
+[16th Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2402.10609)]
+
+**Hyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model** \
+*Matthew A. Chan, Maria J. Molina, Christopher A. Metzler* \
+[5th Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2402.03478)]
+
 **A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography** \
 *Huihui Wang, Guixian Xu, Qingping Zhou* \
 [29th Nov., 2023] [Journal of Inverse and Ill-posed Problems, 2024] \
@@ -692,6 +712,16 @@
 ---
 
 ### Image Generation
+
+**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
+*Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
+[7th Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.05210)]
+
+**SynthVision -- Harnessing Minimal Input for Maximal Output in Computer Vision Models using Synthetic Image data** \
+*Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Thanveer Ahamed, Dinuka Wijesundara, Prarththanan Sothyrajah* \
+[5th Jan., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.02826)]
 
 **DDPM based X-ray Image Synthesizer** \
 *Praveen Mahaulpatha, Thulana Abeywardane, Tomson George* \
@@ -1012,6 +1042,11 @@
 
 ### Text-to-Image
 
+**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models** \
+*Ayman Abaid, Muhammad Ali Farooq, Niamh Hynes, Peter Corcoran, Ihsan Ullah* \
+[10th Feb., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2402.06969)] 
+
 **Navigating the Synthetic Realm: Harnessing Diffusion-based Models for Laparoscopic Text-to-Image Generation** \
 *Simeon Allmendinger, Patrick Hemmer, Moritz Queisner, Igor Sauer, Leopold Müller, Johannes Jakubik, Michael Vössing, Niklas Kühl* \
 [5th Dec., 2023] [arXiv, 2023] \
@@ -1245,6 +1280,16 @@
 ---
 
 ### Other Applications
+
+**Statistical Test for Generated Hypotheses by Diffusion Models** \
+*Teruyuki Katsuoka, Tomohiro Shiraishi, Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi* \
+[19th Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2402.11789)] [[GitHub](https://github.com/teruyukikatsuoka/DMAD-test)]
+
+**On the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI** \
+*Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite, Carlos Muñoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor* \
+[7th Feb., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2402.05979)]
 
 **Unconditional Latent Diffusion Models Memorize Patient Imaging Data** \
 *Salman Ul Hassan Dar, Marvin Seyfarth, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
