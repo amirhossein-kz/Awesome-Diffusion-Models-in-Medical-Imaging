@@ -22,7 +22,7 @@
 
 ## Updates
 - **Fourth release:** Coming soon!
-- We have now achieved more than 1K stars 🌟—thank you for your support! If you're interested in contributing to this repository, please don't hesitate to send me a message. Thank you!
+- We have now achieved more than 1K stars 🌟—thank you community for your support! If you're interested in contributing to this repository, please don't hesitate to send me a message. Thank you!
 - Check out our new paper accepted in MICCAI 2023 PRIME Workshop: [DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation](https://arxiv.org/abs/2308.02959) 🥳
 - **Third release:** June 3, 2023
 - :sunglasses: April 8, 2023: Our paper is accepted for publication in the **Medical Image Analysis Journal (IF: 13.83)** :sunglasses:
