@@ -118,7 +118,7 @@
 **Diffusion Models in Bioinformatics: A New Wave of Deep Learning Revolution in Action** \
 *Zhiye Guo, Jian Liu, Yanli Wang, Mengrui Chen, Duolin Wang, Dong Xu, Jianlin Cheng* \
 [13th Feb., 2023] [arXiv, 2023] \
-[[Paper](https://arxiv.org/abs/2302.10907)] \
+[[Paper](https://arxiv.org/abs/2302.10907)]
 
 **Generative Diffusion Models on Graphs: Methods and Applications** \
 *Wenqi Fan, Chengyi Liu, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li* \
