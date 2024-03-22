@@ -562,12 +562,12 @@
 
 **U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model** \
 *Ziqi Gao, S. Kevin Zhou* \
-[16th Feb., 2024] [arXiv, 2024] \ 
+[16th Feb., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2402.10609)]
 
 **Hyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model** \
 *Matthew A. Chan, Maria J. Molina, Christopher A. Metzler* \
-[5th Feb., 2024] [arXiv, 2024] \ 
+[5th Feb., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2402.03478)]
 
 **A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography** \
