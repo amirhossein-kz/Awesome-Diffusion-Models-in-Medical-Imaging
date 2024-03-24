@@ -327,6 +327,11 @@
 [19th Dec., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2312.12649)] 
 
+**LSegDiff: A Latent Diffusion Model for Medical Image Segmentation** \
+*Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
+[7th Dec., 2023] [SOICT, 2023] \
+[[Paper](https://scholar.archive.org/work/2brq7udaqbglnfnmy44drkt55i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3628797.3629010)] 
+
 **Robust semi-supervised segmentation with timestep ensembling diffusion models** \
 *Margherita Rosnati, Melanie Roschewitz, Ben Glocker* \
 [13th Nov., 2023] [arXiv, 2023] \
