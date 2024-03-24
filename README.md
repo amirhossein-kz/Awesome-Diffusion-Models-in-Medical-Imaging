@@ -776,7 +776,7 @@
 
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
-[29th Feb., 2024] [arXiv, 2024] \
+[29th Feb., 2024] [CVPR, 2024] \
 [[Paper](https://arxiv.org/abs/2402.19470)] [[Github](https://github.com/MrGiovanni/DiffTumor)] 
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
