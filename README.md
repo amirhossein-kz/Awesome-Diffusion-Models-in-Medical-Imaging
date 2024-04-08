@@ -312,6 +312,11 @@
 
 ### Segmentation
 
+**Analysing Diffusion Segmentation for Medical Images** \
+*Mathias Öttl, Siyuan Mei, Frauke Wilm, Jana Steenpass, Matthias Rübner, Arndt Hartmann, Matthias Beckmann, Peter Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
+[21st Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.11323)]
+
 **Diffusion and Multi-Domain Adaptation Methods for Eosinophil Segmentation** \
 *Kevin Lin, Donald Brown, Sana Syed, Adam Greene* \
 [17th Mar., 2024] [arXiv, 2024] \
@@ -738,6 +743,21 @@
 ---
 
 ### Image Generation
+
+**Paired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models** \
+*Rowan Bradbury, Katherine A. Vallis, Bartlomiej W. Papiez* \
+[26th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.17734)] 
+
+**MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline** \
+*Yasamin Medghalchi, Niloufar Zakariaei, Arman Rahmim, Ilker Hacihaliloglu* \
+[25th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.16335)] 
+
+**LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models** \
+*Hantao Zhang, Jiancheng Yang, Shouhong Wan, Pascal Fua* \
+[21st Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.14066)] [[Github](https://github.com/M3DV/LeFusion)]
 
 **Generative Enhancement for 3D Medical Images** \
 *Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu* \
@@ -1272,9 +1292,19 @@
 
 #### Enhancement
 
+**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models** \
+*Richard Osuala, Daniel Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, Karim Lekadir* \
+[20th Mar, 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.13890)] [[GitHub](https://github.com/RichardObi/ccnet)]
+
+**Step-Calibrated Diffusion for Biomedical Optical Image Restoration** \
+*Yiwei Lyu, Sung Jik Cha, Cheng Jiang, Asadur Chowdury, Xinhai Hou, Edward Harake, Akhil Kondepudi, Christian Freudiger, Honglak Lee, Todd C. Hollon* \
+[20th Mar, 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.13680)] [[GitHub](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]
+
 **LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion** \
 *Long Bai, Tong Chen, Yanan Wu, An Wang, Mobarakol Islam, Hongliang Ren* \
-[5th July, 2023] [arXiv, 20223 \
+[5th July, 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2307.02452)] [[GitHub](https://github.com/longbai1006/LLCaps)]
 
 ---
@@ -1371,6 +1401,11 @@
 ---
 
 ### Other Applications
+
+**QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping** \
+*Zhuang Xiong, Wei Jiang, Yang Gao, Feng Liu, Hongfu Sun* \
+[21st Mar., 2024] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2403.14070)] 
 
 **DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation** \
 *Qilong Zhao, Yifei Zhang, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao* \
