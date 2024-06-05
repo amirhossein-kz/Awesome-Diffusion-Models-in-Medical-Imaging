@@ -744,6 +744,11 @@
 
 ### Image Generation
 
+**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks** \
+*Pooria Ashrafian, Milad Yazdani, Moein Heidari, Dena Shahriari, Ilker Hacihaliloglu* \
+[28th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.19880)] [[Github](https://github.com/Pooria90/DiffEcho)]
+
 **Paired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models** \
 *Rowan Bradbury, Katherine A. Vallis, Bartlomiej W. Papiez* \
 [26th Mar., 2024] [arXiv, 2024] \
@@ -752,7 +757,7 @@
 **MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline** \
 *Yasamin Medghalchi, Niloufar Zakariaei, Arman Rahmim, Ilker Hacihaliloglu* \
 [25th Mar., 2024] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2403.16335)] 
+[[Paper](https://arxiv.org/abs/2403.16335)] [[Github](https://github.com/yasamin-med/MEDDAP)]
 
 **LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models** \
 *Hantao Zhang, Jiancheng Yang, Shouhong Wan, Pascal Fua* \
