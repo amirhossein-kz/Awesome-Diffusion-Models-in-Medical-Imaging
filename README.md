@@ -1605,8 +1605,8 @@
 [26th June] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2406.18375)] 
 
-**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning** \ 
-*Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu* \ 
+**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning** \
+*Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu* \
 [20th June] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2406.14847)]
 
