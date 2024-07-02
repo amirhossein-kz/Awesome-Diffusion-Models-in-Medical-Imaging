@@ -511,6 +511,16 @@
 
 ### Image-to-Image Translation
 
+**Tackling Structural Hallucination in Image Translation with Local Diffusion** \
+*Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander* \
+[9th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.05980)]
+
+**Mitigating analytical variability in fMRI results with style transfer** \
+*Elodie Germani, Elisa Fromont, Camille Maumet* \
+[4th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.03703)]
+
 **ContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models** \
 *Yuwen Chen, Nicholas Konz, Hanxue Gu, Haoyu Dong, Yaqian Chen, Lin Li, Jisoo Lee, Maciej A. Mazurowski* \
 [16th Mar., 2024] [arXiv, 2024] \
@@ -574,6 +584,16 @@
 ---
 
 ### Reconstruction
+
+**Bi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems** \
+*Hossein Askari, Fred Roosta, Hongfu Sun* \
+[4th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.03706)]
+
+**Score-Based Diffusion Models for Photoacoustic Tomography Image Reconstruction** \
+*Sreemanti Dey, Snigdha Saha, Berthy T. Feng, Manxiu Cui, Laure Delisle, Oscar Leong, Lihong V. Wang, Katherine L. Bouman* \
+[30th March] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.00471)]
 
 **U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model** \
 *Ziqi Gao, S. Kevin Zhou* \
@@ -748,6 +768,22 @@
 ---
 
 ### Image Generation
+
+**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery** \
+*Payal Varshney, Adriano Lucieri, Christoph Balada, Andreas Dengel, Sheraz Ahmed* \
+[16th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.10356)]
+
+**MaSkel: A Model for Human Whole-body X-rays Generation from Human Masking Images** \
+*Yingjie Xi, Boyuan Cheng, Jingyao Cai, Jian Jun Zhang, Xiaosong Yang* \
+[13th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.09000)] [[GitHub](https://github.com/2022yingjie/MaSkel
+)]
+
+**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models** \
+*Siyuan Mei, Fuxin Fan, Fabian Wagner, Mareike Thies, Mingxuan Gu, Yipeng Sun, Andreas Maier* \ 
+[4th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.03541)]
 
 **Debiasing Cardiac Imaging with Controlled Latent Diffusion Models** \
 *Grzegorz Skorupko, Richard Osuala, Zuzanna Szafranowska, Kaisar Kushibar, Nay Aung, Steffen E Petersen, Karim Lekadir, Polyxeni Gkontra* \
@@ -1426,6 +1462,21 @@
 ---
 
 ### Other Applications
+
+**RadRotator: 3D Rotation of Radiographs with Diffusion Models** \
+*Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Kellen L. Mulford, Michael J. Taunton, Bradley J. Erickson, Cody C. Wyles* \
+[19th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.13000)] [[Project Page](https://pouriarouzrokh.github.io/RadRotator/)] [[Huggingface](https://huggingface.co/spaces/Pouriarouzrokh/RadRotator)]
+
+**Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models** \
+*Konstantinos Vilouras, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris* \
+[19th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.12920)]
+
+**Guided Discrete Diffusion for Electronic Health Record Generation** \
+*Jun Han, Zixiang Chen, Yongqian Li, Yiwen Kou, Eran Halperin, Robert E. Tillman, Quanquan Gu* \
+[18th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.12314)]
 
 **QSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping** \
 *Zhuang Xiong, Wei Jiang, Yang Gao, Feng Liu, Hongfu Sun* \
