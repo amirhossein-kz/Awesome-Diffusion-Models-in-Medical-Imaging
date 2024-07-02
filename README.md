@@ -55,6 +55,11 @@
   
 ## Survey Papers
 
+**Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
+*Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
+[27th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.18565)]
+
 **A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI** \
 *Yuheng Fan, Hanxi Liao, Shiqi Huang, Yimin Luo, Huazhu Fu, Haikun Qi* \
 [18th Nov., 2023] [arXiv, 2023] \
@@ -744,10 +749,20 @@
 
 ### Image Generation
 
+**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models** \
+*Grzegorz Skorupko, Richard Osuala, Zuzanna Szafranowska, Kaisar Kushibar, Nay Aung, Steffen E Petersen, Karim Lekadir, Polyxeni Gkontra* \
+[28th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.19508)] [[Github](https://github.com/faildeny/debiasing-cardiac-mri)]
+
 **Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks** \
 *Pooria Ashrafian, Milad Yazdani, Moein Heidari, Dena Shahriari, Ilker Hacihaliloglu* \
 [28th Mar., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2403.19880)] [[Github](https://github.com/Pooria90/DiffEcho)]
+
+**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation** \
+*Yongrui Yu, Hanyu Chen, Zitian Zhang, Qiong Xiao, Wenhui Lei, Linrui Dai, Yu Fu, Hui Tan, Guan Wang, Peng Gao, Xiaofan Zhang* \
+[26th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.17770)] 
 
 **Paired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models** \
 *Rowan Bradbury, Katherine A. Vallis, Bartlomiej W. Papiez* \
@@ -773,6 +788,11 @@
 *Anees Ur Rehman Hashmi, Ibrahim Almakky, Mohammad Areeb Qazi, Santosh Sanjeev, Vijay Ram Papineni, Dwarikanath Mahapatra, Mohammad Yaqub* \
 [14th Mar., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2403.09240)] [[Github](https://github.com/BioMedIA-MBZUAI/XReal)]
+
+**TrIND: Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields** \
+*Ashish Sinha, Ghassan Hamarneh* \
+[13th Mar., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2403.08974)] [[Github](https://github.com/sinashish/TreeDiffusion)]
 
 **Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields** \
 *Ashish Sinha, Ghassan Hamarneh* \
