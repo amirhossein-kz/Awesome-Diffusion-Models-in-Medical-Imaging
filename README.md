@@ -317,6 +317,11 @@
 
 ### Segmentation
 
+**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference** \
+*Zhihao Shuai, Yinan Chen, Shunqiang Mao, Yihan Zho, Xiaohong Zhang* \
+[25th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.16474)]
+
 **Analysing Diffusion Segmentation for Medical Images** \
 *Mathias Öttl, Siyuan Mei, Frauke Wilm, Jana Steenpass, Matthias Rübner, Arndt Hartmann, Matthias Beckmann, Peter Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
 [21st Mar., 2024] [arXiv, 2024] \
@@ -1423,6 +1428,11 @@
 ---
 
 ### Multi-task
+
+**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model** \
+*Yushen Xu, Xiaosong Li, Yuchan Jie, Haishu Tan* \
+[26th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.17357)]
 
 **Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
 *Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
