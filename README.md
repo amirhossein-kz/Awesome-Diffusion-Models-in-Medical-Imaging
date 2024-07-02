@@ -31,6 +31,7 @@
 
 ## Contents
 - [Survey Papers](#survey-papers)
+- [Challenge Reports](#challenge-reports)
 
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
@@ -155,6 +156,13 @@
 [2nd Sep., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/pdf/2209.00796)] [[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
 
+## Challenge Reports
+
+**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics** \
+*Rucha Deshpande, Varun A. Kelkar, Dimitrios Gotsis, Prabhat Kc, Rongping Zeng, Kyle J. Myers, Frank J. Brooks, Mark A. Anastasio* \
+[2nd May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.01822)] [[Website](https://www.aapm.org/GrandChallenge/DGM-Image/)]
+
 ## Papers
 
 ### Anomaly Detection
@@ -268,6 +276,11 @@
 
 ### Denoising
 
+**Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data** \
+*Huidong Xie, Weijie Gan, Bo Zhou, Ming-Kai Chen, Michal Kulon, Annemarie Boustani, Benjamin A. Spencer, Reimund Bayerlein, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, Yinchi Zhou, Hui Liu, Liang Guo, Hongyu An, Ulugbek S. Kamilov, Hanzhong Wang, Biao Li, Axel Rominger, Kuangyu Shi, Ge Wang, Ramsey D. Badawi, Chi Liu* \
+[2nd May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.12996)] 
+
 **Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
 *Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
 [10th Mar., 2024] [arXiv, 2024] \
@@ -316,6 +329,16 @@
 ---
 
 ### Segmentation
+
+**CTS: A Consistency-Based Medical Image Segmentation Model** \
+*Kejia Zhang, Lan Zhang, Haiwei Pan, Baolong Yu* \
+[14th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.09056)] [[GitHub](https://github.com/LanHEU/CTS)]
+
+**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI** \
+*Keqiang Fan, Xiaohao Cai, Mahesan Niranjan* \
+[8th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.04974)]
 
 **DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference** \
 *Zhihao Shuai, Yinan Chen, Shunqiang Mao, Yihan Zho, Xiaohong Zhang* \
@@ -516,6 +539,21 @@
 
 ### Image-to-Image Translation
 
+**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
+*Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
+[23rd May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.14802)] [[GitHub](https://github.com/mirthAI/Fast-DDPM)]
+
+**Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation** \
+*Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou* \
+[5th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.12223)]
+
+**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** \
+*Fuat Arslan, Bilal Kabas, Onat Dalmaz, Muzaffer Ozbey, Tolga Çukur* \
+[10th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.06789)] [[GitHub](https://github.com/icon-lab/SelfRDB)]
+
 **Tackling Structural Hallucination in Image Translation with Local Diffusion** \
 *Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander* \
 [9th April] [arXiv, 2024] \
@@ -589,6 +627,11 @@
 ---
 
 ### Reconstruction
+
+**DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models** \
+*Mengxiao Geng, Jiahao Zhu, Xiaolin Zhu, Qiqing Liu, Dong Liang, Qiegen Liu* \
+[9th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.05763)] [[GitHub](https://github.com/yqx7150/DP-MDM)]
 
 **Bi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems** \
 *Hossein Askari, Fred Roosta, Hongfu Sun* \
@@ -773,6 +816,16 @@
 ---
 
 ### Image Generation
+
+**MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis** \
+*Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger* \
+[16th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.09806)]
+
+**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning** \
+*Rafael Elberg, Denis Parra, Mircea Petrache* \
+[2nd May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.01705)] [[GitHub](https://github.com/SugarFreeManatee/Feature-Space-Augmentation-and-Iterated-Learning)]
 
 **Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery** \
 *Payal Varshney, Adriano Lucieri, Christoph Balada, Andreas Dengel, Sheraz Ahmed* \
@@ -1287,6 +1340,11 @@
 
 ### Classification
 
+**Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers** \
+*Palawat Busaranuvong, Emmanuel Agu, Deepak Kumar, Shefalika Gautam, Reza Saadati Fard, Bengisu Tulu, Diane Strong* \
+[1st May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.00858)]
+
 **Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles** \
 *Xing Shen, Hengguan Huang, Brennan Nichyporuk, Tal Arbel* \
 [10th Nov., 2023] [arXiv, 2023] \
@@ -1329,6 +1387,11 @@
 
 #### Super Resolution
 
+**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model** \
+*Yushen Xu, Xiaosong Li, Yuchan Jie, Haishu Tan* \
+[26th April] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2404.17357)]
+
 **Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising** \
 *Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu* \
 [10th Mar., 2024] [arXiv, 2024] \
@@ -1357,6 +1420,11 @@
 ---
 
 #### Enhancement
+
+**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** \
+*Tong Chen, Qingcheng Lyu, Long Bai, Erjian Guo, Huxin Gao, Xiaoxiao Yang, Hongliang Ren, Luping Zhou* \
+[17th May] [MICCAI, 2024] 
+[[Paper](https://arxiv.org/abs/2405.10550)] [[GitHub](https://github.com/DavisMeee/LighTDiff)]
 
 **Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models** \
 *Richard Osuala, Daniel Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, Karim Lekadir* \
