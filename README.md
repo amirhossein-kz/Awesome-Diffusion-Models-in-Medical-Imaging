@@ -56,6 +56,11 @@
   
 ## Survey Papers
 
+**Diffusion Models in Low-Level Vision: A Survey** \
+*Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
+[16th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.11138)] [[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
 [27th Mar., 2024] [arXiv, 2024] \
@@ -330,6 +335,16 @@
 
 ### Segmentation
 
+**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models** \
+*Reza Babaei, Samuel Cheng, Theresa Thai, Shangqing Zhao* \
+[4th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.02653)] 
+
+**Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation** \
+*Hongye Zeng, Ke Zou, Zhihao Chen, Rui Zheng, Huazhu Fu* \
+[25th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.16102)] [[GitHub](https://github.com/zenghy96/Reliable-Source-Approximation)]
+
 **CTS: A Consistency-Based Medical Image Segmentation Model** \
 *Kejia Zhang, Lan Zhang, Haiwei Pan, Baolong Yu* \
 [14th May] [arXiv, 2024] \
@@ -539,6 +554,11 @@
 
 ### Image-to-Image Translation
 
+**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning** \
+*Tingyi Lin, Pengju Lyu, Jie Zhang, Yuqing Wang, Cheng Wang, Jianjun Zhu* \ 
+[19th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.13977)]
+
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
 [23rd May] [arXiv, 2024] \
@@ -627,6 +647,26 @@
 ---
 
 ### Reconstruction
+
+**DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction** \
+*Bowen Song, Jason Hu, Zhaoxu Luo, Jeffrey A. Fessler, Liyue Shen* \
+[14th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.10211)]
+
+**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems** \
+*Jason Hu, Bowen Song, Xiaojian Xu, Liyue Shen, Jeffrey A. Fessler* \
+[4th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.02462)]
+
+**DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised $h$-transform** \
+*Alexander Denker, Francisco Vargas, Shreyas Padhy, Kieran Didi, Simon Mathis, Vincent Dutordoir, Riccardo Barbano, Emile Mathieu, Urszula Julia Komorowska, Pietro Lio* \
+[3rd June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.01781)]
+
+**Reducing the cost of posterior sampling in linear inverse problems via task-dependent score learning** \
+*Fabian Schneider, Duc-Lam Duong, Matti Lassas, Maarten V. de Hoop, Tapio Helin* \
+[24th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.15643)] [[GitHub](https://github.com/FabianSBD/SBD-task-dependent)]
 
 **DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models** \
 *Mengxiao Geng, Jiahao Zhu, Xiaolin Zhu, Qiqing Liu, Dong Liang, Qiegen Liu* \
@@ -816,6 +856,46 @@
 ---
 
 ### Image Generation
+
+**Image Distillation for Safe Data Sharing in Histopathology** \
+*Zhe Li, Bernhard Kainz* \
+[19th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.13536)] [[GitHub](https://github.com/ZheLi2020/InfoDist)]
+
+**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes** \
+*Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Pierre Vera, Su Ruan* \
+[8th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.05421)] [[GitHub](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)]
+
+**U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
+*Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
+[5th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.02918)] [[GitHub](https://github.com/CUHK-AIM-Group/U-KAN)] [[Website](https://yes-ukan.github.io/)] 
+
+**EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
+*Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
+[2nd June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.00808)] [[GitHub](https://github.com/HReynaud/EchoNet-Synthetic)]
+
+**Unsupervised Contrastive Analysis for Salient Pattern Detection using Conditional Diffusion Models** \
+*Cristiano Patrício, Carlo Alberto Barbano, Attilio Fiandrotti, Riccardo Renzulli, Marco Grangetto, Luis F. Teixeira, João C. Neves* \
+[2nd June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.00772)] [[GitHub](https://github.com/CristianoPatricio/unsupervised-contrastive-cond-diff)]
+
+**GenMix: Combining Generative and Mixture Data Augmentation for Medical Image Classification** \
+*Hansang Lee, Haeil Lee, Helen Hong* \ 
+[31st May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.20650)]
+
+**Memory-efficient High-resolution OCT Volume Synthesis with Cascaded Amortized Latent Diffusion Models** \
+*Kun Huang, Xiao Ma, Yuhan Zhang, Na Su, Songtao Yuan, Yong Liu, Qiang Chen, Huazhu Fu* \
+[26th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.16516)] [[GitHub](https://github.com/nicetomeetu21/ca-ldm)]
+
+**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving** \
+*Jia He, Bonan Li, Ge Yang, Ziwen Liu* \
+[24th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.15241)]
 
 **MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis** \
 *Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger* \
@@ -1326,6 +1406,11 @@
 
 ### Registration
 
+**Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization** \
+*Mohammadjavad Matinkia, Nilanjan Ray* \
+[28th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.18684)] [[GitHub](https://github.com/mattkia/SGDIR)]
+
 **FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
 *Yi Qin, Xiaomeng Li* \
 [22nd Jul., 2023] [arXiv, 2023] \
@@ -1378,6 +1463,11 @@
 ### Image Restoration
 #### Inpainting
 
+**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion** \
+*Colin Hansen, Simas Glinskis, Ashwin Raju, Micha Kornreich, JinHyeong Park, Jayashri Pawar, Richard Herzog, Li Zhang, Benjamin Odry* \
+[4th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.02477)]
+
 **Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report** \
 *Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Mana Moassefi, Sanaz Vahdati, Bradley J. Erickson* \
 [21st Oct., 2022] [arXiv, 2022] \
@@ -1421,6 +1511,11 @@
 
 #### Enhancement
 
+**Lightening Anything in Medical Images** \
+*Ben Fei, Yixuan Li, Weidong Yang, Hengjun Gao, Jingyi Xu, Lipeng Ma, Yatian Yang, Pinghong Zhou* \
+[1st June] [arXiv, 2024] \ 
+[[Paper](https://arxiv.org/abs/2406.10236)] [[GitHub](https://github.com/Fayeben/UniMIE)]
+
 **LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion** \
 *Tong Chen, Qingcheng Lyu, Long Bai, Erjian Guo, Huxin Gao, Xiaoxiao Yang, Hongliang Ren, Luping Zhou* \
 [17th May] [MICCAI, 2024] 
@@ -1458,6 +1553,11 @@
 ---
 
 ### Time Series
+
+**Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting** \
+*Yuansan Liu, Sudanthi Wijewickrema, Dongting Hu, Christofer Bester, Stephen O'Leary, James Bailey* \
+[4th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.02827)] 
 
 **Time Weaver: A Conditional Time Series Generation Model** \
 *Sai Shankar Narasimhan, Shubhankar Agarwal, Oguzhan Akcin, Sujay Sanghavi, Sandeep Chinchali* \
@@ -1540,6 +1640,11 @@
 ---
 
 ### Other Applications
+
+**MemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection** \
+*Raman Dutt, Pedro Sanchez, Ondrej Bohdal, Sotirios A. Tsaftaris, Timothy Hospedales* \
+[29th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.19458)]
 
 **RadRotator: 3D Rotation of Radiographs with Diffusion Models** \
 *Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Kellen L. Mulford, Michael J. Taunton, Bradley J. Erickson, Cody C. Wyles* \
