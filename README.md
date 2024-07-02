@@ -49,6 +49,7 @@
     - [Super Resolution](#super-resolution)
     - [Enhancement](#enhancement)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [Fairness](#fairness)
   - [Time Series](#time-series)
   - [Audio](#audio)
   - [Other Applications](#other-applications)
@@ -335,6 +336,16 @@
 
 ### Segmentation
 
+**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process** \ 
+*Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng* \
+[26th June] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2406.18361)] [[GitHub](https://github.com/lin-tianyu/Stable-Diffusion-Seg)]
+
+**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation** \
+*Tingwei Liu, Miao Zhang, Leiye Liu, Jialong Zhong, Shuyao Wang, Yongri Piao, Huchuan Lu* \
+[20th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.14186)] [[GitHub](https://github.com/LiuTingWed/CriDiff)]
+
 **Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models** \
 *Reza Babaei, Samuel Cheng, Theresa Thai, Shangqing Zhao* \
 [4th June] [arXiv, 2024] \
@@ -553,6 +564,11 @@
 ---
 
 ### Image-to-Image Translation
+
+**Soft Masked Mamba Diffusion Model for CT to MRI Conversion** \ 
+*Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang* \
+[22nd June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.15910)] [[GitHub](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]
 
 **Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning** \
 *Tingyi Lin, Pengju Lyu, Jie Zhang, Yuqing Wang, Cheng Wang, Jianjun Zhu* \ 
@@ -856,6 +872,26 @@
 ---
 
 ### Image Generation
+
+**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis** \
+*Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm* \
+[26th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.18375)] 
+
+**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation** \
+*Dunyuan Xu, Xi Wang, Jingyang Zhang, Pheng-Ann Heng* \
+[25th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.18037)] [[GitHub](https://github.com/dyxu-cuhkcse/SMG-Learning)]
+
+**Test-Time Generative Augmentation for Medical Image Segmentation** \
+*Xiao Ma, Yuhui Tao, Yuhan Zhang, Zexuan Ji, Yizhe Zhang, Qiang Chen* \
+[25th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.17608)] [[GitHub](https://github.com/maxiao0234/TTGA)]
+
+**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning** \
+*Noa Cahan, Eyal Klang, Galit Aviram, Yiftach Barash, Eli Konen, Raja Giryes, Hayit Greenspan* \
+[23rd June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.16109)] [[GitHub](https://github.com/NoaCahan/X-ray2CTPA)]
 
 **Image Distillation for Safe Data Sharing in Histopathology** \
 *Zhe Li, Bernhard Kainz* \
@@ -1332,6 +1368,11 @@
 
 ### Text-to-Image
 
+**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning** \ 
+*Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu* \ 
+[20th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.14847)]
+
 **Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning** \
 *Woojung Han, Chanyoung Kim, Dayun Ju, Yumin Shim, Seong Jae Hwang* \
 [11th Mar., 2024] [arXiv, 2024] \
@@ -1424,6 +1465,11 @@
 ---
 
 ### Classification
+
+**Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks** \
+*Zihao Jin, Yingying Fang, Jiahao Huang, Caiwen Xu, Simon Walsh, Guang Yang* \
+[24th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.17173)] [[GitHub](https://github.com/ayanglab/Diff3Dformer)]
 
 **Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers** \
 *Palawat Busaranuvong, Emmanuel Agu, Deepak Kumar, Shefalika Gautam, Reza Saadati Fard, Bengisu Tulu, Diane Strong* \
@@ -1549,6 +1595,35 @@
 *Yongwei Wang, Yuan Li, Zhiqi Shen* \
 [22nd Aug., 2022] [arXiv, 2022] \
 [[Paper](https://arxiv.org/abs/2208.10373)]
+
+---
+
+### Fairness
+
+**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis** \
+*Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm* \
+[26th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.18375)] 
+
+**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning** \ 
+*Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu* \ 
+[20th June] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2406.14847)]
+
+**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models** \
+*Grzegorz Skorupko, Richard Osuala, Zuzanna Szafranowska, Kaisar Kushibar, Nay Aung, Steffen E Petersen, Karim Lekadir, Polyxeni Gkontra* \
+[28th Mar., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2403.19508)] [[Github](https://github.com/faildeny/debiasing-cardiac-mri)]
+
+**MCRAGE: Synthetic Healthcare Data for Fairness** \
+*Keira Behal, Jiayi Chen, Caleb Fikes, Sophia Xiao* \
+[27th Oct., 2023] [arXiv, 2023] \
+[[Paper](https://arxiv.org/abs/2310.18430)]
+
+**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification** \
+*Héctor Carrión, Narges Norouzi* \
+[21st Jul., 2023] [MICCAI, 2023] \
+[[Paper](https://arxiv.org/abs/2307.11654)] [[Github](https://github.com/hectorcarrion/fedd)]
 
 ---
 
