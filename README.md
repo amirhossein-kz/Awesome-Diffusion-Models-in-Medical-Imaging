@@ -702,7 +702,7 @@
 **U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model** \
 *Ziqi Gao, S. Kevin Zhou* \
 [16th Feb., 2024] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2402.10609)]
+[[Paper](https://arxiv.org/abs/2402.10609)] [[GitHub](https://github.com/Z7Gao/MRPD)]
 
 **Hyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model** \
 *Matthew A. Chan, Maria J. Molina, Christopher A. Metzler* \
