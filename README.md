@@ -679,6 +679,11 @@
 [3rd June] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2406.01781)]
 
+**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving** \
+*Jia He, Bonan Li, Ge Yang, Ziwen Liu* \
+[24th May] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2405.15241)]
+
 **Reducing the cost of posterior sampling in linear inverse problems via task-dependent score learning** \
 *Fabian Schneider, Duc-Lam Duong, Matti Lassas, Maarten V. de Hoop, Tapio Helin* \
 [24th May] [arXiv, 2024] \
@@ -927,11 +932,6 @@
 *Kun Huang, Xiao Ma, Yuhan Zhang, Na Su, Songtao Yuan, Yong Liu, Qiang Chen, Huazhu Fu* \
 [26th May] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2405.16516)] [[GitHub](https://github.com/nicetomeetu21/ca-ldm)]
-
-**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving** \
-*Jia He, Bonan Li, Ge Yang, Ziwen Liu* \
-[24th May] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2405.15241)]
 
 **MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis** \
 *Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger* \
