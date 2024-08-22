@@ -934,6 +934,11 @@
 
 ### Image Generation
 
+**Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
+*Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
+[22th Aug., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2405.03328)] [[GitHub](https://github.com/LemuelPuglisi/BrLP)]
+
 **SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis** \
 *Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang* \
 [13th Aug., 2024] [arXiv, 2024] \
