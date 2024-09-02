@@ -291,6 +291,11 @@
 
 ### Denoising
 
+**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model** \
+*Yuxin Zhang, Clément Huneau, Jérôme Idier, Diana Mateus* \
+[17th Jun., 2024] [EUSIPCO] \
+[[Paper](https://arxiv.org/pdf/2403.15316)] [[Github](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]
+
 **Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data** \
 *Huidong Xie, Weijie Gan, Bo Zhou, Ming-Kai Chen, Michal Kulon, Annemarie Boustani, Benjamin A. Spencer, Reimund Bayerlein, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, Yinchi Zhou, Hui Liu, Liang Guo, Hongyu An, Ulugbek S. Kamilov, Hanzhong Wang, Biao Li, Axel Rominger, Kuangyu Shi, Ge Wang, Ramsey D. Badawi, Chi Liu* \
 [2nd May, 2024] [arXiv, 2024] \
@@ -774,6 +779,11 @@
 *Huihui Wang, Guixian Xu, Qingping Zhou* \
 [29th Nov., 2023] [Journal of Inverse and Ill-posed Problems, 2024] \
 [[Paper](https://arxiv.org/abs/2310.15831)] [[Github](https://github.com/adahfbch/DGM-EIT)]
+
+**Ultrasound image reconstruction with denoising diffusion restoration models** \
+*Yuxin Zhang, Clément Huneau, Jérôme Idier, Diana Mateus* \
+[8th Oct., 2023] [MICCAI - DGM4MICCAI] \
+[[Paper](https://arxiv.org/pdf/2307.15990)] [[Github](https://github.com/Yuxin-Zhang-Jasmine/DRUS-v1)]
 
 **Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
