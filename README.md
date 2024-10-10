@@ -185,7 +185,7 @@
 **Diffusion Models with Implicit Guidance for Medical Anomaly Detection** \
 *Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel* \
 [13th Mar., 2024] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2403.08464)] [[GitHub](https://github.com/JuliaWolleb/diffusion-anomaly)]
+[[Paper](https://arxiv.org/abs/2403.08464)] [[GitHub](https://github.com/ci-ber/THOR_DDPM)]
 
 **Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model** \
 *Sangjoon Park, Yong Bae Kim, Jee Suk Chang, Seo Hee Choi, Hyungjin Chung, Ik Jae Lee, Hwa Kyung Byun* \
