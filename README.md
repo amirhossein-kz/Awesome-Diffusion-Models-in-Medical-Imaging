@@ -53,7 +53,7 @@
   - [Audio](#audio)
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
-  - [Multimodal Generation & Reconstruction](#multimodal generation & reconstruction)
+  - [Multimodal Generation & Reconstruction](#multimodal-generation&reconstruction )
 
 ## Survey Papers
 
