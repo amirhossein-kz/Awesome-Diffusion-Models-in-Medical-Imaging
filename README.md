@@ -53,6 +53,7 @@
   - [Audio](#audio)
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
+  - [Multimodal](#multimodal)
 
 ## Survey Papers
 
@@ -1946,3 +1947,9 @@
 *Shizhan Gong, Cheng Chen, Yuqi Gong, Nga Yan Chan, Wenao Ma, Calvin Hoi-Kwan Mak, Jill Abrigo, Qi Dou* \
 [1st Jan., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2301.00409)]
+
+### Multimodal 
+**Multimodal CT Image Synthesis Using Unsupervised Deep Generative Adversarial Networks for Stroke Lesion Segmentation** \
+*Suzhe Wang, Xueying Zhang, Haisheng Hui, Fenglian Li, Zelin Wu* \
+[20th Aug., 2022] [MDPI Electronics]\
+[[Paper](https://www.mdpi.com/2079-9292/11/16/2612)]
