@@ -53,7 +53,7 @@
   - [Audio](#audio)
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
-  - [Multimodal](#multimodal)
+  - [Multimodal Generation/Reconstruction](#multimodal generation/reconstruction)
 
 ## Survey Papers
 
@@ -1948,8 +1948,8 @@
 [1st Jan., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2301.00409)]
 
-### Multimodal 
-**Multimodal CT Image Synthesis Using Unsupervised Deep Generative Adversarial Networks for Stroke Lesion Segmentation** \
-*Suzhe Wang, Xueying Zhang, Haisheng Hui, Fenglian Li, Zelin Wu* \
-[20th Aug., 2022] [MDPI Electronics]\
-[[Paper](https://www.mdpi.com/2079-9292/11/16/2612)]
+### Multimodal Generation/Reconstruction
+**MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction** \
+*Jiaqi Cui, Xinyi Zeng, Pinxian Zeng, Bo Liu, Xi Wu, Jiliu Zhou, Yan Wang* \
+[3rd Oct., 2024] [MICCAI 2024]\
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_45)]
