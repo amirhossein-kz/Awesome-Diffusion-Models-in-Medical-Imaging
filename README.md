@@ -945,6 +945,11 @@
 
 ### Image Generation
 
+**Data Augmentation with Diffusion Models for Colon Polyp Localization on the Low Data Regime: How much real data is enough?** 
+*Adrian Tormos, Blanca Llauradó, Fernando Núñez, Axel Romero, Dario Garcia-Gasulla, Javier Béjar* 
+[28th Nov., 2024] [arXiv, 2024] 
+[[Paper](https://arxiv.org/abs/2411.18926)]
+
 **Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
 *Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
 [22th Aug., 2024] [MICCAI, 2024] \
