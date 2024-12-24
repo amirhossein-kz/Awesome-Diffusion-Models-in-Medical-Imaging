@@ -1212,7 +1212,7 @@
 
 **MedDiffusion: Boosting Health Risk Prediction via Diffusion-based Data Augmentation** \
 *Yuan Zhong, Suhan Cui, Jiaqi Wang, Xiaochen Wang, Ziyi Yin, Yaqing Wang, Houping Xiao, Mengdi Huai, Ting Wang, Fenglong Ma* \
-[4th Oct., 2023] [MICCAI, 2023] \
+[4th Oct., 2023] [SIAM, 2024] \
 [[Paper](https://arxiv.org/abs/2310.02520)]
 
 **M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations** \
