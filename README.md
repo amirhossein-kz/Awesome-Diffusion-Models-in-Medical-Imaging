@@ -615,6 +615,10 @@
 
 ### Image-to-Image Translation
 
+**Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** \
+*Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang* \
+[6th Jul., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2407.05059)] [[GitHub](https://github.com/MICV-yonsei/CT2MRI)]
 
 **Soft Masked Mamba Diffusion Model for CT to MRI Conversion** \
 *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang* \
