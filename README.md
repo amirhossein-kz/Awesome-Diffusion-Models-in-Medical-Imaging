@@ -56,9 +56,14 @@
 
 ## Survey Papers
 
-**A Comprehensive Survey on Diffusion Models and Their Applications** 
-*Md Manjurul Ahsan, Shivakumar Raman, Yingtao Liu, Zahed Siddique* 
-[1st Jul., 2024] [arXiv, 2024] 
+**Foundation Models for Music: A Survey** \
+*Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang* \
+[26th Aug., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2408.14340)] [[GitHub](https://github.com/nicolaus625/FM4Music)] [Music Generation - Music Therapy & Medical Applications]
+
+**A Comprehensive Survey on Diffusion Models and Their Applications** \
+*Md Manjurul Ahsan, Shivakumar Raman, Yingtao Liu, Zahed Siddique* \
+[1st Jul., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2408.10207)]
 
 **Physics-Inspired Generative Models in Medical Imaging: A Review** \
@@ -987,6 +992,11 @@
 
 ### Image Generation
 
+**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis** \
+*Van Phi Nguyen, Tri Nhan Luong Ha, Huy Hieu Pham, Quoc Long Tran* \
+[6th Aug., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2408.03035)] [[GitHub](https://github.com/gungui98/echo-free)]
+
 **Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data** \
 *Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Prarththanan Sothyrajah, Thanveer Ahamed, Dinuka Wijesundara* \
 [25th Jul., 2024] [arXiv, 2024] \
@@ -1552,6 +1562,11 @@
 
 ### Text-to-Image
 
+**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient** \
+*Yanzeng Li, Cheng Zeng, Jinchao Zhang, Jie Zhou, Lei Zou* \
+[22nd Aug., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2408.12236)]
+
 **Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation** \
 *Peng Huang, Xue Gao, Lihong Huang, Jing Jiao, Xiaokang Li, Yuanyuan Wang, Yi Guo* \
 [30 Jun., 2024] [ISBI, 2024] \
@@ -1707,6 +1722,11 @@
 ---
 ### Image Restoration
 #### Inpainting
+
+**FCDM: Sparse-view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models** \
+*Jiaze E, Srutarshi Banerjee, Tekin Bicer, Guannan Wang, Yanfu Zhang, Bin Ren* \
+[26th Aug., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.06714)]
 
 **Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion** \
 *Colin Hansen, Simas Glinskis, Ashwin Raju, Micha Kornreich, JinHyeong Park, Jayashri Pawar, Richard Herzog, Li Zhang, Benjamin Odry* \
