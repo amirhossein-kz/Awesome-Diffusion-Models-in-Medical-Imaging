@@ -634,6 +634,11 @@
 
 ### Image-to-Image Translation
 
+**Cross-conditioned Diffusion Model for Medical Image to Image Translation** 
+*Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu* 
+[12th Sep., 2024] [MICCAI, 2024] 
+[[Paper](https://arxiv.org/abs/2409.08500)]
+
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** \
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang* \
 [6th Jul., 2024] [MICCAI, 2024] \
@@ -991,6 +996,21 @@
 ---
 
 ### Image Generation
+
+**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques** \
+*Davide Clode da Silva, Marina Musse Bernardes, Nathalia Giacomini Ceretta, Gabriel Vaz de Souza, Gabriel Fonseca Silva, Rafael Heitor Bordini, Soraia Raupp Musse* \
+[6th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.04424)]
+
+**Multi-Conditioned Denoising Diffusion Probabilistic Model (mDDPM) for Medical Image Synthesis** \
+*Arjun Krishna, Ge Wang, Klaus Mueller* \
+[6th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.04670)] 
+
+**LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Generation on Limited Dataset** \
+*Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, Yifei Chen, Ruiquan Ge, Changmiao Wang, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab* \
+[1st Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.00726)] [[GitHub](https://github.com/Tinysqua/LPUWF-LDM)]
 
 **Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis** \
 *Van Phi Nguyen, Tri Nhan Luong Ha, Huy Hieu Pham, Quoc Long Tran* \
@@ -1713,6 +1733,11 @@
 ---
 
 ### Object Detection
+
+**LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion** \
+*Maximilian Mueller, Matthias Hein* \
+[2nd Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.01317)] [[GitHub](https://github.com/mueller-mp/logex)]
 
 **Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays** \
 *Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Anjany Sekuboyina, Mustafa Gundogar, Bernd Stadlinger, Albert Mehl, Bjoern Menze* \
