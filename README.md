@@ -187,6 +187,11 @@
 
 ### Anomaly Detection
 
+**MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI** \
+*Vivek Kumar Trivedi, Bheeshm Sharma, P. Balamurugan* \
+[29th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.19623)] [[GitHub](https://github.com/vivekkumartri/MCDDPM)]
+
 **Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection** \
 *Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin* \
 [18th Mar., 2024] [arXiv, 2024]<br>
@@ -753,6 +758,16 @@
 
 ### Reconstruction
 
+**RN-SDEs: Limited-Angle CT Reconstruction with Residual Null-Space Diffusion Stochastic Differential Equations** \
+*Jiaqi Guo, Santiago Lopez-Tapia, Wing Shun Li, Yunnan Wu, Marcelo Carignano, Vadim Backman, Vinayak P. Dravid, Aggelos K. Katsaggelos* \ 
+[20th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.13930)] [[GitHub](https://github.com/GuoJiaqi-1020/RN-SDE)]
+
+**DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)** 
+*Yun Su Jeong, Hye Bin Yoo, Il Yong Chun* \
+[13th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.08850)] [[GitHub] \ (https://www.github.com/intyeger/DX2CT)]
+
 **DiffuX2CT: Diffusion Learning to Reconstruct CT Images from Biplanar X-Rays** \
 *Xuhui Liu, Zhi Qiao, Runkun Liu, Hong Li, Juan Zhang, Xiantong Zhen, Zhen Qian, Baochang Zhang* \
 [18th Jul., 2024] [ECCV, 2025] \
@@ -996,6 +1011,26 @@
 ---
 
 ### Image Generation
+
+**Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification** \ 
+*Xinrui Zhou, Yuhao Huang, Haoran Dou, Shijing Chen, Ao Chang, Jia Liu, Weiran Long, Jian Zheng, Erjiao Xu, Jie Ren, Ruobing Huang, Jun Cheng, Wufeng Xue, Dong Ni* \
+[25th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.17091)]
+
+**Physics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis** \
+*Sven Lüpke, Yousef Yeganeh, Ehsan Adeli, Nassir Navab, Azade Farshad* \
+[20th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.13532)]
+
+**MAISI: Medical AI for Synthetic Imaging** \
+*Pengfei Guo, Can Zhao, Dong Yang, Ziyue Xu, Vishwesh Nath, Yucheng Tang, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
+[13th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.11169)]
+
+**Towards Predicting Temporal Changes in a Patient's Chest X-ray Images based on Electronic Health Records** \
+*Daeun Kyung, Junu Kim, Tackeun Kim, Edward Choi* \
+[11th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.07012)] 
 
 **Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques** \
 *Davide Clode da Silva, Marina Musse Bernardes, Nathalia Giacomini Ceretta, Gabriel Vaz de Souza, Gabriel Fonseca Silva, Rafael Heitor Bordini, Soraia Raupp Musse* \
@@ -1689,6 +1724,16 @@
 ---
 
 ### Classification
+
+**Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification** \ 
+*Xinrui Zhou, Yuhao Huang, Haoran Dou, Shijing Chen, Ao Chang, Jia Liu, Weiran Long, Jian Zheng, Erjiao Xu, Jie Ren, Ruobing Huang, Jun Cheng, Wufeng Xue, Dong Ni* \
+[25th Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.17091)]
+
+**Anisotropic Diffusion Probabilistic Model for Imbalanced Image Classification** \
+*Jingyu Kong, Yuan Guo, Yu Wang, Yuping Duan* \
+[22nd Sep., 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2409.14313)]
 
 **Deep Generative Classification of Blood Cell Morphology** \
 *Simon Deltadahl, Julian Gilbey, Christine Van Laer, Nancy Boeckx, Mathie Leers, Tanya Freeman, Laura Aiken, Timothy Farren, Matthew Smith, Mohamad Zeina, BloodCounts! consortium, Concetta Piazzese, Joseph Taylor, Nicholas Gleadall, Carola-Bibiane Schönlieb, Suthesh Sivapalaratnam, Michael Roberts, Parashkev Nachev* \
