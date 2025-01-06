@@ -1881,6 +1881,11 @@
 
 ### Adversarial Attacks
 
+**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images** \
+*Yasamin Medghalchi, Moein Heidari, Clayton Allard, Leonid Sigal, Ilker Hacihaliloglu* \
+[13th December, 2024] [arXiv, 2024] \
+[[Paper](https://arxiv.org/abs/2412.09910)] [[GitHub](https://github.com/yasamin-med/P2P)]
+
 **On enhancing the robustness of Vision Transformers: Defensive Diffusion** \
 *Raza Imam, Muhammad Huzaifa, Mohammed El-Amine Azz* \
 [14th May, 2023] [arXiv, 2023] \
