@@ -67,6 +67,11 @@
 [09th May, 2025] [arXiv, 2025] \
 [[Paper](http://arxiv.org/abs/2505.07866v1)]
 
+**Diffusion Models in 3D Vision: A Survey** \
+*Zhen Wang, Dongyuan Li, Yaozu Wu, Tianyu He, Jiang Bian, Renhe Jiang* \
+[07th Oct., 2024] [arXiv, 2024] \
+[[Paper](http://arxiv.org/abs/2410.04738v3)]
+
 **Foundation Models for Music: A Survey** \
 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang* \
 [26th Aug., 2024] [arXiv, 2024] \
@@ -1074,10 +1079,45 @@
 [29th Jun., 2025] [arXiv, 2025] \
 [[Paper](http://arxiv.org/abs/2506.23311v1)]
 
+**Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction** \
+*Qinrong Cai, Yu Guan, Zhibo Chen, Dong Liang, Qiuyun Fan, Qiegen Liu* \
+[23th Jun., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2506.18270v1)] [[Github](https://github.com/yqx7150/AMDM)]
+
+**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction** \
+*George Webber, Alexander Hammers, Andrew P. King, Andrew J. Reader* \
+[04th Jun., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2506.03804v1)]
+
+**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data** \
+*Matthew Tivnan, Dufan Wu, Quanzheng Li* \
+[20th Feb., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2502.15064v1)]
+
+**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT** \
+*Matt Y. Cheung, Sophia Zorek, Tucker J. Netherton, Laurence E. Court, Sadeer Al-Kindi, Ashok Veeraraghavan, Guha Balakrishnan* \
+[04th Feb., 2025] [ISBI, 2025] \
+[[Paper](http://arxiv.org/abs/2502.02771v1)]
+
+**Solving Blind Inverse Problems: Adaptive Diffusion Models for Motion-corrected Sparse-view 4DCT** \
+*Antoine De Paepe, Alexandre Bousse, Clémentine Phung-Ngoc, Dimitris Visvikis* \
+[21st Jan., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2501.12249v4)]
+
+**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction** \
+*Lukas Glaszner, Martin Zach* \
+[13th Jan., 2025] [DAGM, 2024] \
+[[Paper](http://arxiv.org/abs/2501.07376v1)]
+
 **A Conditional Diffusion Model for Electrical Impedance Tomography Image Reconstruction** \
 *Shuaikai Shi, Ruiyuan Kang, Panos Liatsis* \
 [22th Dec., 2024] [arXiv, 2024] \
 [[Paper](http://arxiv.org/abs/2412.16979v1)]
+
+**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction** \
+*George Webber, Yuya Mizuno, Oliver D. Howes, Alexander Hammers, Andrew P. King, Andrew J. Reader* \
+[05th Dec., 2024] [IEEE TMI, 2024] \
+[[Paper](http://arxiv.org/abs/2412.04339v2)]
 
 **RN-SDEs: Limited-Angle CT Reconstruction with Residual Null-Space Diffusion Stochastic Differential Equations** \
 *Jiaqi Guo, Santiago Lopez-Tapia, Wing Shun Li, Yunnan Wu, Marcelo Carignano, Vadim Backman, Vinayak P. Dravid, Aggelos K. Katsaggelos* \ 
@@ -1174,6 +1214,11 @@
 [8th Oct., 2023] [DGM4MICCAI, 2023] \
 [[Paper](https://arxiv.org/pdf/2307.15990)] [[Github](https://github.com/Yuxin-Zhang-Jasmine/DRUS-v1)]
 
+**Sequential Diffusion-Guided Deep Image Prior For Medical Image Reconstruction** \
+*Shijun Liang, Ismail Alkhouri, Qing Qu, Rongrong Wang, Saiprasad Ravishankar* \
+[06th Oct., 2024] [ICASSP, 2025] \
+[[Paper](http://arxiv.org/abs/2410.04482v2)]
+
 **Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction** \
 *Riccardo Barbano, Alexander Denker, Hyungjin Chung, Tae Hoon Roh, Simon Arridge, Peter Maass, Bangti Jin, Jong Chul Ye* \
 [28th Aug., 2023] [IEEE TMI, 2023] \
@@ -1183,6 +1228,11 @@
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
 [4th Aug., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2308.01096)] [[Github](https://github.com/icon-lab/FDB)]
+
+**Fast and Stable Diffusion Inverse Solver with History Gradient Update** \
+*Linchao He, Hongyu Yan, Mengting Luo, Hongjie Wu, Kunming Luo, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang, Jiancheng Lv* \
+[22th Jul., 2023] [arXiv, 2023] \
+[[Paper](http://arxiv.org/abs/2307.12070v2)]
 
 **Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency** \
 *Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen* \
@@ -2482,6 +2532,11 @@
 [26th Jul., 2025] [arXiv, 2025] \
 [[Paper](http://arxiv.org/abs/2507.19874v1)]
 
+**Investigating the Feasibility of Patch-based Inference for Generalized Diffusion Priors in Inverse Problems for Medical Images** \
+*Saikat Roy, Mahmoud Mostapha, Radu Miron, Matt Holbrook, Mariappan Nadar* \
+[25th Jan., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2501.15309v2)]
+
 **Lightening Anything in Medical Images** \
 *Ben Fei, Yixuan Li, Weidong Yang, Hengjun Gao, Jingyi Xu, Lipeng Ma, Yatian Yang, Pinghong Zhou* \
 [1st Jun., 2024] [arXiv, 2024] \
@@ -2554,6 +2609,11 @@
 
 ### Fairness
 
+**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis** \
+*Haroui Ma, Francesco Quinzan, Theresa Willem, Stefan Bauer* \
+[28th Apr., 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2504.19621v1)] [[GitHub](https://github.com/Neferpitou3871/AI-Alignment-Medical-Imaging)] 
+
 **FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation** \
 *Yan Luo, Muhammad Osama Khan, Congcong Wen, Muhammad Muneeb Afzal, Titus Fidelis Wuermeling, Min Shi, Yu Tian, Yi Fang, Mengyu Wang* \
 [29th Dec., 2024] [arXiv, 2024] \
@@ -2593,10 +2653,20 @@
 
 ### Time Series
 
+**Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation** \
+*Jianan Li, Yangtao Zhou, Zhifu Zhao, Qinglan Huang, Jian Qi, Xiao He, Hua Chu, Fu Li* \
+[12th May, 2025] [arXiv, 2025] \
+[[Paper](http://arxiv.org/abs/2505.07431v1)]
+
 **Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models** \
 *Mingzhi Chen, Yiyu Gui, Yuqi Su, Yuesheng Zhu, Guibo Luo, Yuchao Yang* \
 [20th Jul., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2407.20253)]
+
+**NODER: Image Sequence Regression Based on Neural Ordinary Differential Equations** \
+*Hao Bai, Yi Hong* \
+[18th Jul., 2024] [arXiv, 2024] \
+[[Paper](http://arxiv.org/abs/2407.13241v1)] [[GitHub](https://github.com/ZedKing12138/NODER-pytorch)]
 
 **SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation** \
 *Sergey Skorik, Aram Avetisyan* \
