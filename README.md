@@ -281,12 +281,12 @@
 **Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs** \
 *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 [7th Dec., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2310.08654)] [[Github](https://github.com/evihuijben/mood_challenge)]
+[[Paper](https://arxiv.org/abs/2310.08654)] [[Github](https://github.com/FinnBehrendt/Conditioned-Diffusion-Models-UAD)]
 
 **Histogram- and Diffusion-Based Medical Out-of-Distribution Detection** \
 *Evi M.C. Huijben, Sina Amirrajab, Josien P.W. Pluim* \
 [12th Oct., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2310.06420)]
+[[Paper](https://arxiv.org/abs/2310.06420)] [[Github](https://github.com/evihuijben/mood_challenge)]
 
 **AnoDODE: Anomaly Detection with Diffusion ODE** \
 *Xianyao Hu, Congming Jin* \
