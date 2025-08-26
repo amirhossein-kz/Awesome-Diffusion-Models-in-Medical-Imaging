@@ -213,6 +213,11 @@
 [31th Oct., 2024] [arXiv, 2024] \
 [[Paper](http://arxiv.org/abs/2410.23834v1)]
 
+**Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection** \
+*Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[03th Oct., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2407.12474)] [[GitHub](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection)]
+
 **CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models** \
 *Ana Lawry Aguila, Ayodeji Ijishakin, Juan Eugenio Iglesias, Tomomi Takenaga, Yukihiro Nomura, Takeharu Yoshikawa, Osamu Abe, Shouhei Hanaoka* \
 [05th Aug., 2025] [arXiv, 2025] \
@@ -247,6 +252,16 @@
 *Vivek Kumar Trivedi, Bheeshm Sharma, P. Balamurugan* \
 [29th Sep., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2409.19623)] [[GitHub](https://github.com/vivekkumartri/MCDDPM)]
+
+**Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection** \
+*Finn Behrendt, Debayan Bhattacharya, Lennart Maack, Julia Krüger, Roland Opfer, Robin Mieling, Alexander Schlaefer* \
+[22nd Aug., 2024] [ISBI, 2024]<br>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10635828)] [[Github](https://github.com/FinnBehrendt/Ensembled-SSIM-for-Unsupervised-Anomaly-Detection)]
+
+**Combining Reconstruction-based Unsupervised Anomaly Detection with Supervised Segmentation for Brain MRIs** \
+*Finn Behrendt, Debayan Bhattacharya, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[6th Jun., 2024] [MIDL, 2024]<br>
+[[Paper](https://openreview.net/forum?id=iWfUcg4FrD)] [[Github](https://github.com/FinnBehrendt/Supervised-Anomaly-Detection-with-Diffusion-Models)]
 
 **Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection** \
 *Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin* \
