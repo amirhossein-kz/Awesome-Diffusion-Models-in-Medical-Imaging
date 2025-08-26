@@ -213,6 +213,11 @@
 [31th Oct., 2024] [arXiv, 2024] \
 [[Paper](http://arxiv.org/abs/2410.23834v1)]
 
+**Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection** \
+*Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[03th Oct., 2024] [MICCAI, 2024] \
+[[Paper](https://arxiv.org/abs/2407.12474)] [[GitHub](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection)]
+
 **CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models** \
 *Ana Lawry Aguila, Ayodeji Ijishakin, Juan Eugenio Iglesias, Tomomi Takenaga, Yukihiro Nomura, Takeharu Yoshikawa, Osamu Abe, Shouhei Hanaoka* \
 [05th Aug., 2025] [arXiv, 2025] \
