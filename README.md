@@ -248,6 +248,11 @@
 [29th Sep., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2409.19623)] [[GitHub](https://github.com/vivekkumartri/MCDDPM)]
 
+**Combining Reconstruction-based Unsupervised Anomaly Detection with Supervised Segmentation for Brain MRIs** \
+*Finn Behrendt, Debayan Bhattacharya, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
+[6th Jun., 2024] [MIDL, 2024]<br>
+[[Paper](https://openreview.net/forum?id=iWfUcg4FrD)] [[Github](https://github.com/FinnBehrendt/Supervised-Anomaly-Detection-with-Diffusion-Models)]
+
 **Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection** \
 *Julia Wolleb, Florentin Bieder, Paul Friedrich, Peter Zhang, Alicia Durrer, Philippe C. Cattin* \
 [18th Mar., 2024] [arXiv, 2024]<br>
