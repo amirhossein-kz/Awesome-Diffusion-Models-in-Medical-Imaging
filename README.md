@@ -54,6 +54,7 @@
   - [Audio](#audio)
   - [Other Applications](#other-applications)
   - [Multi-task](#multi-task)
+  - [Multimodal Generation & Reconstruction](#multimodal-generation&reconstruction)
 
 ## Survey Papers
 
@@ -2979,3 +2980,9 @@
 *Shizhan Gong, Cheng Chen, Yuqi Gong, Nga Yan Chan, Wenao Ma, Calvin Hoi-Kwan Mak, Jill Abrigo, Qi Dou* \
 [1st Jan., 2023] [arXiv, 2023] \
 [[Paper](https://arxiv.org/abs/2301.00409)]
+
+### Multimodal Generation & Reconstruction
+**MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction** \
+*Jiaqi Cui, Xinyi Zeng, Pinxian Zeng, Bo Liu, Xi Wu, Jiliu Zhou, Yan Wang* \
+[3rd Oct., 2024] [MICCAI 2024]\
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_45)]
