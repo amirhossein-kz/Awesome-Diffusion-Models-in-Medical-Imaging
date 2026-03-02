@@ -219,6 +219,11 @@
 [03th Oct., 2024] [MICCAI, 2024] \
 [[Paper](https://arxiv.org/abs/2407.12474)] [[GitHub](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection)]
 
+**WDT-MD: Wavelet Diffusion Transformers for Microaneurysm Detection in Fundus Images** \
+*Yifei Sun, Yuzhi He, Junhao Jia, Jinhong Wang, Ruiquan Ge, Changmiao Wang, Hongxia Xu* \
+[12th Nov., 2025] [AAAI, 2026] \
+[[Paper](https://arxiv.org/abs/2511.08987)] [[GitHub](https://github.com/diaoquesang/WDT-MD)]
+
 **CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models** \
 *Ana Lawry Aguila, Ayodeji Ijishakin, Juan Eugenio Iglesias, Tomomi Takenaga, Yukihiro Nomura, Takeharu Yoshikawa, Osamu Abe, Shouhei Hanaoka* \
 [05th Aug., 2025] [arXiv, 2025] \
@@ -891,6 +896,11 @@
 
 ### Image-to-Image Translation
 
+**GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images** \
+*Yifei Sun, Zhanghao Chen, Hao Zheng, Yuqing Lu, Lixin Duan, Fenglei Fan, Ahmed Elazab, Xiang Wan, Changmiao Wang, Ruiquan Ge* \
+[20th Sep., 2025] [MICCAI, 2025] \
+[[Paper](https://arxiv.org/abs/2508.03357)] [[Github](https://github.com/diaoquesang/GL-LCM)] 
+
 **Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation** \
 *Andrea Moschetto, Lemuel Puglisi, Alec Sargood, Pierluigi Dell'Acqua, Francesco Guarnera, Sebastiano Battiato, Daniele Ravì* \
 [19th Jul., 2025] [arXiv, 2025] \
@@ -900,6 +910,11 @@
 *Sung Ho Kang, Hyun-Cheol Park* \
 [15th Jul., 2025] [arXiv, 2025] \
 [[Paper](http://arxiv.org/abs/2507.11025v1)]
+
+**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models** \
+*Yifei Sun, Zhanghao Chen, Hao Zheng, Wenming Deng, Jin Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang, Ruiquan Ge* \
+[14th Jul., 2025] [JBHI, 2025] \
+[[Paper](https://arxiv.org/abs/2412.15670)] [[Github](https://github.com/diaoquesang/BS-LDM)] 
 
 **Regression is all you need for medical image translation** \
 *Sebastian Rassmann, David Kügler, Christian Ewert, Martin Reuter* \
@@ -990,6 +1005,11 @@
 *Tingyi Lin, Pengju Lyu, Jie Zhang, Yuqing Wang, Cheng Wang, Jianjun Zhu* \
 [19th Jun., 2024] [arXiv, 2024] \
 [[Paper](https://arxiv.org/abs/2406.13977)]
+
+**BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images** \
+*Zhanghao Chen, Yifei Sun, Ruiquan Ge, Wenjian Qin, Cheng Pan, Wenming Deng, Zhou Liu, Wenwen Min, Ahmed Elazab, Xiang Wan, Changmiao Wang* \
+[24th May, 2024] [ISBI, 2024] \
+[[Paper](https://arxiv.org/abs/2311.15328)] [[GitHub](https://github.com/Benny0323/BS-Diff)]
 
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
