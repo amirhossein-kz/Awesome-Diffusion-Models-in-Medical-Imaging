@@ -8,6 +8,7 @@
 - Our survey paper on MedIA: [Diffusion Models in Medical Imaging: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1361841523001068) :heart:
 - Our survey paper on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for medical imaging diffusion model orchestration, automated diagnostic pipeline management, and multi-agent coordination. MIT licensed.
 #### Citation
 ```python
 @article{kazerouni2023diffusion,
